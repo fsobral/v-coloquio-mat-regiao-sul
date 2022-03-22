@@ -5,9 +5,11 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
-remote_theme: DigitaleGesellschaft/jekyll-theme-conference
+remote_theme: DigitaleGesellschaft/jekyll-theme-conference@2.0.0
 
 # Build settings
+
+plugins: jekyll-include-cache
 markdown: kramdown
 sass:
   style: compressed
