@@ -9,7 +9,8 @@ remote_theme: DigitaleGesellschaft/jekyll-theme-conference@2.0.0
 
 # Build settings
 
-plugins: jekyll-include-cache
+plugins:
+  - jekyll-include-cache
 markdown: kramdown
 sass:
   style: compressed
