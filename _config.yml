@@ -3,14 +3,15 @@ preposition: at
 description: >-
   Conference of a random organization on January 1st in Zurich, Switzerland
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://fsobral.github.io/v-coloquio-mat-regiao-sul" # the base hostname & protocol for your site, e.g. https://example.com
 
-remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@2.0.0"
+theme: jekyll-theme-conference
+#remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@2.0.0"
 
 # Build settings
 
-plugins:
-  - jekyll-include-cache
+#plugins:
+#  - jekyll-include-cache
 
 markdown: kramdown
 sass:
