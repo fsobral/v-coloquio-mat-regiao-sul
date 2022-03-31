@@ -1,17 +1,13 @@
-title: Conference 2020
+title: V Colóquio de Matemática da Região Sul
 preposition: at
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
-baseurl: "/v-coloquio-mat-regiao-sul" # the subpath of your site, e.g. /blog
-url: "https://fsobral.github.io/v-coloquio-mat-regiao-sul" # the base hostname & protocol for your site, e.g. https://example.com
+  XX a XX, Universidade Estadual de Maringá, Paraná
+baseurl: "/v-coloquio-mat-regiao-sul"
+url: "https://fsobral.github.io/v-coloquio-mat-regiao-sul"
 
 theme: jekyll-theme-conference
-#remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@2.0.0"
 
 # Build settings
-
-#plugins:
-#  - jekyll-include-cache
 
 markdown: kramdown
 sass:
@@ -58,7 +54,7 @@ defaults:
 conference:
 
   # Language
-  lang: en
+  lang: pt
 
   # Show theme errors:
   show_errors: True
@@ -66,9 +62,9 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: Digital Society Switzerland
-      # img: ''
-      url: 'https://digitale-gesellschaft.ch/'
+      name: V Colóquio de Matemática da Região Sul
+      #img: ''
+      url: 'https://fsobral.github.io/v-coloquio-mat-regiao-sul'
     links:
       - name: Program
         relative_url: /program/
@@ -78,6 +74,12 @@ conference:
         relative_url: /speakers/
       - name: Location
         relative_url: /location/
+      - name: Submissões
+        menu:
+          - name: Minicursos
+            relative_url: /submissoes/minicurso
+          - name: Pôsteres
+            relative_url: /submissoes/poster
       - name: Previous Editions
         menu:
           - name: 2020 (current)
