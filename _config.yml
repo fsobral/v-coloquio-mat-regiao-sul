@@ -66,13 +66,13 @@ conference:
       #img: ''
       url: 'https://fsobral.github.io/v-coloquio-mat-regiao-sul'
     links:
-      - name: Program
+      - name: Programa
         relative_url: /program/
-      - name: Talks
+      - name: Palestras
         relative_url: /talks/
-      - name: Speakers
+      - name: Palestrantes
         relative_url: /speakers/
-      - name: Location
+      - name: Local
         relative_url: /location/
       - name: Submissões
         menu:
@@ -80,14 +80,9 @@ conference:
             relative_url: /submissoes/minicurso
           - name: Pôsteres
             relative_url: /submissoes/poster
-      - name: Previous Editions
-        menu:
-          - name: 2020 (current)
-            disabled: true
-          - name: 2019
-            relative_url: /2019/
-          - name: 2018
-            relative_url: /2018/
+      - name: Inscrições
+        relative_url: /inscricoes/
+      - name: Associe-se à SBM
 
   # Link Preview for Sharing
   link_preview:
