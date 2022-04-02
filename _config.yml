@@ -77,7 +77,7 @@ conference:
       - name: Submissões
         menu:
           - name: Minicursos
-            relative_url: /submissoes/minicurso
+            absolute_url: https://docs.google.com/forms/d/e/1FAIpQLScgq3CFsvY8-xC84AL_8oHD1bHm41IACPnpeiaVImDQ2Usz9Q/viewform?usp=sf_link
           - name: Pôsteres
             relative_url: /submissoes/poster
       - name: Inscrições
@@ -94,8 +94,8 @@ conference:
 
   # Main landing page
   main:
-    # logo:
-    #   img: ''
+#    logo:
+#      img: ''
     links:
       - name: Minicurso
         absolute_url: https://docs.google.com/forms/d/e/1FAIpQLScgq3CFsvY8-xC84AL_8oHD1bHm41IACPnpeiaVImDQ2Usz9Q/viewform?usp=sf_link
