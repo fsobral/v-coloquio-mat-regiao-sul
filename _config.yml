@@ -97,13 +97,15 @@ conference:
     # logo:
     #   img: ''
     links:
-      - name: Program
-        relative_url: /program/
-      - name: How to get there
-        relative_url: /location/
-      - name: Tickets
-        disabled: true
-        absolute_url: ''
+      - name: Minicurso
+        absolute_url: https://docs.google.com/forms/d/e/1FAIpQLScgq3CFsvY8-xC84AL_8oHD1bHm41IACPnpeiaVImDQ2Usz9Q/viewform?usp=sf_link
+      # - name: Program
+      #   relative_url: /program/
+      # - name: How to get there
+      #   relative_url: /location/
+      # - name: Tickets
+      #   disabled: true
+      #   absolute_url: ''
 
   # Information boxes
   # info_bars:
