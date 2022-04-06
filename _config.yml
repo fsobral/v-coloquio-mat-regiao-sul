@@ -1,7 +1,7 @@
 title: V Colóquio de Matemática da Região Sul
 preposition: at
 description: >-
-  XX a XX, Universidade Estadual de Maringá, Paraná
+  01 a 05 de agosto de 2022 - **Online**
 baseurl: "/v-coloquio-mat-regiao-sul"
 url: "https://fsobral.github.io/v-coloquio-mat-regiao-sul"
 
@@ -77,9 +77,9 @@ conference:
       - name: Submissões
         menu:
           - name: Minicursos
-            absolute_url: https://docs.google.com/forms/d/e/1FAIpQLScgq3CFsvY8-xC84AL_8oHD1bHm41IACPnpeiaVImDQ2Usz9Q/viewform?usp=sf_link
+            relative_url: /minicursos/
           - name: Pôsteres
-            relative_url: /submissoes/poster
+            relative_url: /submissoes/poster/
       - name: Inscrições
         relative_url: /inscricoes/
       - name: Associe-se à SBM
@@ -97,7 +97,7 @@ conference:
 #    logo:
 #      img: ''
     links:
-      - name: Minicurso
+      - name: Submeta um minicurso
         absolute_url: https://docs.google.com/forms/d/e/1FAIpQLScgq3CFsvY8-xC84AL_8oHD1bHm41IACPnpeiaVImDQ2Usz9Q/viewform?usp=sf_link
       # - name: Program
       #   relative_url: /program/
@@ -108,19 +108,16 @@ conference:
       #   absolute_url: ''
 
   # Information boxes
-  # info_bars:
-  #  - title: Welcome to the Conference Theme for Jekyll!
-  #    color: primary
-  #    main_only: false
-  #    text: |
-  #      The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
-
-          #      ---
-
-          #See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-          #- text: This is just some random content for demonstration purposes.
-          #color: warning
-          #pages_only: false
+  info_bars:
+    - title: Abertas submissões de propostas de minicursos!
+      color: primary
+      main_only: true
+      text: |
+        Clique [aqui](https://docs.google.com/forms/d/e/1FAIpQLScgq3CFsvY8-xC84AL_8oHD1bHm41IACPnpeiaVImDQ2Usz9Q/viewform?usp=sf_link) para enviar uma proposta.
+        
+    # - text: This is just some random content for demonstration purposes.
+    #   color: warning
+    #   pages_only: true
 
   # Live indications
   live:
