@@ -1,4 +1,4 @@
-title: V Colóquio de Matemática da Região Sul
+title: V Colóquio Sul
 preposition: at
 description: >-
   01 a 05 de agosto de 2022 - **Online**
@@ -62,8 +62,8 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: V Colóquio de Matemática da Região Sul
-      #img: ''
+      name: V Colóquio
+      img: 'logo.png'
       url: 'https://fsobral.github.io/v-coloquio-mat-regiao-sul'
     links:
       - name: Programa
@@ -94,8 +94,8 @@ conference:
 
   # Main landing page
   main:
-#    logo:
-#      img: ''
+    logo:
+      img: 'logo-grande.png'
     links:
       - name: Submeta um minicurso
         absolute_url: https://docs.google.com/forms/d/e/1FAIpQLScgq3CFsvY8-xC84AL_8oHD1bHm41IACPnpeiaVImDQ2Usz9Q/viewform?usp=sf_link
