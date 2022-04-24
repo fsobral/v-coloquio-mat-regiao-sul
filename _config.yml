@@ -3,7 +3,7 @@ preposition: at
 description: >-
   01 a 05 de agosto de 2022 - **Online**
 baseurl: "/"
-url: "vcoloquiosul.maringa.br"
+url: "https://www.vcoloquiosul.maringa.br"
 
 theme: jekyll-theme-conference
 
