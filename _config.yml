@@ -2,8 +2,8 @@ title: V Colóquio Sul
 preposition: at
 description: >-
   01 a 05 de agosto de 2022 - **Online**
-baseurl: "/v-coloquio-mat-regiao-sul"
-url: "https://fsobral.github.io/v-coloquio-mat-regiao-sul"
+baseurl: "/"
+url: "vcoloquiosul.maringa.br"
 
 theme: jekyll-theme-conference
 
