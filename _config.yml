@@ -64,7 +64,7 @@ conference:
     logo:
       name: V Colóquio
       img: 'logo.png'
-      url: 'https://fsobral.github.io/v-coloquio-mat-regiao-sul'
+      url: 'https://www.vcoloquiosul.maringa.br'
     links:
       - name: Programa
         relative_url: /program/
@@ -113,7 +113,7 @@ conference:
       color: primary
       main_only: true
       text: |
-        Clique [aqui](https://docs.google.com/forms/d/e/1FAIpQLScgq3CFsvY8-xC84AL_8oHD1bHm41IACPnpeiaVImDQ2Usz9Q/viewform?usp=sf_link) para enviar uma proposta.
+        Clique [aqui](/minicursos) para enviar uma proposta.
         
     # - text: This is just some random content for demonstration purposes.
     #   color: warning
