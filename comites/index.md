@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Comitê científico 
+<h1 class="display-5 mb-3">
+Comitê científico 
+</h1>
 
  - Aron Simis - UFPE
  - Carolina Bhering Araujo - IMPA
@@ -14,7 +16,9 @@ layout: default
  - Keti Tenenblat - UnB
  - Ronaldo Alves Garcia - UFG
 
-# Comitê organizador
+<h1 class="display-5 mb-3">
+    Comitê organizador
+</h1>
 
 - André Vicente - UNIOESTE
 - Emerson Vitor Castelani- UEM
@@ -27,7 +31,9 @@ layout: default
 - Raquel Lehrer - UNIOESTE
 - Valéria Neves Domingos Cavalcanti - UEM – Coordenadora
 
-# Comitê de apoio
+<h1 class="display-5 mb-3">
+    Comitê de apoio
+</h1>
 
 - Anderson Ervino Schwertner - PMA/UEM
 - Beatriz Signori Lonardoni - PGMAT/UEL
