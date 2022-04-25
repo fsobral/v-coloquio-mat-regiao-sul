@@ -6,6 +6,8 @@ layout: default
 
 Estão abertas as submissões para os minicursos!
 
-Você pode preencher todos os dados diretamente no formulário ou enviar
-[esse modelo](assets/latex/modelo-minicurso.tex) preenchido para
-`vcoloquiosul@uem.br`.
+Você pode submeter sua proposta de duas formas:
+
+  - Preencher todos os dados diretamente [neste formulário](https://docs.google.com/forms/d/e/1FAIpQLScgq3CFsvY8-xC84AL_8oHD1bHm41IACPnpeiaVImDQ2Usz9Q/viewform?usp=sf_link)
+  - Enviar [esse modelo](../assets/latex/modelo-minicurso.tex) preenchido
+para `vcoloquiosul@uem.br`.
