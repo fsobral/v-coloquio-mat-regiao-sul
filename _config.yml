@@ -82,9 +82,11 @@ conference:
             relative_url: /submissoes/poster/
       - name: Inscrições
         relative_url: /inscricoes/
+      - name: Comitês
+        relative_url: /comites/
       - name: Associe-se à SBM
-        absolute_url: "https://associados.sbm.org.br/"
-
+        absolute_url: "https://associados.sbm.org.br/" 
+      
   # Link Preview for Sharing
   link_preview:
     # also adapt "preposition" property at top for more meaningful descriptions
