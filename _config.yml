@@ -1,7 +1,7 @@
 title: V Colóquio Sul
 preposition: at
 description: >-
-  01 a 05 de agosto de 2022 -- **Online** -- Universidade Estadual de Maringá
+  01 a 05 de agosto de 2022 -- **100% Online** -- Universidade Estadual de Maringá
 baseurl: ""
 url: "https://www.vcoloquiosul.maringa.br"
 
@@ -66,22 +66,22 @@ conference:
       img: 'logo.png'
       url: 'https://www.vcoloquiosul.maringa.br'
     links:
-      - name: Programa
-        relative_url: /program/
-      - name: Palestras
-        relative_url: /talks/
-      - name: Palestrantes
-        relative_url: /speakers/
-      - name: Local
-        relative_url: /location/
+#      - name: Programa
+#        relative_url: /program/
+#      - name: Palestras
+#        relative_url: /talks/
+#      - name: Palestrantes
+#        relative_url: /speakers/
+#      - name: Local
+#        relative_url: /location/
       - name: Submissões
         menu:
           - name: Minicursos
             relative_url: /minicursos/
-          - name: Pôsteres
-            relative_url: /submissoes/poster/
-      - name: Inscrições
-        relative_url: /inscricoes/
+#          - name: Pôsteres
+#            relative_url: /submissoes/poster/
+#      - name: Inscrições
+#        relative_url: /inscricoes/
       - name: Comitês
         relative_url: /comites/
       - name: Associe-se à SBM
