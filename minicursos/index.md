@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Minicursos
+<h1 class="display-5 mb-3">
+    Minicursos
+</h1>
 
 Estão abertas as submissões para os minicursos!
 
