@@ -119,7 +119,7 @@ conference:
       img: 'logo-grande.png'
     links:
       - name: Submeta um minicurso
-        relative_url: /minicursos/
+        relative_url: /submissoes/minicursos/
       # - name: Program
       #   relative_url: /program/
       # - name: How to get there
@@ -130,11 +130,11 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Abertas submissões de propostas de minicursos!
+    - title: Abertas submissões de propostas de minicursos até 13/06!
       color: primary
       main_only: true
       text: |
-        Clique [aqui](/minicursos) para enviar uma proposta.
+        Clique [aqui](/submissoes/minicursos) para enviar uma proposta.
         
     # - text: This is just some random content for demonstration purposes.
     #   color: warning
