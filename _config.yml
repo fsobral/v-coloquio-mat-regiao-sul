@@ -66,26 +66,44 @@ conference:
       img: 'logo.png'
       url: 'https://www.vcoloquiosul.maringa.br'
     links:
-#      - name: Programa
-#        relative_url: /program/
-#      - name: Palestras
-#        relative_url: /talks/
-#      - name: Palestrantes
-#        relative_url: /speakers/
-#      - name: Local
-#        relative_url: /location/
+      - name: Programação
+        menu: 
+          - name: Visão Geral
+            relative_url: /program/visao_geral
+#          - name: Programação Completa
+#            relative_url: /program/
+#          - name: Palestras 
+#            relative_url: /talks/
+#          - name: Palestrantes
+#            relative_url: /speakers/
+      - name: Atividades
+        menu:
+          - name: Sessões Temáticas
+            relative_url: /atividades/sessoes_tematicas/
+          - name: Minicursos
+            relative_url: /atividades/minicursos/
+          - name: Plenárias
+            relative_url: /atividades/plenarias/
+          - name: Pôsteres
+            relative_url: /atividades/posteres/
+          - name: Mesas Redondas
+            relative_url: /atividades/mesas/
+              
       - name: Submissões
         menu:
           - name: Minicursos
-            relative_url: /minicursos/
+            relative_url: /submissoes/minicursos/
 #          - name: Pôsteres
 #            relative_url: /submissoes/poster/
 #      - name: Inscrições
 #        relative_url: /inscricoes/
       - name: Comitês
         relative_url: /comites/
+      - name: F.A.Q 
+        relative_url: /faq/
       - name: Associe-se à SBM
-        absolute_url: "https://associados.sbm.org.br/" 
+        absolute_url: "https://associados.sbm.org.br/"
+      
       
   # Link Preview for Sharing
   link_preview:

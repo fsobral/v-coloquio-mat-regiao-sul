@@ -160,7 +160,7 @@ pt:
     post_stream: A transmissão ao vivo terminou.
     time:
       in: em
-      since: hà
+      since: há
       weeks: semanas
       week: semana
       days: dias
@@ -178,12 +178,12 @@ pt:
     focus_conf: Centralizar o mapa para o local da conferência
     focus_me: Mostrar minha localização atual
   program:
-    title: Programa
+    title: Programa Completo
     legend: Legenda
   speaker:
     overview: Palestrantes
     title: Palestrante
     talks: Apresentações nesta conferência
   talk:
-    overview: Apresentações
-    title: Apresentação
+    overview: Palestras
+    title: Palestra

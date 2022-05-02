@@ -11,9 +11,9 @@ Comitê científico
  - Elizabeth Wegner Karas - UFPR
  - Jaqueline Godoy Mesquita - UnB
  - João Marcos Bezerra do Ó - UFPB 
+ - Keti Tenenblat - UnB
  - Marcelo Moreira Cavalcanti - UEM
  - Maria Aparecida Soares Ruas - ICMC - USP
- - Keti Tenenblat - UnB
  - Ronaldo Alves Garcia - UFG
 
 <h1 class="display-5 mb-3">
