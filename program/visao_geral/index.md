@@ -2,9 +2,13 @@
 layout: default
 ---
 
-Visão geral da organização das atividades:
+<h1 class="display-5 mb-3">
+Visão Geral
+</h1>
 
-teste [sessoes](/atividades/sessoes_tematicas/)
+A tabela abaixo fornece uma sisão geral da organização das atividades que serão expostas. 
+
+<!-- teste [sessoes](/atividades/sessoes_tematicas/) -->
 
 
 <div class="table-responsive-lg">

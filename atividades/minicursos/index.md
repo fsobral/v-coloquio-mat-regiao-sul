@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<h1 class="display-5 mb-3">
+Minicursos
+</h1>
 
-Aqui colocaremos um breve resumo e título de cada minicurso. Creio que não devemos apontar os autores para o link de palestras, deixando as informações referentes aos minicursos apenas aqui. 
+Neste momento encontram-se abertas submissões de propostas para minicursos. Após a seleção das propostas mais informações serão postadas. 
 

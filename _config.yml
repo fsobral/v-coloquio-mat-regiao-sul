@@ -68,25 +68,33 @@ conference:
     links:
 #      - name: Local
 #        relative_url: /location/
-      - name: Programa
+      - name: Programação
         menu: 
           - name: Visão Geral
-            relative_url: /atividades/cronograma/
-          - name: Programa Completo
-            relative_url: /program/
-          - name: Palestras
-            relative_url: /talks/
-          - name: Palestrantes
-            relative_url: /speakers/
+            relative_url: /program/visao_geral
+#          - name: Programação Completa
+#            relative_url: /program/
+#          - name: Palestras 
+#            relative_url: /talks/
+#          - name: Palestrantes
+#            relative_url: /speakers/
+      - name: Atividades
+        menu:
           - name: Sessões Temáticas
             relative_url: /atividades/sessoes_tematicas/
           - name: Minicursos
-            relative_url: /atividades/minicursos
+            relative_url: /atividades/minicursos/
+          - name: Plenárias
+            relative_url: /atividades/plenarias/
+          - name: Pôsteres
+            relative_url: /atividades/posteres/
+          - name: Mesas Redondas
+            relative_url: /atividades/mesas/
               
       - name: Submissões
         menu:
           - name: Minicursos
-            relative_url: /minicursos/
+            relative_url: /submissoes/minicursos/
 #          - name: Pôsteres
 #            relative_url: /submissoes/poster/
 #      - name: Inscrições
