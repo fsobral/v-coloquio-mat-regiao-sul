@@ -8,7 +8,8 @@ layout: default
 
 Estão abertas as submissões para os minicursos. A data limite é **13/06**!
 
-Os minicursos deverão ocorrer das 15:00 às 16:30 nos dias do evento.
+Os minicursos deverão ocorrer das _15:00 às 16:30_ e devem ser divididos
+em _3 encontros_ durante os dias do evento.
 
 Você pode submeter sua proposta de duas formas:
 
