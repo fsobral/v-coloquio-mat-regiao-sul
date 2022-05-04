@@ -1,0 +1,202 @@
+title: V Colóquio Sul
+preposition: at
+description: >-
+  01 a 05 de agosto de 2022 -- **100% Online** -- Universidade Estadual de Maringá
+baseurl: ""
+url: "https://www.vcoloquiosul.maringa.br"
+
+theme: jekyll-theme-conference
+
+# Build settings
+
+markdown: kramdown
+sass:
+  style: compressed
+
+# Additional exclude from processing
+exclude:
+  - .github/
+  - README.md
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - purgecss.config.js
+
+# Collections and their defaults
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
+
+
+conference:
+
+  # Language
+  lang: pt
+
+  # Show theme errors:
+  show_errors: True
+
+  # Navigation bar
+  navigation:
+    logo:
+      name: V Colóquio
+      img: 'logo.png'
+      url: 'https://www.vcoloquiosul.maringa.br'
+    links:
+      - name: Programação
+        menu: 
+          - name: Visão Geral
+            relative_url: /program/visao_geral
+#          - name: Programação Completa
+#            relative_url: /program/
+#          - name: Palestras 
+#            relative_url: /talks/
+#          - name: Palestrantes
+#            relative_url: /speakers/
+      - name: Atividades
+        menu:
+          - name: Sessões Temáticas
+            relative_url: /atividades/sessoes_tematicas/
+          - name: Minicursos
+            relative_url: /atividades/minicursos/
+          - name: Plenárias
+            relative_url: /atividades/plenarias/
+          - name: Pôsteres
+            relative_url: /atividades/posteres/
+          - name: Mesas Redondas
+            relative_url: /atividades/mesas/
+              
+      - name: Submissões
+        menu:
+          - name: Minicursos
+            relative_url: /submissoes/minicursos/
+#          - name: Pôsteres
+#            relative_url: /submissoes/poster/
+#      - name: Inscrições
+#        relative_url: /inscricoes/
+      - name: Comitês
+        relative_url: /comites/
+      - name: F.A.Q 
+        relative_url: /faq/
+      - name: Associe-se à SBM
+        absolute_url: "https://associados.sbm.org.br/"
+      
+      
+  # Link Preview for Sharing
+  link_preview:
+    # also adapt "preposition" property at top for more meaningful descriptions
+    disable: false
+    img:
+      twitter: 'twitter_preview.png'      # inside /assets/images/
+      open_graph: 'facebook_preview.png'  # inside /assets/images/
+
+  # Main landing page
+  main:
+    logo:
+      img: 'logo-grande.png'
+    links:
+      - name: Submeta um minicurso
+        relative_url: /minicursos/
+      # - name: Program
+      #   relative_url: /program/
+      # - name: How to get there
+      #   relative_url: /location/
+      # - name: Tickets
+      #   disabled: true
+      #   absolute_url: ''
+
+  # Information boxes
+  info_bars:
+    - title: Abertas submissões de propostas de minicursos!
+      color: primary
+      main_only: true
+      text: |
+        Clique [aqui](/minicursos) para enviar uma proposta.
+        
+    # - text: This is just some random content for demonstration purposes.
+    #   color: warning
+    #   pages_only: true
+
+  # Live indications
+  live:
+    date: 01.01.2020
+    timezone: GMT+1
+    stop:       240  # in minutes
+    streaming:
+      enable: true
+      pause:     60  # in minutes
+      prepend:    5  # in minutes
+      extend:     5  # in minutes
+    demo:
+      enable: false
+      duration: 300  # in seconds
+      pause:     10  # in seconds
+
+  map:
+    # Initial map center point
+    home_coord: 47.37808, 8.53935
+    # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+    # The following do match the Bootstrap design not too badly:
+    #   - Hydda.Full
+    #   - Thunderforest.Neighbourhood
+    #   - Esri.WorldTopoMap
+    map_provider: "OpenStreetMap.Mapnik"
+    default_zoom: 17
+
+  talks:
+    # Talk categories
+    main_categories:
+      - name: Cat A
+        color: info
+      - name: Cat B
+        color: success
+
+    # Hide icons on talk overview page
+    hide_icons: false
+
+  speakers:
+    # Show first and last name
+    show_firstname: true
+
+  location:
+    # Disable links to locations
+    hide: false
+    # URL of location / room overview page
+    url: '/location'
+    # Main page title shown on location/room navigation bar
+    navbar_title: 'Location'
+    # Show map on location main page
+    map: true
+
+  program:
+    # URL of program page
+    url: '/program'
+
+    # Time steps in program table
+    time_steps: 15 # in minutes
+
+    # Show intermediary time steps (next to full hours)
+    show_alltimes: true

@@ -9,7 +9,7 @@ Sessões Temáticas
 As sessões temáticas serão realizadas simultaneamente com outra atividade prevista. De acordo com o nosso cronograma, elas acontecerão paralelamente aos minicursos. Temos os seguintes eixos temáticos:
 
 1. Sessão temática em Álgebra;
-1. Sessão temática em Teoria de Números;
+1. Sessão temática em Teoria dos Números;
 1. Sessão temática em EDP-1;
 1. Sessão temática em EDP-2;
 1. Sessão temática em Teoria de Lie;
@@ -67,20 +67,13 @@ Cada sessão será composta por palestras de 30 minutos, totalizando 6 palestras
 	</tr>	
 	<tr>
 		<th scope='row'> Ensino  </th>
+		<td> #   </td>
 		<td> 15:00-16:30   </td>
 		<td> 15:00-16:30  </td>
 		<td> #   </td>
 		<td> #   </td>
-		<td> #   </td>
 	</tr>	
-	<tr>
-		<th scope='row'> Teoria de Lie  </th>
-		<td>  #  </td>
-		<td>  #  </td>
-		<td>  #  </td>
-		<td>  15:00-16:30  </td>
-		<td>  15:00-16:30  </td>
-	</tr>	
+	
 	<tr>
 		<th scope='row'> Otimização   </th>
 		<td> #   </td>
@@ -92,13 +85,21 @@ Cada sessão será composta por palestras de 30 minutos, totalizando 6 palestras
 	<tr>
 		<th scope='row'> Teoria de Lie  </th>
 		<td>  #  </td>
-		<td>  #  </td>
-		<td>  #  </td>
 		<td>  15:00-16:30  </td>
 		<td>  15:00-16:30  </td>
+		<td>  #  </td>
+		<td>  #  </td>
 	</tr>	
 	<tr>
 		<th scope='row'> Teoria dos Números  </th>
+		<td>  #  </td>
+		<td>  #  </td>
+		<td>  #  </td>
+		<td>  15:00-16:30  </td>
+		<td>  15:00-16:30  </td>
+	</tr>
+	<tr>
+		<th scope='row'> Teoria de Singularidades  </th>
 		<td>  #  </td>
 		<td>  #  </td>
 		<td>  #  </td>
