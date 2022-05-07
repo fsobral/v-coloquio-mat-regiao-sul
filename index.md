@@ -13,7 +13,12 @@ Nosso evento contará com palestras, minicursos, exposições, mesa redonda e mu
 Fique atento as informações e prazos que serão disponibilizados nesta página. Algumas perguntas podem ser respondidas diretamente no [FAQ](/faq/) da página. Caso precise de alguma informação a mais, por favor, entre em contato pelo e-mail: vcoloquiosul@uem.br 
 
 
-
 ## Minicursos
 
 Estão abertas as propostas de minicursos!
+
+
+
+## Apoio
+
+![Foto Apoio](assets/images/logo-apoio2.png)
