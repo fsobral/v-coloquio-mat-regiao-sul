@@ -118,8 +118,8 @@ conference:
     logo:
       img: 'logo-grande.png'
     links:
-      - name: Submeta um minicurso
-        relative_url: /submissoes/minicursos/
+      # - name: Submeta um minicurso
+      #   relative_url: /submissoes/minicursos/
       # - name: Program
       #   relative_url: /program/
       # - name: How to get there
