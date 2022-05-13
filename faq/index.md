@@ -13,8 +13,11 @@ layout: default
 
 1. Vou submeter uma proposta de minicurso, preciso realizar a inscrição antes? *Resposta: Não, as inscrições serão abertas posteriormente. Neste caso, o ministrante de algum minicurso é gentilmente convidado a realizar a inscrição.*
 
-1. Se eu não desejo assistir a qualquer minicurso, então eu não preciso me inscrever para participar somente das outra atividades?
-*Resposta: A capacidade das salas do Google Meet usadas para as palestras da noite é de 250 pessoas. Caso esse número seja excedido, pessoas logadas com e-mail que não conste das inscrições serão removidas da sala.*
+1. Se eu não desejo assistir a qualquer minicurso, então eu não
+preciso me inscrever para participar somente das outra atividades?
+*Resposta: A capacidade para a sala do Zoom utilizada nas palestras é
+limitada. Somente inscritos receberão o link para as palestras do
+Zoom.*
 
 1. Quem terá direito a certificado?
 *Resposta:*

@@ -6,7 +6,7 @@ layout: default
 Visão Geral
 </h1>
 
-A tabela abaixo fornece uma sisão geral da organização das atividades que serão expostas. 
+A tabela abaixo fornece uma visão geral da organização das atividades que serão expostas. 
 
 <!-- teste [sessoes](/atividades/sessoes_tematicas/) -->
 
