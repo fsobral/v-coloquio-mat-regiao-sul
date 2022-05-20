@@ -20,7 +20,8 @@ exclude:
   - LICENSE.md
   - REDISTRIBUTED.md
   - purgecss.config.js
-
+  - scripts/
+  
 # Collections and their defaults
 collections:
   talks:
@@ -70,12 +71,12 @@ conference:
         menu: 
           - name: Visão Geral
             relative_url: /program/visao_geral
-#          - name: Programação Completa
-#            relative_url: /program/
-#          - name: Palestras 
-#            relative_url: /talks/
-#          - name: Palestrantes
-#            relative_url: /speakers/
+          - name: Programação Completa
+            relative_url: /program/
+          - name: Palestras 
+            relative_url: /talks/
+          - name: Palestrantes
+            relative_url: /speakers/
       - name: Atividades
         menu:
           - name: Sessões Temáticas
@@ -143,7 +144,7 @@ conference:
   # Live indications
   live:
     date: 01.01.2020
-    timezone: GMT+1
+    timezone: GMT-3
     stop:       240  # in minutes
     streaming:
       enable: true
@@ -169,10 +170,14 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
+      - name: Plenária
         color: info
-      - name: Cat B
+      - name: Sessão Temática
         color: success
+      - name: Minicurso
+        color: warning
+      - name: Mesa Redonda
+        color: alert
 
     # Hide icons on talk overview page
     hide_icons: false
@@ -196,7 +201,7 @@ conference:
     url: '/program'
 
     # Time steps in program table
-    time_steps: 15 # in minutes
+    time_steps: 30 # in minutes
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true

@@ -1,25 +1,31 @@
 days:
-- name: Monday
-  abbr: Mo
-  date: 2020-01-31
+- abbr: seg
+  date: '2022-08-01'
+  name: Segunda
   rooms:
-  - name: Room A
+  - name: Zoom
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
-        time_start: '12:00'
-        time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
-        time_start: '12:45'
-        time_end: '13:30'
-
-  - name: Room B
+    - name: Título Plenária 1
+      time_end: '10:00'
+      time_start: '9:00'
+    - name: Título Plenária 3
+      time_end: '11:00'
+      time_start: '10:00'
+    - name: Título Plenária 2
+      time_end: '15:00'
+      time_start: '14:00'
+  - name: Meet Álgebra
     talks:
-      - name: Arcu Non Odio
-        time_start: '12:00'
-        time_end: '13:00'
-
-  - name: Room C
+    - name: Sessão Temática 1
+      time_end: '16:30'
+      time_start: '15:00'
+  - name: Meet EDP I
     talks:
-      - name: Eu Nisl Nunc Mi Ipsum Faucibus
-        time_start: '13:30'
-        time_end: '14:30'
+    - name: Sessão Temática 2
+      time_end: '16:30'
+      time_start: '15:00'
+  - name: Meet MR
+    talks:
+    - name: Mesa Redonda 1
+      time_end: '19:00'
+      time_start: '17:00'
