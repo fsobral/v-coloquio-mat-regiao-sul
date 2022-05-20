@@ -3,6 +3,8 @@ _site/*
 Gemfile.lock
 *~
 
+__pycache__/
+
 # Latex
 modelo-minicurso.pdf
 *.aux
