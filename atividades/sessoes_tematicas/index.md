@@ -35,11 +35,11 @@ Cada sessão será composta por palestras de 30 minutos, totalizando 6 palestras
   <tbody>
 	<tr>
 		<th scope='row'> Álgebra  </th>
-		<td> 15:00-16:30</td>
-		<td>  #  </td>
-		<td> 15:00-16:30 </td>
-		<td> #   </td>
-		<td> #    </td>
+		<td> # </td>
+		<td> #  </td>
+		<td> # </td>
+		<td> 15:00-16:30   </td>
+		<td> 15:00-16:30   </td>
 	</tr>
 	<tr>
 		<th scope='row'> Códigos  </th>
@@ -93,10 +93,10 @@ Cada sessão será composta por palestras de 30 minutos, totalizando 6 palestras
 	<tr>
 		<th scope='row'> Teoria dos Números  </th>
 		<td>  #  </td>
-		<td>  #  </td>
-		<td>  #  </td>
 		<td>  15:00-16:30  </td>
 		<td>  15:00-16:30  </td>
+		<td>  #  </td>
+		<td>  #  </td>
 	</tr>
 	<tr>
 		<th scope='row'> Teoria de Singularidades  </th>
