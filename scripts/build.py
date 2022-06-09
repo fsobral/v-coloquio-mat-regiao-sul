@@ -1,5 +1,13 @@
 import pandas as pd
 import yaml
+from shutil import rmtree
+from os import mkdir
+
+# Clean older files
+for dirs in ["_rooms", "_speakers", "_talks"]:
+
+    rmtree("../" + dirs)
+    mkdir("../" + dirs)
 
 abbr = {"Segunda": "seg",
         "Terça": "ter",
