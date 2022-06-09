@@ -1,9 +1,7 @@
 ---
-first_name: Márcio
-hide: false
-last_name: ''
-name: Márcio
+first_name: ''
+last_name: Panelista 1
+name: Panelista 1
 
 ---
 
-UEL

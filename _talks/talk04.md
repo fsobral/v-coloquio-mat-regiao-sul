@@ -1,11 +1,17 @@
 ---
 categories:
 - Sessão Temática
-- Álgebra
-name: Sessão Temática 1
+- EDP
+links: &id001
+- absolute_url: https://meet.google.com
+  icon: play
+  name: Assistir
+live: *id001
+name: Sessão Temática 2
 speakers:
-- Irene
-- Fernanda
+- Márcio (UEL)
+- Fábio (UEM)
+- Valéria (UEM)
 ---
 
-Sessão temática de Álgebra.
+Sessão temática de EDPs.

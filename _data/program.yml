@@ -5,12 +5,12 @@ days:
   rooms:
   - name: Zoom
     talks:
+    - name: Abertura
+      time_end: '9:00'
+      time_start: '8:30'
     - name: Título Plenária 1
       time_end: '10:00'
       time_start: '9:00'
-    - name: Título Plenária 3
-      time_end: '11:00'
-      time_start: '10:00'
     - name: Título Plenária 2
       time_end: '15:00'
       time_start: '14:00'

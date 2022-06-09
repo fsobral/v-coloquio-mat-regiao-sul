@@ -1,12 +1,16 @@
 ---
 categories:
-- Sessão Temática
-- EDP
-name: Sessão Temática 2
+- Mesa Redonda
+links: &id001
+- absolute_url: https://meet.google.com
+  icon: play
+  name: Assistir
+live: *id001
+name: Mesa Redonda 1
 speakers:
-- Márcio
-- Fábio
-- Valéria
+- Panelista 1
+- Panelista 2
+- Panelista 3
 ---
 
-Sessão temática de EDPs.
+Este é um resumo da *Mesa Redonda 1*

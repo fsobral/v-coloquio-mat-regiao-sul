@@ -1,9 +1,14 @@
 ---
 categories:
 - Plenária
-name: Título Plenária 1
+links: &id001
+- absolute_url: https://zoom.us
+  icon: play
+  name: Assistir
+live: *id001
+name: Abertura
 speakers:
-- Palestrante 1
+- Comissão
 ---
 
-Este é um resumo da *Plenária 1*.
+Abertura do evento.

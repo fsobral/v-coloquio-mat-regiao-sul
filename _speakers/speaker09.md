@@ -1,9 +1,7 @@
 ---
-first_name: Fábio
-hide: false
-last_name: ''
-name: Fábio
+first_name: ''
+last_name: Panelista 2
+name: Panelista 2
 
 ---
 
-UEM

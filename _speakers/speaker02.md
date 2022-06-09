@@ -1,9 +1,7 @@
 ---
-first_name: Palestrante 3
-hide: false
-last_name: ''
-name: Palestrante 3
+first_name: ''
+last_name: Palestrante 2 (Instituição C)
+name: Palestrante 2 (Instituição C)
 
 ---
 
-C

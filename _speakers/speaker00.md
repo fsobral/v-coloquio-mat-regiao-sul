@@ -1,9 +1,7 @@
 ---
-first_name: Palestrante 1
-hide: false
-last_name: ''
-name: Palestrante 1
+first_name: ''
+last_name: Comissão
+name: Comissão
 
 ---
 
-A

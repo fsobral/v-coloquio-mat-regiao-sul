@@ -1,9 +1,7 @@
 ---
-first_name: Panelista 1
-hide: false
-last_name: ''
-name: Panelista 1
+first_name: ''
+last_name: Irene (UEM)
+name: Irene (UEM)
 
 ---
 
-D

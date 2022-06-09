@@ -1,11 +1,16 @@
 ---
 categories:
-- Mesa Redonda
-name: Mesa Redonda 1
+- Sessão Temática
+- Álgebra
+links: &id001
+- absolute_url: https://meet.google.com
+  icon: play
+  name: Assistir
+live: *id001
+name: Sessão Temática 1
 speakers:
-- Panelista 1
-- Panelista 2
-- Panelista 3
+- Irene (UEM)
+- Fernanda (UEM)
 ---
 
-Este é um resumo da *Mesa Redonda 1*
+Sessão temática de Álgebra.

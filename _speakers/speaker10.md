@@ -1,9 +1,7 @@
 ---
-first_name: Valéria
-hide: false
-last_name: ''
-name: Valéria
+first_name: ''
+last_name: Panelista 3
+name: Panelista 3
 
 ---
 
-UEM
