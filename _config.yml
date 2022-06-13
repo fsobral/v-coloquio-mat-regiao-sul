@@ -93,8 +93,8 @@ conference:
         menu:
           - name: Minicursos
             relative_url: /submissoes/minicursos/
-#          - name: Pôsteres
-#            relative_url: /submissoes/poster/
+          - name: Pôsteres
+            relative_url: /submissoes/posteres/
 #      - name: Inscrições
 #        relative_url: /inscricoes/
       - name: Comitês

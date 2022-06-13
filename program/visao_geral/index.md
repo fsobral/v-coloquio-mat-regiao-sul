@@ -51,7 +51,7 @@ A tabela abaixo fornece uma visão geral da organização das atividades que ser
 	<tr>
       <th scope="row">10:30-12:00</th>
       <td>Exposição Matemátiva</td>
-      <td>Minicursos e Sessões Temáticas</td>
+      <td>Sessão de Pôsteres</td>
       <td>Sessão de Pôsteres</td>
       <td>Sessão de Pôsteres</td>
       <td>Sessão de Pôsteres</td>
@@ -89,20 +89,17 @@ A tabela abaixo fornece uma visão geral da organização das atividades que ser
 		<td> Coffee-Break   </td>
 	</tr>	
 	<tr>
-		<th scope='row'> 17:00-19:00   </th>
-		<td>  Mesa Redonda  </td>
-		<td>  Mesa Redonda  </td>
-		<td>  Mesa Redonda  </td>
-		<td>  Mesa Redonda  </td>
-		<td>  Mesa Redonda  </td>
+		<th scope='row'> 17:00-18:00   </th>
+		<td>  Palestra Especial  </td>
+		<td rowspan="2">  Mesa Redonda  </td>
+		<td rowspan="2">  Mesa Redonda  </td>
+		<td rowspan="2">  Mesa Redonda  </td>
+		<td>  Encerramento  </td>
 	</tr>	
 	<tr>
-		<th scope='row'> 19:00-20:00  </th>
+		<th scope='row'> 18:00-19:00  </th>
 		<td> Confraternização e Apresentação Cultural    </td>
 		<td>  #  </td>
-		<td>  #  </td>
-		<td>  #  </td>
-		<td>  Encerramento  </td>
 	</tr>	
 
   </tbody>
