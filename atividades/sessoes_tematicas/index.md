@@ -5,20 +5,19 @@ layout: default
 <h1 class="display-5 mb-3">
 Sessões Temáticas
 </h1>
+De acordo com o cronograma do colóquio, as sessões temáticas serão realizadas simultaneamente com os minicursos. As sessões temáticas abrangem os seguintes tópicos:
 
-As sessões temáticas serão realizadas simultaneamente com outra atividade prevista. De acordo com o nosso cronograma, elas acontecerão paralelamente aos minicursos. Temos os seguintes eixos temáticos:
+1. Sessão Temática em Álgebra;
+1. Sessão Temática em Teoria dos Números;
+1. Sessão Temática em EDP-1;
+1. Sessão Temática em EDP-2;
+1. Sessão Temática em Teoria de Lie;
+1. Sessão Temática em Teoria de Singularidades;
+1. Sessão Temática em Códigos;
+1. Sessão Temática em Otimização;
+1. Sessão Temática em Educação Matemática/Ensino.
 
-1. Sessão temática em Álgebra;
-1. Sessão temática em Teoria dos Números;
-1. Sessão temática em EDP-1;
-1. Sessão temática em EDP-2;
-1. Sessão temática em Teoria de Lie;
-1. Sessão temática em Teoria de Singularidades;
-1. Sessão temática em Códigos;
-1. Sessão temática em Otimização;
-1. Sessão temática em Educação Matemática/Ensino.
-
-Cada sessão será composta por palestras de 30 minutos, totalizando 6 palestras por eixo temático, distribuída em dois dias da semana. Preliminarmente, as sessões temáticas estão organizadas para serem apreciadas de acordo com o seguinte cronograma.
+Cada sessão será composta por palestras de 30 minutos, totalizando 6 palestras por eixo temático, distribuída em dois dias da semana. Preliminarmente, as sessões temáticas estão organizadas de acordo com o seguinte cronograma.
 
 <div class="table-responsive-lg">
 <table class="table table-striped">
@@ -112,6 +111,6 @@ Cada sessão será composta por palestras de 30 minutos, totalizando 6 palestras
 
 
 
-Informações detalhadas sobre as atividades que ocorrerão em cada eixo temático serão fornecidas em breve.
+Informações detalhadas sobre as palestras das sessões temáticas serão fornecidas em breve.
 
 <!-- Informações detalhadas sobre as atividades que ocorrerão em cada eixo temático podem ser obtidas em [Palestras](/talks/), [Palestrantes](/speakers/) ou ainda pela [Programação Completa](/program/) do evento. -->

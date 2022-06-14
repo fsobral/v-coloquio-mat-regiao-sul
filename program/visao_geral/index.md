@@ -50,7 +50,7 @@ A tabela abaixo fornece uma visão geral da organização das atividades que ser
     </tr>
 	<tr>
       <th scope="row">10:30-12:00</th>
-      <td>Exposição Matemátiva</td>
+      <td>Exposição Matemativa</td>
       <td>Sessão de Pôsteres</td>
       <td>Sessão de Pôsteres</td>
       <td>Sessão de Pôsteres</td>

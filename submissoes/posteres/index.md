@@ -9,8 +9,7 @@ layout: default
 Estão abertas as submissões para os pôsteres. A data limite é **01/07**!
 
 
-As apresentações de pôsteres ocorrerão nos dias 02,03,04 e 05 de agosto, das _10:30 às 12:00_ e devem ser executados em sessões paralelas que serão divulgadas posteriormente. 
-
+As apresentações de pôsteres ocorrerão entre os dias 02 e 05 de agosto, no horário compreendido entre 10:30 hrs até 12:00 hrs e devem ser executados em sessões paralelas que serão divulgadas posteriormente
 Você pode submeter sua proposta da seguinte forma:
 
   - Preencher todos os dados diretamente [neste formulário](https://forms.gle/KiBsFYU6wRh4XpVZA)
