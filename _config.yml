@@ -93,6 +93,7 @@ conference:
         menu:
           - name: Minicursos
             relative_url: /submissoes/minicursos/
+            disabled: true
           - name: Pôsteres
             relative_url: /submissoes/posteres/
 #      - name: Inscrições
@@ -130,11 +131,17 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Abertas submissões de propostas de minicursos até 13/06!
+    - title: Abertas submissões de pôsteres até 01/07!
       color: primary
       main_only: true
       text: |
-        Clique [aqui](/submissoes/minicursos) para enviar uma proposta.
+        Clique [aqui](/submissoes/posteres) para saber mais.
+
+    # - title: Abertas submissões de propostas de minicursos até 13/06!
+    #   color: primary
+    #   main_only: true
+    #   text: |
+    #     Clique [aqui](/submissoes/minicursos) para enviar uma proposta.
         
     # - text: This is just some random content for demonstration purposes.
     #   color: warning
