@@ -131,7 +131,7 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Abertas submissões de pôsteres até 01/07!
+    - title: As submissões de pôsteres foram prorrogadas até 11/07!
       color: primary
       main_only: true
       text: |
