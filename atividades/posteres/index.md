@@ -11,7 +11,7 @@ A partir do dia 13/06/2022 será aberto o processo de submissão de pôsteres pa
 1. Categoria A: para alunos de iniciação científica;
 1. Categoria B: para alunos de pós-graduação/pesquisadores.
 
-As submissões de pôsteres serão encerradas no dia 1 de Julho de 2022. 
+As submissões de pôsteres serão encerradas no dia 11 de Julho de 2022 (foram prorrogadas!). 
 
 No formulário de submissão de pôsteres que será disponibilizado, o proponente deve atentar-se, ao preencher o formulário, em anexar um resumo (em formato `.pdf`) seguindo o template que será disponibilizado. Além disso, caso o aluno seja de graduação (Categoria A) ou acadêmico de pós-graduação (da Categoria B), uma declaração de anuência do orientador deve ser anexada. 
 
