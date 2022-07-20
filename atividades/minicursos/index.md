@@ -88,6 +88,11 @@ shift. Dinâmica no círculo: rotações racionais e irracionais;
 quadrática: bifurcações, duplicação de período, o caso conjugado à
 tenda.
 
+Referências
+  1. E. Lima, "Análise real - volume 1", IMPA, 2009
+  2. R. Devaney, "A first course in chaotic dynamical systems", West-
+view press, 1992
+
 ### MC2 - O teorema de Bernstein para superfícies mínimas
 
 _Responsável_: Arlandson Matheus Silva Oliveira (UEPb)
@@ -126,30 +131,23 @@ nãolineares envolvendo o p-Laplaciano fracionário. Para isso, introduziremos
 várias definições para os operadores e os espaços de Sobolev fracionários, possivelmente analizando as diferenças. Finalmente, veremos algumas aplicações
 para problemas elípticos variacionais em um ambiente nãolocal.
 
-O minicurso será desenvolvido em 3 dias, no 01/08, 02/08 e 03/08, na seguinte
+O minicurso será desenvolvido em 3 aulas, na seguinte
 forma:
-  - 01/08: vamos introduzir as definições diferentes de Laplaciano fracio-
-nário e os espaços relacionados, marcando as diferenças principais;
-  - 02/08: descrevemos as propriedades e ferramentas básicas necessarias
+  - Aula 1: vamos introduzir as definições diferentes de Laplaciano fracionário e os espaços relacionados, marcando as diferenças principais;
+  - Aula 2: descrevemos as propriedades e ferramentas básicas necessarias
 para estudar problemas nãolineares variacionalmente;
-  - 03/08: concluímos a análise das propriedades, mostrando algumas
+  - Aula 3: concluímos a análise das propriedades, mostrando algumas
 aplicações.
 
 Referências
   1. R. A. Adams, Sobolev Spaces, Academic Press, New York,
 (1975).
-  2. L. Brasco, E. Parini and M. Squassina, Stability of varia-
-tional eigenvalues for the fractional p-Laplacian, Discrete Con-
-tin. Dyn. Syst. 36, no. 4, 1813-1845 (2016).
-  3. E. Di Nezza, G. Palatucci and E. Valdinoci, Hitchhi-
-ker's guide to the fractional Sobolev spaces, Bull. Sci. Math.
+  2. L. Brasco, E. Parini and M. Squassina, Stability of variational eigenvalues for the fractional p-Laplacian, Discrete Contin. Dyn. Syst. 36, no. 4, 1813-1845 (2016).
+  3. E. Di Nezza, G. Palatucci and E. Valdinoci, Hitchhiker's guide to the fractional Sobolev spaces, Bull. Sci. Math.
 136, no. 5, 521573 (2012).
-  4. A. Fiscella, R. Servadei and E. Valdinoci, Density pro-
-perties for fractional Sobolev spaces, Ann. Acad. Sci. Fenn.
+  4. A. Fiscella, R. Servadei and E. Valdinoci, Density properties for fractional Sobolev spaces, Ann. Acad. Sci. Fenn.
 Math. 40, no. 1, 235253 (2015)
-  5. G. Molica Bisci, V. D. R dulescu and R. Servadei, Va-
-riational methods for nonlocal fractional problems, Encyclope-
-dia of Mathematics and its Applications, Vol. 162, Cambridge
+  5. G. Molica Bisci, V. D. R dulescu and R. Servadei, Variational methods for nonlocal fractional problems, Encyclopedia of Mathematics and its Applications, Vol. 162, Cambridge
 University Press, Cambridge, 400 pp. (2016).
   6. R. Servadei and E. Valdinoci, On the spectrum of two
 dierent fractional operators, Proc. Roy. Soc. Edinburgh Sect.
@@ -161,11 +159,81 @@ _Responsável_: Douglas Soares Gonçalves (UFSC)
 
 #### Descrição
 
+O problema fundamental em Geometria de Distâncias consiste em
+determinar a posição de objetos em um certo espaço Euclidiano de
+dimensão apropriada a partir de uma lista incompleta de distâncias
+entre pares destes objetos. Neste minicurso estudaremos alguns
+aspectos teóricos e algoritmos para resolver classes específicas do
+problema, que ocorrem em aplicações como localização de sensores em
+rede, ou na determinação da estrutura 3D de proteínas.
+
+Referência: https://proceedings.science/series/23/proceedings_non_indexed/94
+
 ### MC5 - Progressos recentes em teoria de regularidade elíptica e temas relacionados
 
 _Responsável_: João Vitor da Silva (UNICAMP)
 
 #### Descrição
+
+Neste Minicurso apresentaremos alguns avanços mais recentes no que diz
+respeito ao estudo de resultados de regularidade para soluções de
+Equações Diferenciais Parciais elípticas (por simplicidade EDPs). Tais
+EDPs aparecem em diversos contextos de matemática aplicada, tais como
+em processos de catálise química, modelos de propagação de chamas,
+teoria de elasticidade e no estudo de fluidos não-Newtonianos, somente
+para citar alguns exemplos.  Nos cenários em que analisaremos, vamos
+desenvolver algumas ferramen- tas que nos permitem estudar o
+comportamento local de soluções, inferindo assim propriedades
+refinadas das mesmas e de suas interfaces. Algumas aplicações de
+tais resultados são apresentadas em diversos contextos.  O Minicurso é
+destinado a um público geral com formação em matemática (graduação),
+pessoas interessadas de áreas afins que tenham um conhecimento
+básico de EDPs e de suas teorias relacionadas ou amantes curiosos do
+conhecimento científico matemático moderno.  Contamos com sua presença
+para aprendermos/entendermos um pouco como a matemática está presente
+nos avanços modernos das ciências exatas no Brasil e no mundo.
+
+O minicurso será dividido em 3 partes:
+  - Apresentação de literatura introdutória
+  - Apresentação de resultados pivotais
+  - Apresentação de resultados modernos
+
+Referências
+  1. Lawrence C. Evans ,
+Partial Differential Equations . Second
+edition. Graduate Studies in Mathematics, 19. American Mathe-
+matical Society, Providence, RI, 2010. xxii+749 pp. ISBN: 978-
+0-8218-4974-3.
+  2. Xavier Fernández-Real & Xavier Ros-Oton ,
+Theory for Elliptic PDE . Book, 2020.
+  3. Djairo G. Figueiredo ,
+Regularity
+Teoria Clássica do Potencial . [Clas-
+sical potential theory] Editora Universidade de Brasília, Rio de
+Janeiro 1963 iv+166 pp.
+  4. Djairo Guedes de Figueiredo ,
+O Princípio de Dirichlet .
+Matemática Universitária N. 1 (1985), 63-84.
+  5. Djairo Guedes de Figueiredo , Métodos Variacionais em
+Equações Diferenciais . Matemática Universitária N. 7 (1988),
+21-47.
+  6. Nikos Katzourakis, An Introduction to Viscosity Solutions
+for Fully Nonlinear PDE with Applications to Calculus of Vari-
+ations in L∞ . Springer - Edition 2015, pp. 123.
+  7. Augusto Ponce , Métodos Clássicos em Teoria do Potencial .
+Publicações Matemáticas, IMPA, Rio de Janeiro, 2009. ISBN:
+978-85-244-0244-9.
+  8. Julio Rossi , Tug-of-War games and PDEs . Course in Maxwell
+Centre for Analysis and Nonlinear PDEs. Edimburg. Scotland.
+May 2010.
+  9. Eduardo V. Teixeira ,
+Introdução à teoria de regularidade
+elíptica: uma abordagem geométrica . III ENAMA, Maringá,
+2009.
+  10. Noemí Wolanski ,
+Introdución a los problemas de frontera libre . Cursos y Seminarios de Matemática - Serie B. Fascículo 2.
+2007 Departamento de Matemática, Facultad de Ciencias Exac-
+tas y Naturales, Universidad de Buenos Aires.
 
 ### MC6 - Tópicos de Álgebra Homológica e aspectos computacionais
 
@@ -174,3 +242,25 @@ Victor Hugo Jorge Pérez (ICMC-USP), Aldício Miranda (UFU)
 
 #### Descrição
 
+Neste minicurso abordaremos algumas importantes noções da rica teoria
+de álgebra homológica de módulos sobre anéis comutativos. Em resumo,
+em um primeiro momento vamos falar brevemente sobre funtores,
+homologias/cohomologias, resoluções projetivas/injetivas e os
+funtores Ext e Tor. Na sequência, faremos um panorama geral da
+pesquisa em desenvolvimento dos principais problemas em aberto em
+álgebra comutativa que envolvem alguns destes tópicos descritos. Por
+fim, será realizada uma breve introdução ao software SINGULAR, a fim
+de se calcular computacionalmente algumas das noções descritas.
+
+Referências
+  1. W. Bruns and J. Herzog, Cohen-Macaulay rings, Revised
+edition, Cambridge University Press, 1998.
+  2. A. Grothendieck, Local Cohomology, Notes by R. Hartshorne, Lecture Notes in Math., vol 20, Springer,
+1966.
+  3. H. Matsumura, Commutative Ring Theory, Cambridge Studies in Advanced Mathematics 8, Cambridge
+University Press, Cambridge, 1986.
+  4. J. R. Strooker, Homological Questions in Local Algebra, London
+mathematical society, Lectures Notes Sries. Cambribge University
+Press, 1990.
+  5. C.A, Weibel , An introduction to homological algebra, Cambridge
+University Press, 1994.
