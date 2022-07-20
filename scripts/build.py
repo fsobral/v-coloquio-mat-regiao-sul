@@ -9,11 +9,11 @@ for dirs in ["_rooms", "_speakers", "_talks"]:
     rmtree("../" + dirs)
     mkdir("../" + dirs)
 
-abbr = {"Segunda": "seg",
-        "Terça": "ter",
-        "Quarta": "qua",
-        "Quinta": "qui",
-        "Sexta": "sex"}
+abbr = {"segunda-feira": "seg",
+        "terça-feira": "ter",
+        "quarta-feira": "qua",
+        "quinta-feira": "qui",
+        "sexta-feira": "sex"}
 
 schedule = pd.read_csv("schedule.tsv", dtype=str, delimiter="\t")
 
@@ -58,10 +58,12 @@ for i, row in schedule.iterrows():
             days.append(day)
 
         # Create a new day
-        day = {"name": row["Dia semana"],
+        day = {"name": str.capitalize(row["Dia semana"]),
                "abbr": abbr[row["Dia semana"]],
                "date": row["Dia"],
                "rooms": []}
+
+        rooms_for_a_day = {}
 
     # Update information about the rooms
     if (not pd.isna(row["Local"])) and (row["Local"] != currRoom):
@@ -94,7 +96,7 @@ for i, row in schedule.iterrows():
             "links": rooms[currRoom]["links"],
             "live":  rooms[currRoom]["links"]
         },
-        "abstract": row["Resumo"]
+        "abstract": str(row["Resumo"]).replace("\\n", "\n")
     }
 
     talks.append(talk)
