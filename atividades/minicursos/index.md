@@ -157,19 +157,20 @@ A 144 , no. 4, 831855 (2014).
 
 ### MC4 - Introdução à Geometria de Distâncias
 
-_Responsável_: 
+_Responsável_: Douglas Soares Gonçalves (UFSC)
 
 #### Descrição
 
 ### MC5 - Progressos recentes em teoria de regularidade elíptica e temas relacionados
 
-_Responsável_: 
+_Responsável_: João Vitor da Silva (UNICAMP)
 
 #### Descrição
 
 ### MC6 - Tópicos de Álgebra Homológica e aspectos computacionais
 
-_Responsável_: 
+_Responsáveis_: Thiago Henrique de Freitas (UTFPR - Guarapuava),
+Victor Hugo Jorge Pérez (ICMC-USP), Aldício Miranda (UFU)
 
 #### Descrição
 
