@@ -131,11 +131,11 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: As submissões de pôsteres foram prorrogadas até 11/07!
-      color: primary
-      main_only: true
-      text: |
-        Clique [aqui](/submissoes/posteres) para saber mais.
+    # - title: Inscrições abertas!
+    #   color: primary
+    #   main_only: true
+    #   text: |
+    #     Clique aqui.
 
     # - title: Abertas submissões de propostas de minicursos até 13/06!
     #   color: primary
