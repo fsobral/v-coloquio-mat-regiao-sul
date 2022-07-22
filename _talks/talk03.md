@@ -6,7 +6,7 @@ links: &id001
   icon: play
   name: Assistir
 live: *id001
-name: 'Homenagem a Luiz Adauto da Justa Medeiros '
+name: Homenagem ao Professor Luiz Adauto da Justa Medeiros (in memorian)
 speakers:
 - A definir
 ---
