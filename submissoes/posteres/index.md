@@ -3,17 +3,29 @@ layout: default
 ---
 
 <h1 class="display-5 mb-3">
-Pôsteres
+    Pôsteres
 </h1>
 
-A partir do dia 13/06/2022 será aberto o processo de submissão de pôsteres para este evento. Teremos duas categorias para exposição de pôsteres:
+Estão **encerradas** as submissões para os pôsteres
+
+As apresentações de pôsteres ocorrerão entre os dias 02 e 05 de agosto, no horário compreendido entre 10:30 hrs até 12:00 hrs e devem ser executados em sessões paralelas que serão divulgadas posteriormente
+
+<h3 class="display-5 mb-3">
+Importante
+</h3>
+
+Teremos duas categorias para exposição de pôsteres:
 
 1. Categoria A: para alunos de iniciação científica;
 1. Categoria B: para alunos de pós-graduação/pesquisadores.
 
-As submissões de pôsteres serão encerradas no dia 11 de Julho de 2022 (foram prorrogadas!). 
 
-No formulário de submissão de pôsteres que será disponibilizado, o proponente deve atentar-se, ao preencher o formulário, em anexar um resumo (em formato `.pdf`) seguindo o template que será disponibilizado. Além disso, caso o aluno seja de graduação (Categoria A) ou acadêmico de pós-graduação (da Categoria B), uma declaração de anuência do orientador deve ser anexada. 
+Para preenchimento do formulário serão requisitados alguns documentos, de acordo com a categoria escolhida. Os templates são:
+
+  - Carta de anuência do orientador para alunos de graduação em formato [TeX](../../assets/modelos_posteres/carta_de_anuencia_grad.tex) e [docx](../../assets/modelos_posteres/carta_de_anuencia_grad.docx) - obrigatório para Categoria A;
+  - Carta de anuência do orientador para alunos de pós-graduação em formato [TeX](../../assets/modelos_posteres/carta_de_anuencia_pos.tex) e [docx](../../assets/modelos_posteres/carta_de_anuencia_pos.docx) - obrigatório para Categoria B, se acadêmico de pós-graduação;
+  - Resumo do trabalho em formato [TeX](../../assets/modelos_posteres/resumo_poster.tex), [odt](../../assets/modelos_posteres/resumo_poster.odt) e [docx](../../assets/modelos_posteres/resumo_poster.docx) - obrigatório a todos interessados.
+  - **Todos os arquivos a serem anexados devem estar em formato .pdf.**
 
 Uma vez realizada a submissão da proposta, um comitê irá proceder com a seleção dos trabalhos baseando-se principalmente nos resumos e demais documentos anexos. Não serão aceitos trabalhos na Categoria A sem anuência do orientador. Não serão aceitos trabalhos em qualquer categoria sem o resumo, respeitando o template estabelecido. Por razões de infraestrutura, o número máximo de trabalhos aceitos é limitado ao número de 400. A divulgação dos trabalhos aceitos bem como resumos serão publicados neste site. 
 
@@ -29,5 +41,3 @@ A dinâmica da exposição é a seguinte:
 
 
 Observamos ainda que não haverá publicação do resumo em Anais do Evento ou Proceddings. A certificação dar-se-á unicamente pela apresentação do pôster. 
-
-

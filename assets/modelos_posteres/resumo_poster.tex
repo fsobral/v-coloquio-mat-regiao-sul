@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage{authblk}
+\renewcommand\Authand{, e }
+\renewcommand\Authands{, e }
+\usepackage[brazil]{babel}
+\usepackage{lipsum}
+\usepackage[left=4cm,right=3cm,top=3cm,bottom=3cm]{geometry}
+\title{Título do Trabalho}
+
+\date{} % Deixe em branco
+
+\author[$\dagger$]{Autor 1}
+\author[$\star$]{Autor 2}
+\author[$\ddag$]{Autor 3}
+
+\affil[$\dagger$]{Departamento de Matemática, Universidade X, Cidade , País}
+\affil[$\star$]{Departamento de Ensino, Universidade Y, Cidade, País}
+\affil[$\ddag$]{Departamento de Computação, Universidade Z,Cidade, País}
+
+\begin{document}
+\maketitle
+
+\lipsum[1] % deve ser removido pois gera texto aleatório
+
+\section*{Agradecimentos} % se for o caso
+
+À Capes pelo apoio financeiro ...
+
+\begin{thebibliography}{9} % opcional 
+
+\bibitem{bib1} Autores, ``Título do trabalho'', 2022.
+
+\end{thebibliography}
+
+\end{document}
