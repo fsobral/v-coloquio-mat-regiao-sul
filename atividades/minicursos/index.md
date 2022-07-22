@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+
+<style>
+.table th, .table td {
+  min-width: 50px;
+}
+</style>
+
 <h1 class="display-5 mb-3">
 Minicursos
 </h1>

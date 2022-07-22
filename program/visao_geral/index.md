@@ -10,6 +10,11 @@ A tabela abaixo fornece uma visão geral da organização das atividades que ser
 
 <!-- teste [sessoes](/atividades/sessoes_tematicas/) -->
 
+<style>
+.table th, .table td {
+min-width: 100px;
+}
+</style>
 
 <div class="table-responsive-lg">
 <table class="table table-striped">

@@ -96,6 +96,7 @@ conference:
             disabled: true
           - name: Pôsteres
             relative_url: /submissoes/posteres/
+            disabled: true
 #      - name: Inscrições
 #        relative_url: /inscricoes/
       - name: Comitês
