@@ -188,6 +188,10 @@ conference:
         color: warning
       - name: Mesa Redonda
         color: alert
+      - name: Atividade Cultural
+        color: dark
+      - name: Sessão de pôsteres
+        color: light
 
     # Hide icons on talk overview page
     hide_icons: false
