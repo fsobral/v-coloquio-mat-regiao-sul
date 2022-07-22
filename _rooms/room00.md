@@ -1,7 +1,7 @@
 ---
 hide: false
 links:
-- absolute_url: https://zoom.us
+- absolute_url: .nan
   icon: play
   name: Assistir
 name: Zoom

@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Panelista 1
-name: Panelista 1
+last_name: Gislaine Aparecida Periçaro (UNESPAR - Campo Mourão)
+name: Gislaine Aparecida Periçaro (UNESPAR - Campo Mourão)
 
 ---
 

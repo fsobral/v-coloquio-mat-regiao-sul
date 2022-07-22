@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Márcio (UEL)
-name: Márcio (UEL)
+last_name: Roberto Capristrano (UFPE)
+name: Roberto Capristrano (UFPE)
 
 ---
 

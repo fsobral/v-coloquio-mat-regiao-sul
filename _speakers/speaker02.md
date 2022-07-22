@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Palestrante 2 (Instituição C)
-name: Palestrante 2 (Instituição C)
+last_name: Eduardo Amorim Neves
+name: Eduardo Amorim Neves
 
 ---
 

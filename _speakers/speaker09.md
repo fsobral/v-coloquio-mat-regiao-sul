@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Panelista 2
-name: Panelista 2
+last_name: Luiz-Rafael Santos (UFSC/Blumenau)
+name: Luiz-Rafael Santos (UFSC/Blumenau)
 
 ---
 

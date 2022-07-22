@@ -1,8 +1,8 @@
 ---
 hide: false
 links:
-- absolute_url: https://meet.google.com
+- absolute_url: .nan
   icon: play
   name: Assistir
-name: Meet EDP I
+name: Meet Otimização
 ---

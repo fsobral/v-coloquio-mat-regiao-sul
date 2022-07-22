@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Panelista 3
-name: Panelista 3
+last_name: Alexandre Baraviera (IME - UFRGS)
+name: Alexandre Baraviera (IME - UFRGS)
 
 ---
 

@@ -1,14 +1,14 @@
 ---
 categories:
-- Plenária
+- Atividade Cultural
 links: &id001
 - absolute_url: https://zoom.us
   icon: play
   name: Assistir
 live: *id001
-name: Título Plenária 2
+name: Exposição Matemativa
 speakers:
-- Palestrante 2 (Instituição C)
+- Eduardo Amorim Neves
 ---
 
-Este é um resumo da **Plenária 2**.
+Uma forma diferente de experimentar a Matemática, interagindo com seus conceitos de forma a contribuir com o desenvolvimento de sua sensibilidade e aptidão científicas. Esse é o objetivo do projeto.

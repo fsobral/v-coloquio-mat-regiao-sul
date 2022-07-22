@@ -1,16 +1,14 @@
 ---
 categories:
-- Sessão Temática
-- Álgebra
+- Atividade Cultural
 links: &id001
-- absolute_url: https://meet.google.com
+- absolute_url: https://zoom.us
   icon: play
   name: Assistir
 live: *id001
-name: Sessão Temática 1
+name: 'Homenagem a Luiz Adauto da Justa Medeiros '
 speakers:
-- Irene (UEM)
-- Fernanda (UEM)
+- A definir
 ---
 
-Sessão temática de Álgebra.
+A ser enviado
