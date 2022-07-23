@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Josiney A. Souza (UEM)
-name: Josiney A. Souza (UEM)
+last_name: Cecília de Souza Fernandes (UFF)
+name: Cecília de Souza Fernandes (UFF)
 
 ---
 

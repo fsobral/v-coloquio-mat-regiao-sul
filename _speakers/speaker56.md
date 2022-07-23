@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Viviane Ribeiro Tomaz da Silva (UFMG)
-name: Viviane Ribeiro Tomaz da Silva (UFMG)
+last_name: Michele Ferreira Zancheta Morgado (UNESP-SJRP)
+name: Michele Ferreira Zancheta Morgado (UNESP-SJRP)
 
 ---
 

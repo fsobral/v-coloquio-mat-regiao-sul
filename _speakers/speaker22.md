@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Elizabeth Gasparin (Universidad Católica Del Norte)
-name: Elizabeth Gasparin (Universidad Católica Del Norte)
+last_name: Adriano da Silva (Universidad de Tarapá)
+name: Adriano da Silva (Universidad de Tarapá)
 
 ---
 

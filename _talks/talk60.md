@@ -6,9 +6,12 @@ links: &id001
   icon: play
   name: Assistir
 live: *id001
-name: Mesa Redonda SBM
+name: Ações da SBM, apresentação e discussão da proposta de Doutorado Profmat
 speakers:
-- Diretoria da SBM
+- Roberto Imbuzeiro Oliveira (IMPA)
+- Paolo Piccione (USP)
+- Jaqueline Mesquita (UnB)
+- Walcy Santos (UFRJ)
 ---
 
 A ser enviado

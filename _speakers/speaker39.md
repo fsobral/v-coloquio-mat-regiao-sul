@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Robson Oliveira da Silva (UNIFESP)
-name: Robson Oliveira da Silva (UNIFESP)
+last_name: Carlos Eduardo de Oliveira (IFSP)
+name: Carlos Eduardo de Oliveira (IFSP)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Roberto Capristrano (UFPE)
-name: Roberto Capristrano (UFPE)
+last_name: Eduardo Amorim Neves (UEM)
+name: Eduardo Amorim Neves (UEM)
 
 ---
 

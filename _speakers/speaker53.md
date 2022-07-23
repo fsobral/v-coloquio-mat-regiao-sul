@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Vicent Jean Henri Grandjean (UFC)
-name: Vicent Jean Henri Grandjean (UFC)
+last_name: Sandra Augusta Santos (UNICAMP)
+name: Sandra Augusta Santos (UNICAMP)
 
 ---
 

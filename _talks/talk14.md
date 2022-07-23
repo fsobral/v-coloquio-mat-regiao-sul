@@ -8,7 +8,7 @@ links: &id001
 live: *id001
 name: Parentalidade e Academia
 speakers:
-- Fernanda Staniscuaski (UFRGS)
+- Fernanda Stanisçuaski (UFRGS)
 - Maité Kulesza (UFRPE)
 - Maria Aparecida Soares Ruas (ICMC-USP)
 - Walcy Santos (UFRJ)

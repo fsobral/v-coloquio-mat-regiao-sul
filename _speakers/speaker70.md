@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Eduardo Michel Vieira Gomes (UTFPR)
-name: Eduardo Michel Vieira Gomes (UTFPR)
+last_name: Carlos Alexandre Ribeiro Martins (UTFPR-PB)
+name: Carlos Alexandre Ribeiro Martins (UTFPR-PB)
 
 ---
 

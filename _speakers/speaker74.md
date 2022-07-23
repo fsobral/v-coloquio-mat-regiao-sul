@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Javier Sánchez Serdà (IME-USP)
-name: Javier Sánchez Serdà (IME-USP)
+last_name: Ademir Alves Ribeiro (UFPR)
+name: Ademir Alves Ribeiro (UFPR)
 
 ---
 

@@ -267,7 +267,7 @@ days:
     - name: P7
       time_end: '14:30'
       time_start: '13:30'
-    - name: Mesa Redonda SBM
+    - name: Ações da SBM, apresentação e discussão da proposta de Doutorado Profmat
       time_end: '18:00'
       time_start: '16:30'
   - name: Meet Singularidades

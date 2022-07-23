@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Alexandre Tavares Baraviera (UFRS)
-name: Alexandre Tavares Baraviera (UFRS)
+last_name: Valéria Neves Domingos Cavalcanti (UEM)
+name: Valéria Neves Domingos Cavalcanti (UEM)
 
 ---
 

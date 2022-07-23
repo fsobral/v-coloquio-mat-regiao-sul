@@ -8,7 +8,7 @@ links: &id001
 live: *id001
 name: 'Sistemas dinâmicos: uma primeira visão (3/3)'
 speakers:
-- Alexandre Baraviera (IME - UFRGS)
+- Alexandre Tavares Baraviera (IME - UFRGS)
 - Flávia Malta Branco (IME - UFRGS)
 - Lucas Backes (IME - UFRGS)
 ---

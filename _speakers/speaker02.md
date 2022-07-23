@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Eduardo Amorim Neves
-name: Eduardo Amorim Neves
+last_name: Lilian Akemi Kato (UEM)
+name: Lilian Akemi Kato (UEM)
 
 ---
 

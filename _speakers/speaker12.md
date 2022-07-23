@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Lucas Backes (IME - UFRGS)
-name: Lucas Backes (IME - UFRGS)
+last_name: Luiz-Rafael Santos (UFSC/Blumenau)
+name: Luiz-Rafael Santos (UFSC/Blumenau)
 
 ---
 

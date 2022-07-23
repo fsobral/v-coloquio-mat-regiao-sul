@@ -8,7 +8,10 @@ links: &id001
 live: *id001
 name: Abertura
 speakers:
-- Comissão
+- Paolo Piccione (USP)
+- Valéria Neves Domingos Cavalcanti (UEM)
+- Lilian Akemi Kato (UEM)
+- Marcelo Escudeiro Hernandes (UEM)
 ---
 
 Abertura do evento.

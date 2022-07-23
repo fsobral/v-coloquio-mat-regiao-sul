@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Sandra Augusta Santos (UNICAMP)
-name: Sandra Augusta Santos (UNICAMP)
+last_name: Gregório Pacelli Bessa (UFC)
+name: Gregório Pacelli Bessa (UFC)
 
 ---
 

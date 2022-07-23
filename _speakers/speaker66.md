@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Rafael Afonso Barbosa (UFGD)
-name: Rafael Afonso Barbosa (UFGD)
+last_name: Miriam da Silva Pereira (UFPb)
+name: Miriam da Silva Pereira (UFPb)
 
 ---
 

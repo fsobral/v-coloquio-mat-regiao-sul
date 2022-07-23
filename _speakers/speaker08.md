@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Gislaine Aparecida Periçaro (UNESPAR - Campo Mourão)
-name: Gislaine Aparecida Periçaro (UNESPAR - Campo Mourão)
+last_name: Roberto Capristrano (UFPE)
+name: Roberto Capristrano (UFPE)
 
 ---
 

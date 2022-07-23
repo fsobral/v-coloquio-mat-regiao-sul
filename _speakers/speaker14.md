@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Roberto Imbuzeiro Oliveira (IMPA)
-name: Roberto Imbuzeiro Oliveira (IMPA)
+last_name: Lucas Backes (IME - UFRGS)
+name: Lucas Backes (IME - UFRGS)
 
 ---
 

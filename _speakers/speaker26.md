@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Emerson Tortoloa (UTFPR-Toledo)
-name: Emerson Tortoloa (UTFPR-Toledo)
+last_name: Eduardo H.M. Brietzke (UFRGS)
+name: Eduardo H.M. Brietzke (UFRGS)
 
 ---
 

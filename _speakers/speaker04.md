@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Mahendra Panthee (UNICAMP)
-name: Mahendra Panthee (UNICAMP)
+last_name: Alexandre Tavares Baraviera (IME - UFRGS)
+name: Alexandre Tavares Baraviera (IME - UFRGS)
 
 ---
 
