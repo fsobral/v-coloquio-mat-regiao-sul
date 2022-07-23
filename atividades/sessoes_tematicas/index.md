@@ -15,7 +15,7 @@ De acordo com o cronograma do colóquio, as sessões temáticas serão realizada
 1. Sessão Temática em Teoria de Singularidades;
 1. Sessão Temática em Códigos;
 1. Sessão Temática em Otimização;
-1. Sessão Temática em Educação Matemática/Ensino.
+1. Sessão Temática em Ensino.
 
 Cada sessão será composta por palestras de 30 minutos, totalizando 6 palestras por eixo temático e distribuída em dois dias da semana. Preliminarmente, as sessões temáticas estão organizadas de acordo com o seguinte cronograma.
 
@@ -160,7 +160,7 @@ Sessão Temática em Otimização
 
 Nessa sessão, serão apresentadas palestras que tratam de aspectos teóricos e aplicações relacionadas à otimização em várias direções, a saber, otimização linear, não linear e discreta. 
 
-<h1 class="display-5 mb-3">Educação Matemática</h1>
+<h1 class="display-5 mb-3">Ensino</h1>
 
 Para esse 5o Colóquio, a sessão temática em Educação Matemática, tem
 como tema: NOVOS DESAFIOS SOBRE APRENDER E ENSINAR MATEMÁTICA, que vem

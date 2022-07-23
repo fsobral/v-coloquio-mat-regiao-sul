@@ -133,8 +133,8 @@ min-width: 100px;
 Mesas Redondas:
 </h1>
 
-- MR1- Parentalidade e Academia (Fernanda Staniscuaski-Mediadora-UFRGS, Maité Kulesza – UFRPE, Maria Aparecida Soares Ruas-ICMC-USP, Walcy Santos-UFRJ)
-- MR2- Perspectivas Futuras da Pós-graduação (Rodrigo Bissacot-Mediador-USP, Gregório Pacelli Bessa-UFC , Sandra Augusta Santos-UNICAMP)
-- MR3- A definir (membros da diretoria da SBM)
+- MR1- Parentalidade e Academia (Fernanda Stanisçuaski - Mediadora - UFRGS, Maité Kulesza - UFRPE, Maria Aparecida Soares Ruas-ICMC-USP, Walcy Santos - UFRJ)
+- MR2- Perspectivas Futuras da Pós-graduação (Rodrigo Bissacot - Mediador - USP, Gregório Pacelli Bessa - UFC, Sandra Augusta Santos - UNICAMP)
+- MR3- Ações da SBM, apresentação e discussão da proposta de Doutorado Profmat (Roberto Imbuzeiro Oliveira - Mediador - IMPA, Paolo Piccione - USP, Jaqueline Mesquita - UnB, Walcy Santos - UFRJ)
 
 
