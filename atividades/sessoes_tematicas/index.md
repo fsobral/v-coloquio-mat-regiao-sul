@@ -160,7 +160,20 @@ Sessão Temática em Otimização
 
 Nessa sessão, serão apresentadas palestras que tratam de aspectos teóricos e aplicações relacionadas à otimização em várias direções, a saber, otimização linear, não linear e discreta. 
 
+<h1 class="display-5 mb-3">Educação Matemática</h1>
 
-Informações detalhadas sobre as palestras das sessões temáticas serão fornecidas em breve.
+Para esse 5o Colóquio, a sessão temática em Educação Matemática, tem
+como tema: NOVOS DESAFIOS SOBRE APRENDER E ENSINAR MATEMÁTICA, que vem
+ao encontro dos diversos desafios que estamos vivenciando nos
+diferentes níveis de ensino e formação de docentes, nas questões
+relacionadas ao ensino e à aprendizagem. Nesse contexto, convidamos
+professores, pesquisadores e interessados em educação matemática, a
+debaterem sobre dificuldades, possibilidades e avanços no âmbito da
+aprendizagem da Matemática, nesse novo cenário que se apresenta. As
+sessões ocorrerão nos dias 02 e 03 de agosto no horário das 15h às
+16h30 com 3 palestras temáticas em cada dia.
 
-<!-- Informações detalhadas sobre as atividades que ocorrerão em cada eixo temático podem ser obtidas em [Palestras](/talks/), [Palestrantes](/speakers/) ou ainda pela [Programação Completa](/program/) do evento. -->
+Informações detalhadas sobre as atividades que ocorrerão em cada eixo
+temático podem ser obtidas em [Palestras](/talks/),
+[Palestrantes](/speakers/) ou ainda pela [Programação
+Completa](/program/) do evento.
