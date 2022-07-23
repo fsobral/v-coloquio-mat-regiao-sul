@@ -3,7 +3,7 @@ categories:
 - Sessão Temática
 - Álgebra
 links: &id001
-- absolute_url: https://meet.google.com/txy-iquh-wda
+- absolute_url: https://https://meet.google.com/txy-iquh-wda
   icon: play
   name: Assistir
 live: *id001

@@ -3,7 +3,7 @@ categories:
 - Sessão Temática
 - EDP-LEE
 links: &id001
-- absolute_url: meet.google.com/hqp-vnhe-nsv
+- absolute_url: https://meet.google.com/hqp-vnhe-nsv
   icon: play
   name: Assistir
 live: *id001
