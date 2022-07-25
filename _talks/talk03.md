@@ -8,7 +8,7 @@ links: &id001
 live: *id001
 name: Homenagem ao Professor Luiz Adauto da Justa Medeiros (in memorian)
 speakers:
-- A definir
+- Cícero Lopes Frota (UEM)
 ---
 
 A ser enviado
