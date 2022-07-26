@@ -143,7 +143,7 @@ days:
       time_start: '16:00'
   - name: Meet Números
     talks:
-    - name: Sobre os Zeros de Polinômios Característicos de Sequências Recorrentes
+    - name: Sobre o comportamento aritmético de funções transcendentes
       time_end: '15:30'
       time_start: '15:00'
     - name: 'Ladrilhamentos: um novo enfoque sobre as partições de inteiros'

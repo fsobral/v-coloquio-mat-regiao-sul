@@ -2,7 +2,7 @@
 categories:
 - Sessão Temática
 - Números
-name: Sobre os Zeros de Polinômios Característicos de Sequências Recorrentes
+name: Sobre o comportamento aritmético de funções transcendentes
 speakers:
 - Diego Marques (UnB)
 ---
