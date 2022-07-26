@@ -1,11 +1,6 @@
 ---
 categories:
 - Plenária
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: 'Mulheres na Matemática: um projeto para dar visibilidade ao trabalho acadêmico-científico
   de matemáticas'
 speakers:

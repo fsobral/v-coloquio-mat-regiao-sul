@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Álgebra
-links: &id001
-- absolute_url: https://meet.google.com/txy-iquh-wda
-  icon: play
-  name: Assistir
-live: *id001
 name: Homomorfismos de anéis graduados em anéis com divisão graduados
 speakers:
 - Javier Sánchez Serdà (IME-USP)

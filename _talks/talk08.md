@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Otimização
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: Otimização robusta aplicada à seleção de portfólios de investimentos considerando
   a medida de risco CVaR
 speakers:

@@ -1,11 +1,6 @@
 ---
 categories:
 - Minicurso
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: O teorema de Bernstein para superfícies mínimas (3/3)
 speakers:
 - Arlandson Matheus Silva Oliveira (UEPb)

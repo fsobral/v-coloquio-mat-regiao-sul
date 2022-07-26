@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Lie
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: Plano osculador na Grasmanniana Gr₂(3,R)
 speakers:
 - Josiney A. Souza (UEM)

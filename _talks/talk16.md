@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Lie
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: Pontos recorrentes e decomposição de Jordan de fluxos de automorfismos
 speakers:
 - Adriano da Silva (Universidad de Tarapá)

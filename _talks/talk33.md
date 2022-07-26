@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Números
-links: &id001
-- absolute_url: https://meet.google.com/kns-qjni-hhh
-  icon: play
-  name: Assistir
-live: *id001
 name: 'Ladrilhamentos: um novo enfoque sobre as partições de inteiros'
 speakers:
 - Carlos Eduardo de Oliveira (IFSP)

@@ -1,11 +1,6 @@
 ---
 categories:
 - Plenária
-links: &id001
-- absolute_url: https://zoom.us
-  icon: play
-  name: Assistir
-live: *id001
 name: Sistemas dinâmicos e combinatória
 speakers:
 - Alexandre Tavares Baraviera (IME - UFRGS)

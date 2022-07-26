@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - EDP-DSD
-links: &id001
-- absolute_url: https://meet.google.com/hqp-vnhe-nsv
-  icon: play
-  name: Assistir
-live: *id001
 name: Estabilidade e dependência contínua de soluções de equações viscoelásticas com
   respeito ao tempo de criação da história
 speakers:

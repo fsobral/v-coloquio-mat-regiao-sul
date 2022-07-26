@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Educação Matemática/Ensino
-links: &id001
-- absolute_url: https://meet.google.com/fgz-fbwe-mzd
-  icon: play
-  name: Assistir
-live: *id001
 name: O movimento de constituição da Identidade Profissional de professores que ensinam
   matemática e o enfrentamento de desafios sobre aprender e ensinar matemática
 speakers:

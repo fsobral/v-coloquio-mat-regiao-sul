@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Otimização
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: Mathematical Programs with Cardinality Constraints
 speakers:
 - Ademir Alves Ribeiro (UFPR)

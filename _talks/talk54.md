@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - EDP-LEE
-links: &id001
-- absolute_url: https://meet.google.com/hqp-vnhe-nsv
-  icon: play
-  name: Assistir
-live: *id001
 name: Multi-Layers operators on rough domains and boundary value problems
 speakers:
 - Gustavo Hoepfner (UFSCar)

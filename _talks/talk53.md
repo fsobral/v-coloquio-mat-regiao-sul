@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Álgebra
-links: &id001
-- absolute_url: https://https://meet.google.com/txy-iquh-wda
-  icon: play
-  name: Assistir
-live: *id001
 name: Álgebras de Incidência
 speakers:
 - Ednei Aparecido Santulo Júnior (UEM)

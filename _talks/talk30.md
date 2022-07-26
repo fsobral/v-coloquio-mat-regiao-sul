@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Lie
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: Uma nova caracterização da ordem de Bruhat no grupo Simétrico
 speakers:
 - Lonardo Rabel (UFJF)

@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Números
-links: &id001
-- absolute_url: https://meet.google.com/kns-qjni-hhh
-  icon: play
-  name: Assistir
-live: *id001
 name: Sobre os Zeros de Polinômios Característicos de Sequências Recorrentes
 speakers:
 - Diego Marques (UnB)

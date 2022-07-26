@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Teoria de Singularidades
-links: &id001
-- absolute_url: https://meet.google.com/zvt-eogy-ong
-  icon: play
-  name: Assistir
-live: *id001
 name: On Deformations of Isolated Singularity Functions
 speakers:
 - Miriam da Silva Pereira (UFPb)

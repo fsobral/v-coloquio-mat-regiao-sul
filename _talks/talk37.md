@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Códigos
-links: &id001
-- absolute_url: https://meet.google.com/xsy-crcv-vpt
-  icon: play
-  name: Assistir
-live: *id001
 name: Construção de Cód. Clássicos e Quânticos Quase-Cíclicos via Plano Euclidiano
   Finito
 speakers:

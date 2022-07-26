@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Educação Matemática/Ensino
-links: &id001
-- absolute_url: https://meet.google.com/fgz-fbwe-mzd
-  icon: play
-  name: Assistir
-live: *id001
 name: 'Educação Matemática: agora que não somos mais professores tradicionais o que
   nos tornamos?'
 speakers:

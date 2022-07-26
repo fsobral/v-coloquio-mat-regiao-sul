@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - EDP-LEE
-links: &id001
-- absolute_url: https://meet.google.com/hqp-vnhe-nsv
-  icon: play
-  name: Assistir
-live: *id001
 name: Resolubilidade global Gevrey para uma classe de sistemas involutivos
 speakers:
 - Cleber de Medeira (UFPR)

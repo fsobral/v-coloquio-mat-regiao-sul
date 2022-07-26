@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Otimização
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: Condições de otimalidade sucesivas para problemas de otimização com um conjunto
   abstrato adicional
 speakers:

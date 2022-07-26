@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Álgebra
-links: &id001
-- absolute_url: https://meet.google.com/txy-iquh-wda
-  icon: play
-  name: Assistir
-live: *id001
 name: Sobre o duplo de Drinfeld da plano de Jordan restrita em característica 2
 speakers:
 - Daiana Aparecida da Silva Flores (UFSM)

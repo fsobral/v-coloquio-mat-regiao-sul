@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Teoria de Singularidades
-links: &id001
-- absolute_url: https://https://meet.google.com/zvt-eogy-ong
-  icon: play
-  name: Assistir
-live: *id001
 name: 'Classificação projetiva de superfície regradas via geometria da curva flecnodal '
 speakers:
 - Jorge Luiz Deolindo Silva (UFSC)

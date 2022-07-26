@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Educação Matemática/Ensino
-links: &id001
-- absolute_url: https://meet.google.com/fgz-fbwe-mzd
-  icon: play
-  name: Assistir
-live: *id001
 name: Modelagem matemática e os desafios para ensinar matemática na atualidade
 speakers:
 - Emerson Tortoloa (UTFPR-Toledo)

@@ -1,11 +1,6 @@
 ---
 categories:
 - Plenária
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: Um passeio pela Otimização Contínua
 speakers:
 - Elizabeth Wegner Karas (UFPR)

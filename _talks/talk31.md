@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Lie
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: Disconnected maximal torus and the topological entropy of powers
 speakers:
 - Mauro Patrão (UnB)

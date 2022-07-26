@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - EDP-LEE
-links: &id001
-- absolute_url: https://meet.google.com/hqp-vnhe-nsv
-  icon: play
-  name: Assistir
-live: *id001
 name: Symmetry and symmetry breaking for Hénon-type problems involving the 1-Laplacian
   operator
 speakers:

@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Códigos
-links: &id001
-- absolute_url: https://meet.google.com/xsy-crcv-vpt
-  icon: play
-  name: Assistir
-live: *id001
 name: Sobre Códigos Coloridos MDS
 speakers:
 - Clarice Dias de Albuquerque (UFCA)

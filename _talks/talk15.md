@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Lie
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: Invariant Einstein metrics on real flag manifolds
 speakers:
 - Lino Grama (UNICAMP)

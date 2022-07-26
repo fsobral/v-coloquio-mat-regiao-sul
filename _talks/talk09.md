@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Otimização
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: On the centralization of the circumcentered-reflection method
 speakers:
 - Luiz-Rafael Santos (UFSC/Blumenau)

@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Números
-links: &id001
-- absolute_url: https://meet.google.com/kns-qjni-hhh
-  icon: play
-  name: Assistir
-live: *id001
 name: Provas combinatórias de algumas identidades da Teoria das Partições de Inteiros
 speakers:
 - Eduardo H.M. Brietzke (UFRGS)

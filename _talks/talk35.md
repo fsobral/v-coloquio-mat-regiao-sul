@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Códigos
-links: &id001
-- absolute_url: https://meet.google.com/xsy-crcv-vpt
-  icon: play
-  name: Assistir
-live: *id001
 name: Codificação e Modulação Proveniente de Partição de Reticulados
 speakers:
 - Edson Donizete de Carvalho (FEIS-UNESP)

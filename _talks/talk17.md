@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Lie
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: 'Métodos de colagem em geometria '
 speakers:
 - Elizabeth Gasparin (Universidad Católica Del Norte)

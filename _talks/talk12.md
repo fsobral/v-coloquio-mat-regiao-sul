@@ -1,11 +1,6 @@
 ---
 categories:
 - Plenária
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: Uma média (podada) que é melhor que a média (aritmética)
 speakers:
 - Roberto Imbuzeiro Oliveira (IMPA)

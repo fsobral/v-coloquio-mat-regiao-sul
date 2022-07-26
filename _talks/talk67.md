@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - Otimização
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: Usando Quatérnios para resolver um problema de Geometria de Distâncias
 speakers:
 - Felipe Delfini Caetano Fidalgo (UFSC - Câmpus Blumenau)

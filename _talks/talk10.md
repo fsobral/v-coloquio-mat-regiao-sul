@@ -1,11 +1,6 @@
 ---
 categories:
 - Minicurso
-links: &id001
-- absolute_url: .nan
-  icon: play
-  name: Assistir
-live: *id001
 name: 'Sistemas dinâmicos: uma primeira visão (1/3)'
 speakers:
 - Alexandre Tavares Baraviera (IME - UFRGS)

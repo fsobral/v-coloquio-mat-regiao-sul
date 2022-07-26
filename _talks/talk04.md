@@ -2,11 +2,6 @@
 categories:
 - Sessão Temática
 - EDP-DSD
-links: &id001
-- absolute_url: https://meet.google.com/hqp-vnhe-nsv
-  icon: play
-  name: Assistir
-live: *id001
 name: Nonlinear Schrödinger equations with the third order dispersion on modulation
   spaces
 speakers:
