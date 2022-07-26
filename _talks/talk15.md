@@ -2,9 +2,9 @@
 categories:
 - Sessão Temática
 - Lie
-name: Invariant Einstein metrics on real flag manifolds
+name: Pontos recorrentes e decomposição de Jordan de fluxos de automorfismos
 speakers:
-- Lino Grama (UNICAMP)
+- Adriano da Silva (Universidad de Tarapá)
 ---
 
-In this talk we will discuss the classification of invariant Einstein metrics on real flag manifolds associated to simple and non-compact split real forms of complex classical Lie algebras whose isotropy representation decomposes into two or three irreducible sub-representations. We also discuss some phenomena in real flag manifolds that can not happen in complex flag manifolds. This includes the non-existence of invariant Einstein metric and examples of non-diagonal Einstein metrics. This is a joint work with Brian Grajales. 
+Em esta apresentação mostramos uma relação existente entre pontos recorrentes para fluxos de automorfismos e decomposição de Jordan. Em particular, no caso conexo, tal relação permite provar que todo fluxo admite, de fato, uma decomposição de Jordan.

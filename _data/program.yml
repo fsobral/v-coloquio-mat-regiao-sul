@@ -69,13 +69,13 @@ days:
       time_start: '16:30'
   - name: Meet Lie
     talks:
-    - name: Invariant Einstein metrics on real flag manifolds
+    - name: Pontos recorrentes e decomposição de Jordan de fluxos de automorfismos
       time_end: '15:30'
       time_start: '15:00'
-    - name: Pontos recorrentes e decomposição de Jordan de fluxos de automorfismos
+    - name: Uma nova caracterização da ordem de Bruhat no grupo Simétrico
       time_end: '16:00'
       time_start: '15:30'
-    - name: 'Métodos de colagem em geometria '
+    - name: Invariant Einstein metrics on real flag manifolds
       time_end: '16:30'
       time_start: '16:00'
   - name: Meet Números
@@ -132,13 +132,13 @@ days:
       time_start: '9:00'
   - name: Meet Lie
     talks:
-    - name: Plano osculador na Grasmanniana Gr₂(3,R)
+    - name: 'Métodos de colagem em geometria '
       time_end: '15:30'
       time_start: '15:00'
-    - name: Uma nova caracterização da ordem de Bruhat no grupo Simétrico
+    - name: Disconnected maximal torus and the topological entropy of powers
       time_end: '16:00'
       time_start: '15:30'
-    - name: Disconnected maximal torus and the topological entropy of powers
+    - name: Plano osculador na Grasmanniana Gr₂(3,R)
       time_end: '16:30'
       time_start: '16:00'
   - name: Meet Números
@@ -215,6 +215,18 @@ days:
     - name: Perspectivas Futuras da Pós-graduação
       time_end: '18:00'
       time_start: '16:30'
+  - name: Meet Otimização
+    talks:
+    - name: Usando Quatérnios para resolver um problema de Geometria de Distâncias
+      time_end: '15:30'
+      time_start: '15:00'
+    - name: Condições de otimalidade sucesivas para problemas de otimização com um
+        conjunto abstrato adicional
+      time_end: '16:00'
+      time_start: '15:30'
+    - name: Mathematical Programs with Cardinality Constraints
+      time_end: '16:30'
+      time_start: '16:00'
   - name: Meet Singularidades
     talks:
     - name: Lipschitz trivial values of polynomial mappings
@@ -290,18 +302,6 @@ days:
       time_end: '16:00'
       time_start: '15:30'
     - name: Códigos Geometricamente Uniformes e Particionamentos Ungerboeck em g-Toros
-      time_end: '16:30'
-      time_start: '16:00'
-  - name: Meet Otimização
-    talks:
-    - name: Usando Quatérnios para resolver um problema de Geometria de Distâncias
-      time_end: '15:30'
-      time_start: '15:00'
-    - name: Condições de otimalidade sucesivas para problemas de otimização com um
-        conjunto abstrato adicional
-      time_end: '16:00'
-      time_start: '15:30'
-    - name: Mathematical Programs with Cardinality Constraints
       time_end: '16:30'
       time_start: '16:00'
   - name: Meet Álgebra

@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Otimização
-name: Usando Quatérnios para resolver um problema de Geometria de Distâncias
+- Códigos
+name: Códigos coloridos hiperbólicos, com ou sem fronteiras.
 speakers:
-- Felipe Delfini Caetano Fidalgo (UFSC - Câmpus Blumenau)
+- Waldir Silva Soares Junior (UTFPR-PB)
 ---
 
-O Discretizable Molecular Distance Geometry Problem (DMDGP) é um problema inverso que deseja encontrar as posições de pontos, conhecendo um determinado conjunto de distâncias entre eles de modo que o espaço de busca seja discreto. Para resolvê-lo de maneira eficiente, existe o Algoritmo Branch-and-Prune (BP), uma estratégia combinatória de exploração do espaço discreto de busca, que é resolvido utilizando produtos recursivos de matrizes homogêneas em R3. Esta palestra tem por objetivo demonstrar que uma adaptação do BP utilizando Álgebra de Quatérnios produz resultados tão eficientes quanto, contudo utilizando menos operações aritméticas no processo. Os testes computacionais principais foram realizados em exemplares proteicos, dado que a Proteomica é a principal das aplicações do DMDGP.
+Os códigos coloridos foram introduzidos no ano de 2007 em um artigo chamado Topological Quantum Distillation, escrito por Bombim e Martin-Delgado. Neste artigo, são apresentados dois tipos de códigos coloridos, sendo um no toro, que codifica 2 qubits e outro em um triângulo com fronteiras de três cores diferentes que codifica apenas um qubit. Nossos estudos levaram a algumas generalizações desses códigos apresentados, em duas delas, em particular, fazendo uso da geometria hiperbólica. Vamos apresentar alguns dos resultados obtidos tanto para superfícies compactas sem bordo quanto para superfícies planas com bordo, comparando os parâmetros obtidos por tais códigos com outros presentes na literatura.

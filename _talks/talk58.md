@@ -1,9 +1,10 @@
 ---
 categories:
-- Plenária
-name: Um passeio pela Otimização Contínua
+- Sessão Temática
+- EDP-LEE
+name: Resolubilidade global Gevrey para uma classe de sistemas involutivos
 speakers:
-- Elizabeth Wegner Karas (UFPR)
+- Cleber de Medeira (UFPR)
 ---
 
-Otimização Contínua é uma área da Matemática Aplicada cujo foco de interesse reside, grosso modo, na minimização ou maximização de uma função contínua, restrita ou não a um subconjunto do seu domínio. Nesta palestra pretendemos introduzir conceitos desta área, de forma bastante geométrica, através de um passeio por aplicações e métodos computacionais.
+Nesse trabalho estudamos a resolubilidade global Gevrey de uma classe de sistemas de campos vetoriais complexos definidos no toro de dimensão n+1. Apresentamos uma caracterização completa da s-resolubilidade global dessa classe em termos de propriedades diofantinas dos coeficientes e a condição (P) de Nirenberg-Treves.  

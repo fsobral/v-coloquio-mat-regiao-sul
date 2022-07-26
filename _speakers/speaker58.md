@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Herivelto Martins Borges Filho (ICMC-USP)
-name: Herivelto Martins Borges Filho (ICMC-USP)
+last_name: Jorge Luiz Deolindo Silva (UFSC)
+name: Jorge Luiz Deolindo Silva (UFSC)
 
 ---
 

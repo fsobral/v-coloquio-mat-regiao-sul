@@ -2,9 +2,9 @@
 categories:
 - Sessão Temática
 - Lie
-name: Plano osculador na Grasmanniana Gr₂(3,R)
+name: 'Métodos de colagem em geometria '
 speakers:
-- Josiney A. Souza (UEM)
+- Elizabeth Gasparin (Universidad Católica Del Norte)
 ---
 
-Apresentaremos uma interpretação do conceito de torsão de uma curva usando ferramentas da teoria de Lie. A variação do plano osculador de uma curva pode ser representada por meio de uma curva diferenciável na variedade Grassmanniana Gr₂(3,R), cuja velocidade coincide com o módulo da torsão. A estratégia também é usada para mostrar que as hélices dependem dos vetores antissimétricos e de funções escalares controladoras.
+Vou apresentar métodos de colagem em geometria simplética e em geometria algébrica, e logo explicar uma nova dualidade que descobrimos recentemente  entre os 2 tipos de colagem. Esta dualidade involve fibrados cotangentes e superfícies complexas com singularidades. 

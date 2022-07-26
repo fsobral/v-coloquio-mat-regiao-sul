@@ -6,4 +6,4 @@ speakers:
 - Cícero Lopes Frota (UEM)
 ---
 
-A ser enviado
+Homenagem ao Professor Luiz Adauto da Justa Medeiros (in memorian)

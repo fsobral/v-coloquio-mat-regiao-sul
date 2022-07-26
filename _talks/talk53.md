@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Álgebra
-name: Álgebras de Incidência
+- Teoria de Singularidades
+name: Invariantes associados a germes de aplicações
 speakers:
-- Ednei Aparecido Santulo Júnior (UEM)
+- Michele Ferreira Zancheta Morgado (UNESP-SJRP)
 ---
 
-As álgebras de incidência de um conjunto parcialmente ordenado X foram primeiramente introduzidas por Rota e Stanley, na década de 1960, em um contexto combinatório relacionado com a inversão da aplicação de Möbius. Desde então, essa classe de álgebras têm se mostrado uma generalização interessante e bem comportada das álgebras de matrizes triangulares. Um problema clássico dessa teoria é o problema do isomorfismo, no qual são estudadas condições que devem ser satisfeitas por X e pelo anel R sobre o qual a álgebra está definida para que o isomorfismo entre duas R-álgebras de incidência implique o isomorfismo entre os respectivos conjuntos parcialmente ordenados. Nesta apresentação, além de introduzirmos esses assuntos, exibiremos alguns resultados envolvendo involuções, graduações, involuções invertendo graduação e automorfismos de Lie de tais álgebras
+No estudo de hipersuperfícies analíticas complexas singulares sob o ponto de vista local, ou seja, definidas por um germe de função holomorfa, Milnor prova um teorema de fibração, obtendo a chamada fibra de Milnor (local) associada a este germe. No caso em que a hipersuperfície tem singularidade isolada, Milnor introduziu um importante invariante, agora chamado número de Milnor, que tem um importante papel na teoria moderna de Singularidades. Bruce e Roberts estendem a definição de número de Milnor de um germe de função f, restringindo a um germe de variedade X.  Agora, no caso de germes de aplicações, sendo uma interseção completa com singularidade isolada (ICIS) Hamm provou que este germe também tem um número de Milnor bem definido associado, definido como o grau da homologia média da correspondente fibra de Milnor.   Neste contexto, buscamos estender o número de Bruce-Roberts no caso de germes de aplicações f, que são interseções completas, restritos a um germe de variedade X, entender propriedades geométricas do germe f e X e obter resultados entre os números de Hamm de f e esta extensão. 

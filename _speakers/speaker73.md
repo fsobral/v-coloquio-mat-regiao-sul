@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: María Laura Schuverdt (Universidad Nacional de La Plata)
-name: María Laura Schuverdt (Universidad Nacional de La Plata)
+last_name: Carlos Alexandre Ribeiro Martins (UTFPR-PB)
+name: Carlos Alexandre Ribeiro Martins (UTFPR-PB)
 
 ---
 

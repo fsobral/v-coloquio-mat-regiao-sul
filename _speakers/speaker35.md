@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Josiney A. Souza (UEM)
-name: Josiney A. Souza (UEM)
+last_name: Elizabeth Gasparin (Universidad Católica Del Norte)
+name: Elizabeth Gasparin (Universidad Católica Del Norte)
 
 ---
 

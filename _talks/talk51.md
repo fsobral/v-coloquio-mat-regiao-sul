@@ -1,11 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Álgebra
-name: Variedades minimais de PI-álgebras Z_n-graduadas e a fatorabilidade de seus
-  T-ideais
+- Teoria de Singularidades
+name: Lipschitz trivial values of polynomial mappings
 speakers:
-- Viviane Ribeiro Tomaz da Silva (UFMG)
+- Vicent Jean Henri Grandjean (UFC)
 ---
 
-Em 2003, Giambruno e Zaicev estabeleceram resultados interessantes relacionando variedades minimais de um dado PI-expoente e a fatorabilidade de seus T-ideais. Nesta palestra, lidaremos com variedades de PI-álgebras graduadas por grupos cíclicos finitos e apresentaremos alguns resultados recentes sobre a minimalidade destas variedades e a fatorabilidade de suas identidades polinomiais graduadas.
+I will fully characterize the real and complex polynomial mappings taking a value which is Lipschitz trivial.

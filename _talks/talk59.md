@@ -1,9 +1,10 @@
 ---
 categories:
-- Plenária
-name: P7
+- Sessão Temática
+- EDP-LEE
+name: Existência e regularidade de soluções periódicas para certas EDPs
 speakers:
-- Liliane de Almeida Maia (UnB)
+- Rafael Gonzalez (UEM)
 ---
 
-A ser enviado
+Caracterizar questões de existência e regularidade de soluções periódicas para EDPs lineares através de propriedades dos coeficientes, tais como ordem de anulamento, dependência linear, conexidade de subníveis de primitivas e condições Diofantinas.

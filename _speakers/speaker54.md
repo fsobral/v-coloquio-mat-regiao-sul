@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Vicent Jean Henri Grandjean (UFC)
-name: Vicent Jean Henri Grandjean (UFC)
+last_name: Felipe Delfini Caetano Fidalgo (UFSC - Câmpus Blumenau)
+name: Felipe Delfini Caetano Fidalgo (UFSC - Câmpus Blumenau)
 
 ---
 

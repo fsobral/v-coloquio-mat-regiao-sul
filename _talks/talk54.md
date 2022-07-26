@@ -1,10 +1,11 @@
 ---
 categories:
 - Sessão Temática
-- EDP-LEE
-name: Multi-Layers operators on rough domains and boundary value problems
+- Álgebra
+name: Variedades minimais de PI-álgebras Z_n-graduadas e a fatorabilidade de seus
+  T-ideais
 speakers:
-- Gustavo Hoepfner (UFSCar)
+- Viviane Ribeiro Tomaz da Silva (UFMG)
 ---
 
-In this talk I will discuss Calder\'on-Zygmund theory results for multi-layer potential operators associated with homogeneous constant coefficient higher order systems in uniformly rectifiable domains in ${\mathbb{R}}^n$ and applications to Fredholm theory for boundary value problems. This is a joint work with P. Liboni (UEL-Brazil), D. Mitrea (Baylor Univ.), I. Mitrea (Temple Univ.) and M. Mitrea (Baylor Univ.). 
+Em 2003, Giambruno e Zaicev estabeleceram resultados interessantes relacionando variedades minimais de um dado PI-expoente e a fatorabilidade de seus T-ideais. Nesta palestra, lidaremos com variedades de PI-álgebras graduadas por grupos cíclicos finitos e apresentaremos alguns resultados recentes sobre a minimalidade destas variedades e a fatorabilidade de suas identidades polinomiais graduadas.

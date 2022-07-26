@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Jorge Luiz Deolindo Silva (UFSC)
-name: Jorge Luiz Deolindo Silva (UFSC)
+last_name: María Laura Schuverdt (Universidad Nacional de La Plata)
+name: María Laura Schuverdt (Universidad Nacional de La Plata)
 
 ---
 

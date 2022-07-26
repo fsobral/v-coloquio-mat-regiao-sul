@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Lonardo Rabel (UFJF)
-name: Lonardo Rabel (UFJF)
+last_name: Mauro Patrão (UnB)
+name: Mauro Patrão (UnB)
 
 ---
 

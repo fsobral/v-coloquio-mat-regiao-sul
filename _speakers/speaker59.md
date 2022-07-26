@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Ednei Aparecido Santulo Júnior (UEM)
-name: Ednei Aparecido Santulo Júnior (UEM)
+last_name: Michele Ferreira Zancheta Morgado (UNESP-SJRP)
+name: Michele Ferreira Zancheta Morgado (UNESP-SJRP)
 
 ---
 
