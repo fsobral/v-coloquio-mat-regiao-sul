@@ -42,11 +42,11 @@ for i, row in schedule.iterrows():
         # appears twice, keep the last information
         rooms[currRoom] = {
             "name": currRoom,
-            "hide": False,
-            "links": [
-                {"name": "Assistir", "absolute_url": row["Link"],
-                 "icon":"play"}
-            ]
+            "hide": False
+            # "links": [
+            #     {"name": "Assistir", "absolute_url": row["Link"],
+            #      "icon":"play"}
+            # ]
         }
 
         # If is changing the day and is not the first row, then flush
@@ -74,11 +74,11 @@ for i, row in schedule.iterrows():
         # appears twice, keep the last information
         rooms[currRoom] = {
             "name": currRoom,
-            "hide": False,
-            "links": [
-                {"name": "Assistir", "absolute_url": row["Link"],
-                 "icon":"play"}
-            ]
+            "hide": False
+            # "links": [
+            #     {"name": "Assistir", "absolute_url": row["Link"],
+            #      "icon":"play"}
+            # ]
         }
         
     if currRoom not in rooms_for_a_day:
@@ -92,9 +92,9 @@ for i, row in schedule.iterrows():
         {
             "name": row["Titulo"],
             "categories": list(map(str.strip, row["Tipo"].split(';'))),
-            "speakers": list(map(str.strip, row["Palestrantes"].split(';'))),
-            "links": rooms[currRoom]["links"],
-            "live":  rooms[currRoom]["links"]
+            "speakers": list(map(str.strip, row["Palestrantes"].split(';')))
+            # "links": rooms[currRoom]["links"],
+            # "live":  rooms[currRoom]["links"]
         },
         "abstract": str(row["Resumo"]).replace("\\n", "\n")
     }
