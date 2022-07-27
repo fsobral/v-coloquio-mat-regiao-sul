@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Eduardo H.M. Brietzke (UFRGS)
-name: Eduardo H.M. Brietzke (UFRGS)
+last_name: Mateus Alegri (Universidade Federal de Sergipe)
+name: Mateus Alegri (Universidade Federal de Sergipe)
 
 ---
 

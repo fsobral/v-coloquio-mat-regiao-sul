@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Higidio Oquendo (UFPR)
-name: Higidio Oquendo (UFPR)
+last_name: João Alberto da Silva (FURG)
+name: João Alberto da Silva (FURG)
 
 ---
 

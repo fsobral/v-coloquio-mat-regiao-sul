@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Roberto Imbuzeiro Oliveira (IMPA)
-name: Roberto Imbuzeiro Oliveira (IMPA)
+last_name: Douglas Soares Gonçalves (UFSC)
+name: Douglas Soares Gonçalves (UFSC)
 
 ---
 

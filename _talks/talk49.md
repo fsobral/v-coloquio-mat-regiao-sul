@@ -2,10 +2,9 @@
 categories:
 - Sessão Temática
 - Otimização
-name: Condições de otimalidade sucesivas para problemas de otimização com um conjunto
-  abstrato adicional
+name: Usando Quatérnios para resolver um problema de Geometria de Distâncias
 speakers:
-- María Laura Schuverdt (Universidad Nacional de La Plata)
+- Felipe Delfini Caetano Fidalgo (UFSC - Câmpus Blumenau)
 ---
 
-As condições de otimalidade sucessivas são versões assintóticas das conhecidas condições de Karush-Kuhn-Tucker e desempenham um papel central no desenho e análise de algoritmos numéricos. Recentemente, foram definidas as chamadas condições Karush-Kuhn-Tucker aproximadas positivas (PAKKT) e a condição de qualificação estrita associada a esta condição de otimalidade sucessiva para problemas escalares gerais com restrições de igualdade e desigualdade. Neste trabalho, apresentamos uma extensão da condição PAKKT para problemas de otimização que possuem um conjunto abstrato adicional. Além disso, exploramos as relações entre a nova condição de qualificação e outras condições conhecidas na literatura como Abadie, quase-normalidade e a condição AKKT-regular. Finalmente, apresentamos um Método de Lagrangiano Aumentado para resolver o problema de otimização com conjunto abstrato de restrição e mostramos que pode ser provada a convergência global sob a nova condição.
+O Discretizable Molecular Distance Geometry Problem (DMDGP) é um problema inverso que deseja encontrar as posições de pontos, conhecendo um determinado conjunto de distâncias entre eles de modo que o espaço de busca seja discreto. Para resolvê-lo de maneira eficiente, existe o Algoritmo Branch-and-Prune (BP), uma estratégia combinatória de exploração do espaço discreto de busca, que é resolvido utilizando produtos recursivos de matrizes homogêneas em R3. Esta palestra tem por objetivo demonstrar que uma adaptação do BP utilizando Álgebra de Quatérnios produz resultados tão eficientes quanto, contudo utilizando menos operações aritméticas no processo. Os testes computacionais principais foram realizados em exemplares proteicos, dado que a Proteomica é a principal das aplicações do DMDGP.

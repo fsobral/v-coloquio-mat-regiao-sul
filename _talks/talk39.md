@@ -2,10 +2,10 @@
 categories:
 - Sessão Temática
 - Educação Matemática/Ensino
-name: 'Novos Desafios sobre Aprender e Ensinar Matemática: a Pós-Graduação e a formação
-  de professores que atuam no ensino de Matemática'
+name: 'A Análise de Erros no ensino e na aprendizagem de Cálculo Diferencial e Integral:
+  desafios e contribuições'
 speakers:
-- Marilaine de Fraga Sat'Ana (UFRGS)
+- Daniela Barbieri (UNESPAR-Paranavaí)
 ---
 
-Como coordenadora de um Programa de Pós-Graduação em Ensino de Matemática, que foca na pesquisa em Educação Matemática, discorro sobre desafios elencados a partir do grupo com o qual trabalho. Esse grupo é constituído por docentes de formações diversas, que pesquisam em diversos âmbitos, tomando por base referenciais teóricos também diversos. São apontados como desafios:  o conhecimento do conteúdo para o ensino; a aprendizagem conjunta da Matemática para embalar a discussão de questões sociais; a união entre prática e teoria pela reflexão; o aprender pela docência, mantendo o caráter artesanal da pesquisa; os impactos do retorno ao presencial, refletindo sobre as possibilidades e limitações do ensino remoto vivenciado na pandemia; a realidade e a reflexão aliadas aos conteúdos específicos; e a defesa da escola e da Universidade como espaços de aprendizagem e de experiências múltiplas. Esse rol de desafios reflete de certa maneira a diversidade do grupo representado e é pela diversidade do ensino e da pesquisa que percebemos possibilidades para enfrentá-los.
+A Análise de Erros é uma abordagem de pesquisa e ensino que tem sido empregada quando se detecta dificuldades na aprendizagem dos alunos, buscando identificá-las, por meio da análise do erros cometidos por eles em questões matemáticas. Consideramos esses erros como potenciais geradores de dúvidas construtivas, que conduzem os alunos a explorações e aprendizagens. Nessa palestra, pretendemos refletir sobre os desafios e contribuições dessa abordagem de ensino para a aprendizagem de matemática, particularmente nas aulas de Cálculo Diferencial e Integral (CDI). 

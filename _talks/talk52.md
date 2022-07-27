@@ -2,9 +2,9 @@
 categories:
 - Sessão Temática
 - Teoria de Singularidades
-name: 'Classificação projetiva de superfície regradas via geometria da curva flecnodal '
+name: Lipschitz trivial values of polynomial mappings
 speakers:
-- Jorge Luiz Deolindo Silva (UFSC)
+- Vicent Jean Henri Grandjean (UFC)
 ---
 
-Superfície regrada é um assunto clássico em geometria e definida por uma família de retas (geratrizes) movendo-se ao longo de uma curva (diretriz). Neste trabalho, de um ponto de vista da teoria de singularidades, focamos no caso regular e classificamos projetivamente os jatos das formas de Monge de superfícies regradas via geometria da curva flecnodal. 
+I will fully characterize the real and complex polynomial mappings taking a value which is Lipschitz trivial.

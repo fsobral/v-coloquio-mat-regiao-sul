@@ -2,9 +2,9 @@
 categories:
 - Sessão Temática
 - EDP-LEE
-name: Resolubilidade global Gevrey para uma classe de sistemas involutivos
+name: Multi-Layers operators on rough domains and boundary value problems
 speakers:
-- Cleber de Medeira (UFPR)
+- Gustavo Hoepfner (UFSCar)
 ---
 
-Nesse trabalho estudamos a resolubilidade global Gevrey de uma classe de sistemas de campos vetoriais complexos definidos no toro de dimensão n+1. Apresentamos uma caracterização completa da s-resolubilidade global dessa classe em termos de propriedades diofantinas dos coeficientes e a condição (P) de Nirenberg-Treves.  
+In this talk I will discuss Calder\'on-Zygmund theory results for multi-layer potential operators associated with homogeneous constant coefficient higher order systems in uniformly rectifiable domains in ${\mathbb{R}}^n$ and applications to Fredholm theory for boundary value problems. This is a joint work with P. Liboni (UEL-Brazil), D. Mitrea (Baylor Univ.), I. Mitrea (Temple Univ.) and M. Mitrea (Baylor Univ.). 

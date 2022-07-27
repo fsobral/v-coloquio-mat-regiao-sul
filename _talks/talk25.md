@@ -2,9 +2,9 @@
 categories:
 - Sessão Temática
 - EDP-DSD
-name: Attractors for locally damped Bresse systems
+name: Decaimento de soluções em placas de Kirchhoff e Euler Bernoulli
 speakers:
-- Rodrigo Monteiro (UEL)
+- Higidio Oquendo (UFPR)
 ---
 
-This present talk is devoted to Bresse systems, a robust model for circular beams, given by a set of three coupled wave equations. The main objective is to establish the existence of global attractors for dynamics of semilinear problems with localized damping. In order to deal with localized damping a unique continuation property (UCP) is needed. Therefore we also provide a suitable UCP for Bresse systems.
+Neste trabalho examinamos o tipo de decaimento que tem um sistema de placas acopladas. Uma das placas é de tipo Kirchhoff e outra de tipo Euler-Bernoulli. Estudamos o decaimento das soluções deste sistema uma vez que uma das placas é dissipada por termos de memória.

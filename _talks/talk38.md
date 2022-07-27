@@ -1,11 +1,11 @@
 ---
 categories:
 - Sessão Temática
-- Educação Matemática/Ensino
-name: 'A Análise de Erros no ensino e na aprendizagem de Cálculo Diferencial e Integral:
-  desafios e contribuições'
+- Códigos
+name: Construção de Cód. Clássicos e Quânticos Quase-Cíclicos via Plano Euclidiano
+  Finito
 speakers:
-- Daniela Barbieri (UNESPAR-Paranavaí)
+- Frederico Ventura Batista (UEM)
 ---
 
-A Análise de Erros é uma abordagem de pesquisa e ensino que tem sido empregada quando se detecta dificuldades na aprendizagem dos alunos, buscando identificá-las, por meio da análise do erros cometidos por eles em questões matemáticas. Consideramos esses erros como potenciais geradores de dúvidas construtivas, que conduzem os alunos a explorações e aprendizagens. Nessa palestra, pretendemos refletir sobre os desafios e contribuições dessa abordagem de ensino para a aprendizagem de matemática, particularmente nas aulas de Cálculo Diferencial e Integral (CDI). 
+Nessa palestra serão apresentadas famílias de códigos binários quase-cíclicos (QC) e famílias de códigos quânticos corretores de erros (QECC). Os códigos QC foram obtidos tomando como base o conceito de Plano Euclidiano Finito (PEF). A saber, o PEF é concebido com a ideia de ser um "análogo" do Plano Euclidiano, porém o primeiro é definido a partir de um corpo finito munido com uma relação de ordem e uma ferramenta inspirada na ideia de distância. Os códigos QC assim obtidos possuem propriedades interessantes das quais destacamos o fato de serem auto-ortogonais. Esta propriedade  dos códigos QC nos permite obter famílias de QECC por meio da construção CSS. A caracterização  dos códigos QC  e dos códigos QECC foi feita por meio da determinação de seus parâmetros.

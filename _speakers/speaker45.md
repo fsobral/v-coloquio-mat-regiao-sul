@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Marilaine de Fraga Sat'Ana (UFRGS)
-name: Marilaine de Fraga Sat'Ana (UFRGS)
+last_name: Daniela Barbieri (UNESPAR-Paranavaí)
+name: Daniela Barbieri (UNESPAR-Paranavaí)
 
 ---
 

@@ -2,10 +2,9 @@
 categories:
 - Sessão Temática
 - EDP-DSD
-name: Estabilidade e dependência contínua de soluções de equações viscoelásticas com
-  respeito ao tempo de criação da história
+name: Attractors for locally damped Bresse systems
 speakers:
-- Eduardo Tavares (UEL)
+- Rodrigo Monteiro (UEL)
 ---
 
-Nesta apresentação, será discutida inicialmente a estabilidade de soluções para uma classe de equações integro-diferenciais com memória em que o tempo de criação da história age como um parâmetro. Em seguida, será explorada a continuidade das soluções  com respeito ao tempo de criação. Tal dependência permitirá a recuperação de resultados conhecidos na literatura quando os casos limites forem considerados.
+This present talk is devoted to Bresse systems, a robust model for circular beams, given by a set of three coupled wave equations. The main objective is to establish the existence of global attractors for dynamics of semilinear problems with localized damping. In order to deal with localized damping a unique continuation property (UCP) is needed. Therefore we also provide a suitable UCP for Bresse systems.

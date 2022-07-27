@@ -1,13 +1,11 @@
 ---
 categories:
-- Minicurso
-name: O teorema de Bernstein para superfícies mínimas (1/3)
+- Sessão Temática
+- EDP-DSD
+name: Estabilidade e dependência contínua de soluções de equações viscoelásticas com
+  respeito ao tempo de criação da história
 speakers:
-- Arlandson Matheus Silva Oliveira (UEPb)
+- Eduardo Tavares (UEL)
 ---
 
-Inaugurando a segunda era de ouro das superfícies mínimas, com a teoria incipiente das equações diferenciais parciais, S. Bernstein [Sur une théorème de géometrie et ses applications aux équations dérivées partielles du type elliptique, Comm. Soc. Math. Kharkov 15 (1915-17), 38-45] provou em 1914 seu famoso teorema segundo o qual os planos são as únicas superfícies mínimas dadas como gráfico de uma função real de duas variáveis reais que tem, pelo menos, até as segundas derivadas parciais contínuas. O propósito deste minicurso é apresentar a demonstração deste resultado devida a J.C.C. Nitsche [Elementary proof of Bernstein’s theorem on minimal surfaces, Ann. of Math. (2) 66 (1957), 543–544].
-
-  Referências
-   1. S. Bernstein, Sur une théorème de géometrie et ses applications aux équations dérivées partielles du type elliptique, Comm. Soc. Math. Kharkov 15 (1915-17), 38-45.
-   2. J.C.C. Nitsche, Elementary proof of Bernstein’s theorem on minimal surfaces, Ann. of Math. (2) 66 (1957), 543-544.
+Nesta apresentação, será discutida inicialmente a estabilidade de soluções para uma classe de equações integro-diferenciais com memória em que o tempo de criação da história age como um parâmetro. Em seguida, será explorada a continuidade das soluções  com respeito ao tempo de criação. Tal dependência permitirá a recuperação de resultados conhecidos na literatura quando os casos limites forem considerados.

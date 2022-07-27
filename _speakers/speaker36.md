@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Mauro Patrão (UnB)
-name: Mauro Patrão (UnB)
+last_name: Elizabeth Gasparin (Universidad Católica Del Norte)
+name: Elizabeth Gasparin (Universidad Católica Del Norte)
 
 ---
 

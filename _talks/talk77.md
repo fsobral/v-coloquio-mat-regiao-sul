@@ -1,7 +1,7 @@
 ---
 categories:
 - Minicurso
-name: Uma introdução ao Cálculo Fracionário (1/3)
+name: Uma introdução ao Cálculo Fracionário (3/3)
 speakers:
 - Alessio Fiscella (University of Milan-Bicocca)
 ---
@@ -13,7 +13,7 @@ Nos últimos anos, problemas e operadores fracionários foram amplamente estudad
    - 02/08: descrevemos as propriedades e ferramentas básicas necessarias para estudar problemas nãolineares variacionalmente;
    - 03/08: concluímos a análise das propriedades, mostrando algumas aplicações.
 
-  Referências
+  ### Referências
    1. R. A. Adams, Sobolev Spaces, Academic Press, New York, (1975).
    2. L. Brasco, E. Parini and M. Squassina, Stability of varia- tional eigenvalues for the fractional p-Laplacian, Discrete Con- tin. Dyn. Syst. 36, no. 4, 1813-1845 (2016).
    3. E. Di Nezza, G. Palatucci and E. Valdinoci, Hitchhi- ker's guide to the fractional Sobolev spaces, Bull. Sci. Math. 136, no. 5, 521573 (2012).

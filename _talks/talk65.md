@@ -1,10 +1,12 @@
 ---
 categories:
-- Sessão Temática
-- Teoria de Singularidades
-name: Sobre Singularidades Quase Ordinárias
+- Mesa Redonda
+name: Ações da SBM, apresentação e discussão da proposta de Doutorado Profmat
 speakers:
-- Rafael Afonso Barbosa (UFGD)
+- Roberto Imbuzeiro Oliveira (IMPA)
+- Paolo Piccione (USP)
+- Jaqueline Mesquita (UnB)
+- Walcy Santos (UFRJ)
 ---
 
-Nesta palestra vamos abordar uma categoria de hipersuperfícies que possuem algumas propriedades que são generalizações das curvas planas: hipersuperfícies quase ordinárias. Apresentaremos uma construção que permite descrever uma hipersuperfície quase ordinária particular a partir de uma hipersuperfície quase ordinária mergulhada em um espaço de dimensão menor, exploraremos relações entre seus invariantes e mostraremos que tal construção é sensível por mudanças de coordenadas.
+A ser enviado

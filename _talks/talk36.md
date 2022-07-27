@@ -2,9 +2,9 @@
 categories:
 - Sessão Temática
 - Códigos
-name: Sobre Códigos Coloridos MDS
+name: Codificação e Modulação Proveniente de Partição de Reticulados
 speakers:
-- Clarice Dias de Albuquerque (UFCA)
+- Edson Donizete de Carvalho (FEIS-UNESP)
 ---
 
-É conhecido na Teoria de Codificação Clássica que os parâmetros [n, k, d] de um código linear satisfazem a desigualdade  n−k ≥ d− 1, conhecida como Limitante de Singleton. Um código em que vale a igualdade n - k = d - 1 é chamado MDS (Maximum Distance Separable). Os códigos MDS se destacam porque, para n e k fixos, tais códigos tem a maior capacidade de detecção e correção de erros. Considerando um código quântico com parâmetros [[n, k, d]], o análogo quântico do limitante de Singleton é dado por n − k ≥ 2.(d − 1). Logo, um código quântico é MDS se satura esse limitante. No caso dos códigos quânticos topológicos, existem na literatura alguns códigos MDS com d = 2. Neste trabalho será mostrado que os únicos códigos coloridos MDS pertencem à classe [[4g+2, 4g, 2]], onde g é o gênero da superfície na qual está definida o código.
+Modulação codificada é uma técnica que permite realizar a modulação e a codificação em uma única etapa através da seleção de  sinais  em um conjunto de sinais S de um espaço métrico M. Se o conjunto de sinais S for  invariante sob a ação de um grupo G, dizemos que S é geometricamente uniforme (GU).  As regiões de Voronoi associadas aos conjuntos de sinais GU são todas congruentes independente do sinal transmitido.  Partição de reticulados fornece um eficiente método para obter codificadores e moduladores a partir da seleção de sinais em um conjunto de sinais S (GU) identificados por um conjunto  discreto de pontos proveniente de baricentros de polígonos regulares, seja no plano euclidiano ou no plano hiperbólico. No plano euclidiano, os reticulados obtidos tem uma estrutura de grupo aditivo e no plano hiperbólico os reticulados tem uma estrutura  multiplicativa obtido a partir de uma ordem  dos quatérnios  derivada de grupos  Fuchsianos aritméticos.

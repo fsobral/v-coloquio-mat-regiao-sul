@@ -1,12 +1,9 @@
 ---
 categories:
-- Mesa Redonda
-name: Ações da SBM, apresentação e discussão da proposta de Doutorado Profmat
+- Plenária
+name: Um passeio pela Otimização Contínua
 speakers:
-- Roberto Imbuzeiro Oliveira (IMPA)
-- Paolo Piccione (USP)
-- Jaqueline Mesquita (UnB)
-- Walcy Santos (UFRJ)
+- Elizabeth Wegner Karas (UFPR)
 ---
 
-A ser enviado
+Otimização Contínua é uma área da Matemática Aplicada cujo foco de interesse reside, grosso modo, na minimização ou maximização de uma função contínua, restrita ou não a um subconjunto do seu domínio. Nesta palestra pretendemos introduzir conceitos desta área, de forma bastante geométrica, através de um passeio por aplicações e métodos computacionais.

@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Rodrigo Bissacot (USP)
-name: Rodrigo Bissacot (USP)
+last_name: Edson Sampaio (UFC)
+name: Edson Sampaio (UFC)
 
 ---
 

@@ -2,10 +2,9 @@
 categories:
 - Sessão Temática
 - Códigos
-name: Construção de Cód. Clássicos e Quânticos Quase-Cíclicos via Plano Euclidiano
-  Finito
+name: Sobre Códigos Coloridos MDS
 speakers:
-- Frederico Ventura Batista (UEM)
+- Clarice Dias de Albuquerque (UFCA)
 ---
 
-Nessa palestra serão apresentadas famílias de códigos binários quase-cíclicos (QC) e famílias de códigos quânticos corretores de erros (QECC). Os códigos QC foram obtidos tomando como base o conceito de Plano Euclidiano Finito (PEF). A saber, o PEF é concebido com a ideia de ser um "análogo" do Plano Euclidiano, porém o primeiro é definido a partir de um corpo finito munido com uma relação de ordem e uma ferramenta inspirada na ideia de distância. Os códigos QC assim obtidos possuem propriedades interessantes das quais destacamos o fato de serem auto-ortogonais. Esta propriedade  dos códigos QC nos permite obter famílias de QECC por meio da construção CSS. A caracterização  dos códigos QC  e dos códigos QECC foi feita por meio da determinação de seus parâmetros.
+É conhecido na Teoria de Codificação Clássica que os parâmetros [n, k, d] de um código linear satisfazem a desigualdade  n−k ≥ d− 1, conhecida como Limitante de Singleton. Um código em que vale a igualdade n - k = d - 1 é chamado MDS (Maximum Distance Separable). Os códigos MDS se destacam porque, para n e k fixos, tais códigos tem a maior capacidade de detecção e correção de erros. Considerando um código quântico com parâmetros [[n, k, d]], o análogo quântico do limitante de Singleton é dado por n − k ≥ 2.(d − 1). Logo, um código quântico é MDS se satura esse limitante. No caso dos códigos quânticos topológicos, existem na literatura alguns códigos MDS com d = 2. Neste trabalho será mostrado que os únicos códigos coloridos MDS pertencem à classe [[4g+2, 4g, 2]], onde g é o gênero da superfície na qual está definida o código.

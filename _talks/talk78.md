@@ -1,7 +1,7 @@
 ---
 categories:
 - Minicurso
-name: Introdução à Geometria de Distâncias (2/3)
+name: Introdução à Geometria de Distâncias (3/3)
 speakers:
 - Douglas Soares Gonçalves (UFSC)
 ---

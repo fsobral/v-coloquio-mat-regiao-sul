@@ -1,4 +1,4 @@
 ---
 hide: false
-name: Meet Álgebra
+name: Meet Singularidades
 ---

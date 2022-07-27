@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- EDP-LEE
-name: Multi-Layers operators on rough domains and boundary value problems
+- Álgebra
+name: Álgebras de Incidência
 speakers:
-- Gustavo Hoepfner (UFSCar)
+- Ednei Aparecido Santulo Júnior (UEM)
 ---
 
-In this talk I will discuss Calder\'on-Zygmund theory results for multi-layer potential operators associated with homogeneous constant coefficient higher order systems in uniformly rectifiable domains in ${\mathbb{R}}^n$ and applications to Fredholm theory for boundary value problems. This is a joint work with P. Liboni (UEL-Brazil), D. Mitrea (Baylor Univ.), I. Mitrea (Temple Univ.) and M. Mitrea (Baylor Univ.). 
+As álgebras de incidência de um conjunto parcialmente ordenado X foram primeiramente introduzidas por Rota e Stanley, na década de 1960, em um contexto combinatório relacionado com a inversão da aplicação de Möbius. Desde então, essa classe de álgebras têm se mostrado uma generalização interessante e bem comportada das álgebras de matrizes triangulares. Um problema clássico dessa teoria é o problema do isomorfismo, no qual são estudadas condições que devem ser satisfeitas por X e pelo anel R sobre o qual a álgebra está definida para que o isomorfismo entre duas R-álgebras de incidência implique o isomorfismo entre os respectivos conjuntos parcialmente ordenados. Nesta apresentação, além de introduzirmos esses assuntos, exibiremos alguns resultados envolvendo involuções, graduações, involuções invertendo graduação e automorfismos de Lie de tais álgebras

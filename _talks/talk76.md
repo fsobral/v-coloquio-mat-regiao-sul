@@ -1,7 +1,7 @@
 ---
 categories:
 - Minicurso
-name: O teorema de Bernstein para superfícies mínimas (2/3)
+name: O teorema de Bernstein para superfícies mínimas (3/3)
 speakers:
 - Arlandson Matheus Silva Oliveira (UEPb)
 ---

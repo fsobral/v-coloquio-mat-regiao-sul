@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Daiana Aparecida da Silva Flores (UFSM)
-name: Daiana Aparecida da Silva Flores (UFSM)
+last_name: Javier Sánchez Serdà (IME-USP)
+name: Javier Sánchez Serdà (IME-USP)
 
 ---
 

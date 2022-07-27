@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Walcy Santos (UFRJ)
-name: Walcy Santos (UFRJ)
+last_name: Maria Aparecida Soares Ruas (ICMC-USP)
+name: Maria Aparecida Soares Ruas (ICMC-USP)
 
 ---
 

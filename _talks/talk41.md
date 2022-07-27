@@ -1,13 +1,11 @@
 ---
 categories:
 - Sessão Temática
-- EDP-LEE
-name: Multiplicity of solutions for a nonlinear boundary value problem in the upper
-  half-space
+- Educação Matemática/Ensino
+name: O movimento de constituição da Identidade Profissional de professores que ensinam
+  matemática e o enfrentamento de desafios sobre aprender e ensinar matemática
 speakers:
-- Marcelo Furtado (UnB)
+- Márcia Cristina de Costa Trindade Cyrino (UEL)
 ---
 
-We obtain multiple solutions for the nonlinear boundary value problem $$ -\Delta u-\dfrac{1}{2}\left(  x\cdot
-abla u\right)  = f(\lambda,x,u), \mbox{ in }\mathbb{R}_{+}^{N}, \qquad \dfrac{\partial u}{\partial
-u}=g(\mu,x',u), \mbox{ on } \partial \mathbb{R}_{+}^{N}, $$ where $\mathbb{R}^N_+ = \{(x',x_N) : x' \in \mathbb{R}^{N-1},\,x_N>0 \}$ is the upper half-space and $\lambda,\,\mu>0$ are parameters. We consider sublinear, linear and superlinear cases and the function $g$ has critical growth.
+A identidade profissional (IP) docente desempenha um papel central na compreensão das práticas de ensino, na ressignificação da prática docente, na motivação para ensinar, no bem-estar pessoal e profissional, bem como na tomada de decisão a respeito da carreira de professor. Considerando que o movimento de constituição da IP de professores que ensinam matemática (PEM) é um processo contínuo, complexo, dinâmico, temporal e experiencial, nesse seminário discutiremos o papel desse movimento na formação (inicial e continuada) de PEM e o enfrentamento de desafios sobre aprender e ensinar matemática.

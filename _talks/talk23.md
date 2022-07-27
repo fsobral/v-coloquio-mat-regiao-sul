@@ -2,10 +2,10 @@
 categories:
 - Sessão Temática
 - Educação Matemática/Ensino
-name: 'Educação Matemática: agora que não somos mais professores tradicionais o que
-  nos tornamos?'
+name: Os desafios de ensinar Matemática na Ed. Infantil e nos Anos Iniciais do Ensino
+  Fundamental
 speakers:
-- João Alberto da Silva (FURG)
+- Fernando Moreira Barnabé (Associação Nova Escola)
 ---
 
-Há relativo consenso que as práticas tradicionais de ensino de Matemática -entendidas como aquelas que privilegiam a memorização, a reprodução e os algoritmos- são pouco eficientes frente às demandas científicas e tecnológicas desse espaço-tempo contemporâneo que vivemos. Entretanto, as possibilidade de ser professor que ensina Matemática são muitas. Neste encontro planejo discuti sobre práticas de ensino de Matemática que são para além do ensino tradicional, mas que superam o senso comum e alicerçam-se em abordagens científicas oriundas da Didática da Matemática. 
+Com as propostas de trabalho organizadas a partir da homologação da BNCC, o ensino de Matemática tem seu princípio de trabalho reforçado, mas com grandes desafios, principalmente no que tange a formação inicial e continuada dos professores da educação básica brasileira. Além da formação, as mudanças de propostas de trabalho para quem cursa pedagogia e decide pela carreira docente esbarra em desafios que vão desde questões financeiras ao acesso à metodologias de trabalho variadas.

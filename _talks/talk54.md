@@ -1,11 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Álgebra
-name: Variedades minimais de PI-álgebras Z_n-graduadas e a fatorabilidade de seus
-  T-ideais
+- Teoria de Singularidades
+name: Invariantes associados a germes de aplicações
 speakers:
-- Viviane Ribeiro Tomaz da Silva (UFMG)
+- Michele Ferreira Zancheta Morgado (UNESP-SJRP)
 ---
 
-Em 2003, Giambruno e Zaicev estabeleceram resultados interessantes relacionando variedades minimais de um dado PI-expoente e a fatorabilidade de seus T-ideais. Nesta palestra, lidaremos com variedades de PI-álgebras graduadas por grupos cíclicos finitos e apresentaremos alguns resultados recentes sobre a minimalidade destas variedades e a fatorabilidade de suas identidades polinomiais graduadas.
+No estudo de hipersuperfícies analíticas complexas singulares sob o ponto de vista local, ou seja, definidas por um germe de função holomorfa, Milnor prova um teorema de fibração, obtendo a chamada fibra de Milnor (local) associada a este germe. No caso em que a hipersuperfície tem singularidade isolada, Milnor introduziu um importante invariante, agora chamado número de Milnor, que tem um importante papel na teoria moderna de Singularidades. Bruce e Roberts estendem a definição de número de Milnor de um germe de função f, restringindo a um germe de variedade X.  Agora, no caso de germes de aplicações, sendo uma interseção completa com singularidade isolada (ICIS) Hamm provou que este germe também tem um número de Milnor bem definido associado, definido como o grau da homologia média da correspondente fibra de Milnor.   Neste contexto, buscamos estender o número de Bruce-Roberts no caso de germes de aplicações f, que são interseções completas, restritos a um germe de variedade X, entender propriedades geométricas do germe f e X e obter resultados entre os números de Hamm de f e esta extensão. 

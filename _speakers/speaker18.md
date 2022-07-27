@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Maité Kulesza (UFRPE)
-name: Maité Kulesza (UFRPE)
+last_name: Fernanda Stanisçuaski (UFRGS)
+name: Fernanda Stanisçuaski (UFRGS)
 
 ---
 

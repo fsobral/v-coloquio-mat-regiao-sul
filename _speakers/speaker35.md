@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Elizabeth Gasparin (Universidad Católica Del Norte)
-name: Elizabeth Gasparin (Universidad Católica Del Norte)
+last_name: Cecília de Souza Fernandes (UFF)
+name: Cecília de Souza Fernandes (UFF)
 
 ---
 

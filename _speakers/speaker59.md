@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Michele Ferreira Zancheta Morgado (UNESP-SJRP)
-name: Michele Ferreira Zancheta Morgado (UNESP-SJRP)
+last_name: Jorge Luiz Deolindo Silva (UFSC)
+name: Jorge Luiz Deolindo Silva (UFSC)
 
 ---
 

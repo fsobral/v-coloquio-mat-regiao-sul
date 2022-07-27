@@ -2,9 +2,9 @@
 categories:
 - Sessão Temática
 - EDP-LEE
-name: Existência e regularidade de soluções periódicas para certas EDPs
+name: Resolubilidade global Gevrey para uma classe de sistemas involutivos
 speakers:
-- Rafael Gonzalez (UEM)
+- Cleber de Medeira (UFPR)
 ---
 
-Caracterizar questões de existência e regularidade de soluções periódicas para EDPs lineares através de propriedades dos coeficientes, tais como ordem de anulamento, dependência linear, conexidade de subníveis de primitivas e condições Diofantinas.
+Nesse trabalho estudamos a resolubilidade global Gevrey de uma classe de sistemas de campos vetoriais complexos definidos no toro de dimensão n+1. Apresentamos uma caracterização completa da s-resolubilidade global dessa classe em termos de propriedades diofantinas dos coeficientes e a condição (P) de Nirenberg-Treves.  

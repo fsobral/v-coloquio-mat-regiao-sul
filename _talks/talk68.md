@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Códigos
-name: Critério de Busca para STC em canais MIMO
+- Teoria de Singularidades
+name: The Nash modification of parametrized singular surfaces
 speakers:
-- Carlos Alexandre Ribeiro Martins (UTFPR-PB)
+- Nivaldo de Góes Grulha Júnior (USP-São Carlos)
 ---
 
-Apresentamos um novo critério de busca para códigos espaço-temporais em canais de comunicação multiantena. Este critério tem como objetivo minimizar a probabilidade de erro par-a-par do decodificador de máxima-verossimilhança, munido da norma espectral de matrizes. 
+In this work, we show that, under certain conditions, the Nash Modification of a singular surface parameterized by a corank one application is smooth. 

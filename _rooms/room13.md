@@ -1,4 +1,4 @@
 ---
 hide: false
-name: Meet Códigos
+name: Meet Álgebra
 ---

@@ -1,12 +1,9 @@
 ---
 categories:
-- Mesa Redonda
-name: Parentalidade e Academia
+- Plenária
+name: Métodos topológicos em problemas variacionais geométricos
 speakers:
-- Fernanda Stanisçuaski (UFRGS)
-- Maité Kulesza (UFRPE)
-- Maria Aparecida Soares Ruas (ICMC-USP)
-- Walcy Santos (UFRJ)
+- Paolo Piccione (USP)
 ---
 
-A ser enviado
+Nesta palestra irei apresentar algumas técnicas para determinar existência de soluções de problemas variacionais em Geometria. Mais precisamente, falarei sobre a Teoria de Lusternik-Schnirelman, sobre a Teoria de Morse, e sobre a Teoria da Bifurcação, discutindo algumas aplicações aos meus problemas variacionais preferidos: o problema de Yamabe, geodésicas e superfícies mínimas.

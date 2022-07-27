@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Números
-name: Sobre o comportamento aritmético de funções transcendentes
+- Lie
+name: Plano osculador na Grasmanniana Gr₂(3,R)
 speakers:
-- Diego Marques (UnB)
+- Josiney A. Souza (UEM)
 ---
 
-Sejam p, q, k e l inteiros positivos. A sequência (p,q,k,l)-Fibonacci é definida pela recorrência F_{p,q,k,l}(n)=kF_{p,q,k,l}(n-p)+l F_{p,q,k,l}(n-q). Nessa apresentação, vamos mostrar alguns aspectos algébricos, geométricos e analíticos das raízes do polinômio característico dessa sequência. Esse é um trabalho em conjunto com P. Trojovsky e está aceito para publicação no Bulletin of Brazilian Mathematical Society.
+Apresentaremos uma interpretação do conceito de torsão de uma curva usando ferramentas da teoria de Lie. A variação do plano osculador de uma curva pode ser representada por meio de uma curva diferenciável na variedade Grassmanniana Gr₂(3,R), cuja velocidade coincide com o módulo da torsão. A estratégia também é usada para mostrar que as hélices dependem dos vetores antissimétricos e de funções escalares controladoras.
