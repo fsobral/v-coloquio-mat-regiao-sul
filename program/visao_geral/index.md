@@ -94,8 +94,8 @@ min-width: 100px;
 	<tr>
 		<th scope='row'> 16:30-18:00   </th>
 		<td>  Homenagem ao Professor Luiz Adauto da Justa Medeiros (in memorian)  </td>
-		<td>  MR1  </td>
 		<td>  #  </td>
+		<td>  MR1  </td>
 		<td>  MR2 </td>
 		<td>  MR3 e Encerramento  </td>
 	</tr>	
