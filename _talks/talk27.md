@@ -1,11 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Educação Matemática/Ensino
-name: 'Educação Matemática: agora que não somos mais professores tradicionais o que
-  nos tornamos?'
+- EDP-DSD
+name: Decaimento de soluções em placas de Kirchhoff e Euler Bernoulli
 speakers:
-- João Alberto da Silva (FURG)
+- Higidio Oquendo (UFPR)
 ---
 
-Há relativo consenso que as práticas tradicionais de ensino de Matemática -entendidas como aquelas que privilegiam a memorização, a reprodução e os algoritmos- são pouco eficientes frente às demandas científicas e tecnológicas desse espaço-tempo contemporâneo que vivemos. Entretanto, as possibilidade de ser professor que ensina Matemática são muitas. Neste encontro planejo discuti sobre práticas de ensino de Matemática que são para além do ensino tradicional, mas que superam o senso comum e alicerçam-se em abordagens científicas oriundas da Didática da Matemática. 
+Neste trabalho examinamos o tipo de decaimento que tem um sistema de placas acopladas. Uma das placas é de tipo Kirchhoff e outra de tipo Euler-Bernoulli. Estudamos o decaimento das soluções deste sistema uma vez que uma das placas é dissipada por termos de memória.

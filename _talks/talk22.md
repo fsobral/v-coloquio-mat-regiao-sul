@@ -2,9 +2,9 @@
 categories:
 - Sessão Temática
 - Números
-name: Formas Aditivas p-ádicas - Um Survey
+name: Identidades envolvendo somas de divisores e partições de inteiros
 speakers:
-- Hemar Godinho (Universidade de Brasília - UnB)
+- Mateus Alegri (Universidade Federal de Sergipe)
 ---
 
-Nesta palestra apresentarei os resultados que guiam o desenvolvimento dessa área. Algumas técnicas serão discutidas, e concluirei a palestra apresentado tanto resultados clássicos como também aqueles mais recentes.
+Nosso objetivo é mostrar como obtemos a expansão em série de Maclaurin para uma conhecida função envolvendo a função eta de Dedekind.  A busca por tal fórmula estava sendo procurada desde 1955. Destacamos a importância desta descoberta devido a relevância da função eta de Dedekind, que foi detalhadamente estudada por S. Ramanujan. Ao final, mostramos como lidar com $q$-produtórios a fim de se obter expansões semelhantes.

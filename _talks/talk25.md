@@ -2,9 +2,10 @@
 categories:
 - Sessão Temática
 - Educação Matemática/Ensino
-name: Modelagem matemática e os desafios para ensinar matemática na atualidade
+name: Os desafios de ensinar Matemática na Ed. Infantil e nos Anos Iniciais do Ensino
+  Fundamental
 speakers:
-- Emerson Tortoloa (UTFPR-Toledo)
+- Fernando Moreira Barnabé (Associação Nova Escola)
 ---
 
-Neste trabalho tenho como objetivo discutir alguns desafios pedagógicos enfrentados pelos professores que ensinam Matemática na Educação Básica, os quais vão desde a ineficiência da escola em acompanhar os avanços tecnológicos da sociedade até os reflexos das imposições trazidas pela pandemia de COVID-19. Entre a facilidade de obter informações e o excesso na disseminação de fake news, onde fica o conhecimento escolar? A modelagem matemática tem se mostrado como uma possibilidade de enfrentar tais desafios, viabilizando que o ensino de Matemática transcenda as ‘paredes’ da sala de aula.
+Com as propostas de trabalho organizadas a partir da homologação da BNCC, o ensino de Matemática tem seu princípio de trabalho reforçado, mas com grandes desafios, principalmente no que tange a formação inicial e continuada dos professores da educação básica brasileira. Além da formação, as mudanças de propostas de trabalho para quem cursa pedagogia e decide pela carreira docente esbarra em desafios que vão desde questões financeiras ao acesso à metodologias de trabalho variadas.

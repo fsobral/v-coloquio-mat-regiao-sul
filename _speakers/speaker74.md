@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Miriam da Silva Pereira (UFPb)
-name: Miriam da Silva Pereira (UFPb)
+last_name: Walcy Santos (UFRJ)
+name: Walcy Santos (UFRJ)
 
 ---
 

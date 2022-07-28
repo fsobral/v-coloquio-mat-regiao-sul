@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Rodrigo Monteiro (UEL)
-name: Rodrigo Monteiro (UEL)
+last_name: Maité Kulesza (UFRPE)
+name: Maité Kulesza (UFRPE)
 
 ---
 

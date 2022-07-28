@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Hemar Godinho (Universidade de Brasília - UnB)
-name: Hemar Godinho (Universidade de Brasília - UnB)
+last_name: Fernando Moreira Barnabé (Associação Nova Escola)
+name: Fernando Moreira Barnabé (Associação Nova Escola)
 
 ---
 

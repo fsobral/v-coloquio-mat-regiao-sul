@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Nivaldo de Góes Grulha Júnior (USP-São Carlos)
-name: Nivaldo de Góes Grulha Júnior (USP-São Carlos)
+last_name: Rafael Afonso Barbosa (UFMS)
+name: Rafael Afonso Barbosa (UFMS)
 
 ---
 

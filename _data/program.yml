@@ -69,9 +69,6 @@ days:
     - name: Métodos topológicos em problemas variacionais geométricos
       time_end: '14:30'
       time_start: '13:30'
-    - name: Parentalidade e Academia
-      time_end: '18:00'
-      time_start: '16:30'
   - name: Meet MC2
     talks:
     - name: O teorema de Bernstein para superfícies mínimas (1/3)
@@ -146,6 +143,9 @@ days:
         acadêmico-científico de matemáticas'
       time_end: '10:00'
       time_start: '9:00'
+    - name: Parentalidade e Academia
+      time_end: '18:00'
+      time_start: '16:30'
   - name: Meet MC1
     talks:
     - name: 'Sistemas dinâmicos: uma primeira visão (2/3)'

@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Thiago Henrique de Freitas (UTFPR - Guarapuava)
-name: Thiago Henrique de Freitas (UTFPR - Guarapuava)
+last_name: Lonardo Rabel (UFJF)
+name: Lonardo Rabel (UFJF)
 
 ---
 

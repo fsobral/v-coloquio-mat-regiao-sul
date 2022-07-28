@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Rafael Afonso Barbosa (UFMS)
-name: Rafael Afonso Barbosa (UFMS)
+last_name: Miriam da Silva Pereira (UFPb)
+name: Miriam da Silva Pereira (UFPb)
 
 ---
 

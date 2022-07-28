@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: João Vitor da Silva (UNICAMP)
-name: João Vitor da Silva (UNICAMP)
+last_name: Adriano da Silva (Universidad de Tarapá)
+name: Adriano da Silva (Universidad de Tarapá)
 
 ---
 
