@@ -208,7 +208,7 @@ conference:
     # URL of location / room overview page
     url: '/location'
     # Main page title shown on location/room navigation bar
-    navbar_title: 'Location'
+    navbar_title: 'Salas'
     # Show map on location main page
     map: false
 

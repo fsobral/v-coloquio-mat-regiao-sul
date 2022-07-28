@@ -173,7 +173,7 @@ pt:
       now: agora
   location:
     rooms: Salas
-    directions: Direções
+    directions: Salas
     talks: Apresentações nesta sala
     focus_conf: Centralizar o mapa para o local da conferência
     focus_me: Mostrar minha localização atual
