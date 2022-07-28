@@ -2,6 +2,9 @@
 layout: location
 ---
 
-How to get to the conference
+O V Colóquio de Matemática da Região Sul será 100% online e utilizará
+as plataformas Zoom, Google Meet e YouTube.
 
-You can adapt the design as well as the section shown on the map by copying the `assets/js/main.js` from the theme's repository and editing it. See also the subsection [Location / Room Overview](https://github.com/DigitaleGesellschaft/jekyll-theme-conference/#location--room-overview) section of the theme's README file.
+Clique em cada sala para ver quais eventos estarão ocorrendo nela e em
+quais dias. Os links para cada dia serão enviados para os e-mails dos
+participantes no dia anterior.
