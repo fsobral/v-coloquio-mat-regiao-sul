@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Diego Marques (UnB)
-name: Diego Marques (UnB)
+last_name: Cecília de Souza Fernandes (UFF)
+name: Cecília de Souza Fernandes (UFF)
 
 ---
 

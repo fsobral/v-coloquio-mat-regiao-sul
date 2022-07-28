@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Lino Grama (UNICAMP)
-name: Lino Grama (UNICAMP)
+last_name: Thiago Henrique de Freitas (UTFPR - Guarapuava)
+name: Thiago Henrique de Freitas (UTFPR - Guarapuava)
 
 ---
 

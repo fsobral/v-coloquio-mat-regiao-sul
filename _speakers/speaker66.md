@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Rafael Gonzalez (UEM)
-name: Rafael Gonzalez (UEM)
+last_name: Herivelto Martins Borges Filho (ICMC-USP)
+name: Herivelto Martins Borges Filho (ICMC-USP)
 
 ---
 

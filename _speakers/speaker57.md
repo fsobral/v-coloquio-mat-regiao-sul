@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Ademir Alves Ribeiro (UFPR)
-name: Ademir Alves Ribeiro (UFPR)
+last_name: Gregório Pacelli Bessa (UFC)
+name: Gregório Pacelli Bessa (UFC)
 
 ---
 

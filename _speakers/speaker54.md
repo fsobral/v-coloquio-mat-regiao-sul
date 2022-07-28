@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Sandra Augusta Santos (UNICAMP)
-name: Sandra Augusta Santos (UNICAMP)
+last_name: Marcos Pimenta (FCT-UNESP)
+name: Marcos Pimenta (FCT-UNESP)
 
 ---
 

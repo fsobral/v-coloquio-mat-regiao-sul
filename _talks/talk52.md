@@ -1,10 +1,11 @@
 ---
 categories:
-- Sessão Temática
-- Teoria de Singularidades
-name: Lipschitz trivial values of polynomial mappings
+- Mesa Redonda
+name: Perspectivas Futuras da Pós-graduação
 speakers:
-- Vicent Jean Henri Grandjean (UFC)
+- Rodrigo Bissacot (USP)
+- Gregório Pacelli Bessa (UFC)
+- Sandra Augusta Santos (UNICAMP)
 ---
 
-I will fully characterize the real and complex polynomial mappings taking a value which is Lipschitz trivial.
+A ser enviado

@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Eduardo Tavares (UEL)
-name: Eduardo Tavares (UEL)
+last_name: Emerson Tortoloa (UTFPR-Toledo)
+name: Emerson Tortoloa (UTFPR-Toledo)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Michele Ferreira Zancheta Morgado (UNESP-SJRP)
-name: Michele Ferreira Zancheta Morgado (UNESP-SJRP)
+last_name: María Laura Schuverdt (Universidad Nacional de La Plata)
+name: María Laura Schuverdt (Universidad Nacional de La Plata)
 
 ---
 

@@ -1,10 +1,9 @@
 ---
 categories:
-- Sessão Temática
-- Códigos
-name: Códigos coloridos hiperbólicos, com ou sem fronteiras.
+- Plenária
+name: Um passeio pela Otimização Contínua
 speakers:
-- Waldir Silva Soares Junior (UTFPR-PB)
+- Elizabeth Wegner Karas (UFPR)
 ---
 
-Os códigos coloridos foram introduzidos no ano de 2007 em um artigo chamado Topological Quantum Distillation, escrito por Bombim e Martin-Delgado. Neste artigo, são apresentados dois tipos de códigos coloridos, sendo um no toro, que codifica 2 qubits e outro em um triângulo com fronteiras de três cores diferentes que codifica apenas um qubit. Nossos estudos levaram a algumas generalizações desses códigos apresentados, em duas delas, em particular, fazendo uso da geometria hiperbólica. Vamos apresentar alguns dos resultados obtidos tanto para superfícies compactas sem bordo quanto para superfícies planas com bordo, comparando os parâmetros obtidos por tais códigos com outros presentes na literatura.
+Otimização Contínua é uma área da Matemática Aplicada cujo foco de interesse reside, grosso modo, na minimização ou maximização de uma função contínua, restrita ou não a um subconjunto do seu domínio. Nesta palestra pretendemos introduzir conceitos desta área, de forma bastante geométrica, através de um passeio por aplicações e métodos computacionais.

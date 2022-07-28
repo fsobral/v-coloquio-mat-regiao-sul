@@ -1,11 +1,11 @@
 ---
 categories:
 - Sessão Temática
-- EDP-DSD
-name: Estabilidade e dependência contínua de soluções de equações viscoelásticas com
-  respeito ao tempo de criação da história
+- Educação Matemática/Ensino
+name: 'Educação Matemática: agora que não somos mais professores tradicionais o que
+  nos tornamos?'
 speakers:
-- Eduardo Tavares (UEL)
+- João Alberto da Silva (FURG)
 ---
 
-Nesta apresentação, será discutida inicialmente a estabilidade de soluções para uma classe de equações integro-diferenciais com memória em que o tempo de criação da história age como um parâmetro. Em seguida, será explorada a continuidade das soluções  com respeito ao tempo de criação. Tal dependência permitirá a recuperação de resultados conhecidos na literatura quando os casos limites forem considerados.
+Há relativo consenso que as práticas tradicionais de ensino de Matemática -entendidas como aquelas que privilegiam a memorização, a reprodução e os algoritmos- são pouco eficientes frente às demandas científicas e tecnológicas desse espaço-tempo contemporâneo que vivemos. Entretanto, as possibilidade de ser professor que ensina Matemática são muitas. Neste encontro planejo discuti sobre práticas de ensino de Matemática que são para além do ensino tradicional, mas que superam o senso comum e alicerçam-se em abordagens científicas oriundas da Didática da Matemática. 

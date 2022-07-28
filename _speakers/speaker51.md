@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Edson Sampaio (UFC)
-name: Edson Sampaio (UFC)
+last_name: Márcia Cristina de Costa Trindade Cyrino (UEL)
+name: Márcia Cristina de Costa Trindade Cyrino (UEL)
 
 ---
 

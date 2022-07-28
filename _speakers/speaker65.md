@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Cleber de Medeira (UFPR)
-name: Cleber de Medeira (UFPR)
+last_name: Viviane Ribeiro Tomaz da Silva (UFMG)
+name: Viviane Ribeiro Tomaz da Silva (UFMG)
 
 ---
 

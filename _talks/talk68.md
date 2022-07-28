@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Teoria de Singularidades
-name: The Nash modification of parametrized singular surfaces
+- EDP-LEE
+name: Existência e regularidade de soluções periódicas para certas EDPs
 speakers:
-- Nivaldo de Góes Grulha Júnior (USP-São Carlos)
+- Rafael Gonzalez (UEM)
 ---
 
-In this work, we show that, under certain conditions, the Nash Modification of a singular surface parameterized by a corank one application is smooth. 
+Caracterizar questões de existência e regularidade de soluções periódicas para EDPs lineares através de propriedades dos coeficientes, tais como ordem de anulamento, dependência linear, conexidade de subníveis de primitivas e condições Diofantinas.

@@ -1,13 +1,10 @@
 ---
 categories:
-- Minicurso
-name: O teorema de Bernstein para superfícies mínimas (3/3)
+- Sessão Temática
+- Teoria de Singularidades
+name: On Deformations of Isolated Singularity Functions
 speakers:
-- Arlandson Matheus Silva Oliveira (UEPb)
+- Miriam da Silva Pereira (UFPb)
 ---
 
-Inaugurando a segunda era de ouro das superfícies mínimas, com a teoria incipiente das equações diferenciais parciais, S. Bernstein [Sur une théorème de géometrie et ses applications aux équations dérivées partielles du type elliptique, Comm. Soc. Math. Kharkov 15 (1915-17), 38-45] provou em 1914 seu famoso teorema segundo o qual os planos são as únicas superfícies mínimas dadas como gráfico de uma função real de duas variáveis reais que tem, pelo menos, até as segundas derivadas parciais contínuas. O propósito deste minicurso é apresentar a demonstração deste resultado devida a J.C.C. Nitsche [Elementary proof of Bernstein’s theorem on minimal surfaces, Ann. of Math. (2) 66 (1957), 543–544].
-
-  Referências
-   1. S. Bernstein, Sur une théorème de géometrie et ses applications aux équations dérivées partielles du type elliptique, Comm. Soc. Math. Kharkov 15 (1915-17), 38-45.
-   2. J.C.C. Nitsche, Elementary proof of Bernstein’s theorem on minimal surfaces, Ann. of Math. (2) 66 (1957), 543-544.
+We study multi-parameters deformations of isolated singularity functiongerms on either a subanalytic set or a complex analytic spaces. We prove that if such a deformation has no coalescing of singular points, then it has a constant topological type. This extends some classical results due to Lê & Ramanujam (1976) and Parusínski (1999), as well as a recent result due to Jesus-Almeida and the first author. It also provides a sufficient condition for a one-parameter family of complex isolated singularity surfaces in C^3 to have a constant topological type. On the other hand, for complex isolated singularity families defined on an isolated determinantal singularity, we prove that µ-constancy implies a constant topological type.

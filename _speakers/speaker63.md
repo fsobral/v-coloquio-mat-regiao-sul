@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Ednei Aparecido Santulo Júnior (UEM)
-name: Ednei Aparecido Santulo Júnior (UEM)
+last_name: Jorge Luiz Deolindo Silva (UFSC)
+name: Jorge Luiz Deolindo Silva (UFSC)
 
 ---
 

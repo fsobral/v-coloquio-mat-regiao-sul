@@ -1,4 +1,4 @@
 ---
 hide: false
-name: Meet MC2
+name: Meet Lie
 ---

@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Higidio Oquendo (UFPR)
-name: Higidio Oquendo (UFPR)
+last_name: Mateus Alegri (Universidade Federal de Sergipe)
+name: Mateus Alegri (Universidade Federal de Sergipe)
 
 ---
 

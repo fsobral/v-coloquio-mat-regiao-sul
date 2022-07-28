@@ -1,10 +1,11 @@
 ---
 categories:
-- Sessão Temática
-- Teoria de Singularidades
-name: Invariantes associados a germes de aplicações
+- Minicurso
+name: Introdução à Geometria de Distâncias (2/3)
 speakers:
-- Michele Ferreira Zancheta Morgado (UNESP-SJRP)
+- Douglas Soares Gonçalves (UFSC)
 ---
 
-No estudo de hipersuperfícies analíticas complexas singulares sob o ponto de vista local, ou seja, definidas por um germe de função holomorfa, Milnor prova um teorema de fibração, obtendo a chamada fibra de Milnor (local) associada a este germe. No caso em que a hipersuperfície tem singularidade isolada, Milnor introduziu um importante invariante, agora chamado número de Milnor, que tem um importante papel na teoria moderna de Singularidades. Bruce e Roberts estendem a definição de número de Milnor de um germe de função f, restringindo a um germe de variedade X.  Agora, no caso de germes de aplicações, sendo uma interseção completa com singularidade isolada (ICIS) Hamm provou que este germe também tem um número de Milnor bem definido associado, definido como o grau da homologia média da correspondente fibra de Milnor.   Neste contexto, buscamos estender o número de Bruce-Roberts no caso de germes de aplicações f, que são interseções completas, restritos a um germe de variedade X, entender propriedades geométricas do germe f e X e obter resultados entre os números de Hamm de f e esta extensão. 
+O problema fundamental em Geometria de Distâncias consiste em determinar a posição de objetos em um certo espaço Euclidiano de dimensão apropriada a partir de uma lista incompleta de distâncias entre pares destes objetos. Neste minicurso estudaremos alguns aspectos teóricos e algoritmos para resolver classes específicas do problema, que ocorrem em aplicações como localização de sensores em rede, ou na determinação da estrutura 3D de proteínas.
+
+  Referência: https://proceedings.science/series/23/proceedings_non_indexed/94

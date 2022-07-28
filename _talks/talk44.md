@@ -1,11 +1,11 @@
 ---
 categories:
 - Sessão Temática
-- EDP-LEE
-name: Symmetry and symmetry breaking for Hénon-type problems involving the 1-Laplacian
-  operator
+- Códigos
+name: Construção de Cód. Clássicos e Quânticos Quase-Cíclicos via Plano Euclidiano
+  Finito
 speakers:
-- Marcos Pimenta (FCT-UNESP)
+- Frederico Ventura Batista (UEM)
 ---
 
-In this work, we study a class of Hénon-type equations which involve the 1-Laplacian operator in the unit ball. Under mild assumptions on the nonlinearity, the existence of radial solutions is proved and, for a parameter in a certain range, the existence of symmetry breaking is proved, through the presence of non-radial solutions. The approach is based on an approximation scheme, where a thorough analysis of the solutions of the associated p-Laplacian problems is necessary.
+Nessa palestra serão apresentadas famílias de códigos binários quase-cíclicos (QC) e famílias de códigos quânticos corretores de erros (QECC). Os códigos QC foram obtidos tomando como base o conceito de Plano Euclidiano Finito (PEF). A saber, o PEF é concebido com a ideia de ser um "análogo" do Plano Euclidiano, porém o primeiro é definido a partir de um corpo finito munido com uma relação de ordem e uma ferramenta inspirada na ideia de distância. Os códigos QC assim obtidos possuem propriedades interessantes das quais destacamos o fato de serem auto-ortogonais. Esta propriedade  dos códigos QC nos permite obter famílias de QECC por meio da construção CSS. A caracterização  dos códigos QC  e dos códigos QECC foi feita por meio da determinação de seus parâmetros.

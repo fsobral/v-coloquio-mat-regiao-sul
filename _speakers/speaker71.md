@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Rafael Afonso Barbosa (UFGD)
-name: Rafael Afonso Barbosa (UFGD)
+last_name: Elizabeth Wegner Karas (UFPR)
+name: Elizabeth Wegner Karas (UFPR)
 
 ---
 

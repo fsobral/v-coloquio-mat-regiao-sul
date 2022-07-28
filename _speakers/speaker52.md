@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Rodrigo Bissacot (USP)
-name: Rodrigo Bissacot (USP)
+last_name: Marcelo Furtado (UnB)
+name: Marcelo Furtado (UnB)
 
 ---
 

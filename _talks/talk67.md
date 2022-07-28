@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Teoria de Singularidades
-name: Sobre Singularidades Quase Ordinárias
+- EDP-LEE
+name: Resolubilidade global Gevrey para uma classe de sistemas involutivos
 speakers:
-- Rafael Afonso Barbosa (UFGD)
+- Cleber de Medeira (UFPR)
 ---
 
-Nesta palestra vamos abordar uma categoria de hipersuperfícies que possuem algumas propriedades que são generalizações das curvas planas: hipersuperfícies quase ordinárias. Apresentaremos uma construção que permite descrever uma hipersuperfície quase ordinária particular a partir de uma hipersuperfície quase ordinária mergulhada em um espaço de dimensão menor, exploraremos relações entre seus invariantes e mostraremos que tal construção é sensível por mudanças de coordenadas.
+Nesse trabalho estudamos a resolubilidade global Gevrey de uma classe de sistemas de campos vetoriais complexos definidos no toro de dimensão n+1. Apresentamos uma caracterização completa da s-resolubilidade global dessa classe em termos de propriedades diofantinas dos coeficientes e a condição (P) de Nirenberg-Treves.  

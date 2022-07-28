@@ -1,10 +1,13 @@
 ---
 categories:
-- Sessão Temática
-- Lie
-name: Pontos recorrentes e decomposição de Jordan de fluxos de automorfismos
+- Minicurso
+name: O teorema de Bernstein para superfícies mínimas (1/3)
 speakers:
-- Adriano da Silva (Universidad de Tarapá)
+- Arlandson Matheus Silva Oliveira (UEPb)
 ---
 
-Em esta apresentação mostramos uma relação existente entre pontos recorrentes para fluxos de automorfismos e decomposição de Jordan. Em particular, no caso conexo, tal relação permite provar que todo fluxo admite, de fato, uma decomposição de Jordan.
+Inaugurando a segunda era de ouro das superfícies mínimas, com a teoria incipiente das equações diferenciais parciais, S. Bernstein [Sur une théorème de géometrie et ses applications aux équations dérivées partielles du type elliptique, Comm. Soc. Math. Kharkov 15 (1915-17), 38-45] provou em 1914 seu famoso teorema segundo o qual os planos são as únicas superfícies mínimas dadas como gráfico de uma função real de duas variáveis reais que tem, pelo menos, até as segundas derivadas parciais contínuas. O propósito deste minicurso é apresentar a demonstração deste resultado devida a J.C.C. Nitsche [Elementary proof of Bernstein’s theorem on minimal surfaces, Ann. of Math. (2) 66 (1957), 543–544].
+
+  Referências
+   1. S. Bernstein, Sur une théorème de géometrie et ses applications aux équations dérivées partielles du type elliptique, Comm. Soc. Math. Kharkov 15 (1915-17), 38-45.
+   2. J.C.C. Nitsche, Elementary proof of Bernstein’s theorem on minimal surfaces, Ann. of Math. (2) 66 (1957), 543-544.

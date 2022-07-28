@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Cecília de Souza Fernandes (UFF)
-name: Cecília de Souza Fernandes (UFF)
+last_name: João Alberto da Silva (FURG)
+name: João Alberto da Silva (FURG)
 
 ---
 

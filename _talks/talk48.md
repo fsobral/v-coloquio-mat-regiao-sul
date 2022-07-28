@@ -1,11 +1,13 @@
 ---
 categories:
-- Mesa Redonda
-name: Perspectivas Futuras da Pós-graduação
+- Sessão Temática
+- EDP-LEE
+name: Multiplicity of solutions for a nonlinear boundary value problem in the upper
+  half-space
 speakers:
-- Rodrigo Bissacot (USP)
-- Gregório Pacelli Bessa (UFC)
-- Sandra Augusta Santos (UNICAMP)
+- Marcelo Furtado (UnB)
 ---
 
-A ser enviado
+We obtain multiple solutions for the nonlinear boundary value problem $$ -\Delta u-\dfrac{1}{2}\left(  x\cdot
+abla u\right)  = f(\lambda,x,u), \mbox{ in }\mathbb{R}_{+}^{N}, \qquad \dfrac{\partial u}{\partial
+u}=g(\mu,x',u), \mbox{ on } \partial \mathbb{R}_{+}^{N}, $$ where $\mathbb{R}^N_+ = \{(x',x_N) : x' \in \mathbb{R}^{N-1},\,x_N>0 \}$ is the upper half-space and $\lambda,\,\mu>0$ are parameters. We consider sublinear, linear and superlinear cases and the function $g$ has critical growth.

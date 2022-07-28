@@ -72,6 +72,22 @@ days:
     - name: Parentalidade e Academia
       time_end: '18:00'
       time_start: '16:30'
+  - name: Meet MC2
+    talks:
+    - name: O teorema de Bernstein para superfícies mínimas (1/3)
+      time_end: '12:00'
+      time_start: '10:30'
+  - name: Meet MC5
+    talks:
+    - name: Progressos recentes em teoria de regularidade elíptica e temas relacionados
+        (1/3)
+      time_end: '16:30'
+      time_start: '15:00'
+  - name: Meet MC6
+    talks:
+    - name: Tópicos de Álgebra Homológica e aspectos computacionais (1/3)
+      time_end: '16:30'
+      time_start: '15:00'
   - name: Meet Lie
     talks:
     - name: Pontos recorrentes e decomposição de Jordan de fluxos de automorfismos
@@ -120,11 +136,6 @@ days:
         com respeito ao tempo de criação da história
       time_end: '16:30'
       time_start: '16:00'
-  - name: Meet MC2
-    talks:
-    - name: O teorema de Bernstein para superfícies mínimas (1/3)
-      time_end: '12:00'
-      time_start: '10:30'
 - abbr: qua
   date: '2022-08-03'
   name: Quarta-feira
@@ -135,6 +146,27 @@ days:
         acadêmico-científico de matemáticas'
       time_end: '10:00'
       time_start: '9:00'
+  - name: Meet MC1
+    talks:
+    - name: 'Sistemas dinâmicos: uma primeira visão (2/3)'
+      time_end: '12:00'
+      time_start: '10:30'
+  - name: Meet MC2
+    talks:
+    - name: O teorema de Bernstein para superfícies mínimas (2/3)
+      time_end: '12:00'
+      time_start: '10:30'
+  - name: Meet MC5
+    talks:
+    - name: Progressos recentes em teoria de regularidade elíptica e temas relacionados
+        (2/3)
+      time_end: '16:30'
+      time_start: '15:00'
+  - name: Meet MC6
+    talks:
+    - name: Tópicos de Álgebra Homológica e aspectos computacionais (2/3)
+      time_end: '16:30'
+      time_start: '15:00'
   - name: Meet Lie
     talks:
     - name: 'Métodos de colagem em geometria '
@@ -198,16 +230,6 @@ days:
         operator
       time_end: '16:30'
       time_start: '16:00'
-  - name: Meet MC1
-    talks:
-    - name: 'Sistemas dinâmicos: uma primeira visão (2/3)'
-      time_end: '12:00'
-      time_start: '10:30'
-  - name: Meet MC2
-    talks:
-    - name: O teorema de Bernstein para superfícies mínimas (2/3)
-      time_end: '12:00'
-      time_start: '10:30'
 - abbr: qui
   date: '2022-08-04'
   name: Quinta-feira
@@ -220,6 +242,27 @@ days:
     - name: Perspectivas Futuras da Pós-graduação
       time_end: '18:00'
       time_start: '16:30'
+  - name: Meet MC3
+    talks:
+    - name: Uma introdução ao Cálculo Fracionário (2/3)
+      time_end: '15:00'
+      time_start: '13:30'
+  - name: Meet MC4
+    talks:
+    - name: Introdução à Geometria de Distâncias (2/3)
+      time_end: '15:00'
+      time_start: '13:30'
+  - name: Meet MC5
+    talks:
+    - name: Progressos recentes em teoria de regularidade elíptica e temas relacionados
+        (3/3)
+      time_end: '16:30'
+      time_start: '15:00'
+  - name: Meet MC6
+    talks:
+    - name: Tópicos de Álgebra Homológica e aspectos computacionais (3/3)
+      time_end: '16:30'
+      time_start: '15:00'
   - name: Meet Otimização
     talks:
     - name: Usando Quatérnios para resolver um problema de Geometria de Distâncias
@@ -267,16 +310,6 @@ days:
     - name: Existência e regularidade de soluções periódicas para certas EDPs
       time_end: '16:30'
       time_start: '16:00'
-  - name: Meet MC3
-    talks:
-    - name: Uma introdução ao Cálculo Fracionário (2/3)
-      time_end: '15:00'
-      time_start: '13:30'
-  - name: Meet MC4
-    talks:
-    - name: Introdução à Geometria de Distâncias (2/3)
-      time_end: '15:00'
-      time_start: '13:30'
 - abbr: sex
   date: '2022-08-05'
   name: Sexta-feira
@@ -292,6 +325,26 @@ days:
     - name: Ações da SBM, apresentação e discussão da proposta de Doutorado Profmat
       time_end: '18:00'
       time_start: '16:30'
+  - name: Meet MC1
+    talks:
+    - name: 'Sistemas dinâmicos: uma primeira visão (3/3)'
+      time_end: '12:00'
+      time_start: '10:30'
+  - name: Meet MC2
+    talks:
+    - name: O teorema de Bernstein para superfícies mínimas (3/3)
+      time_end: '12:00'
+      time_start: '10:30'
+  - name: Meet MC3
+    talks:
+    - name: Uma introdução ao Cálculo Fracionário (3/3)
+      time_end: '16:30'
+      time_start: '15:00'
+  - name: Meet MC4
+    talks:
+    - name: Introdução à Geometria de Distâncias (3/3)
+      time_end: '16:30'
+      time_start: '15:00'
   - name: Meet Singularidades
     talks:
     - name: On Deformations of Isolated Singularity Functions
@@ -326,23 +379,3 @@ days:
     - name: Quadrado tensorial não abeliano de p-grupos
       time_end: '16:30'
       time_start: '16:00'
-  - name: Meet MC1
-    talks:
-    - name: 'Sistemas dinâmicos: uma primeira visão (3/3)'
-      time_end: '12:00'
-      time_start: '10:30'
-  - name: Meet MC2
-    talks:
-    - name: O teorema de Bernstein para superfícies mínimas (3/3)
-      time_end: '12:00'
-      time_start: '10:30'
-  - name: Meet MC3
-    talks:
-    - name: Uma introdução ao Cálculo Fracionário (3/3)
-      time_end: '16:30'
-      time_start: '15:00'
-  - name: Meet MC4
-    talks:
-    - name: Introdução à Geometria de Distâncias (3/3)
-      time_end: '16:30'
-      time_start: '15:00'

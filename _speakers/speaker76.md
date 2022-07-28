@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Javier Sánchez Serdà (IME-USP)
-name: Javier Sánchez Serdà (IME-USP)
+last_name: Nivaldo de Góes Grulha Júnior (USP-São Carlos)
+name: Nivaldo de Góes Grulha Júnior (USP-São Carlos)
 
 ---
 

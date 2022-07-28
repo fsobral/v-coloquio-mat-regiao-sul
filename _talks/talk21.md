@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Números
-name: Provas combinatórias de algumas identidades da Teoria das Partições de Inteiros
+- Lie
+name: Invariant Einstein metrics on real flag manifolds
 speakers:
-- Eduardo H.M. Brietzke (UFRGS)
+- Lino Grama (UNICAMP)
 ---
 
-O principal objetivo desta palestra é o de mostrar como uma nova maneira de representar partições de inteiros através de matrizes de duas linhas possibilita dar provas combinatórias mais diretas para alguns resultados já conhecidos. Apresentamos várias possíveis maneiras de representar partições irrestritas bem como alguns tipos de partições sujeitas a restrições. A seguir aplicamos as ideias desenvolvidas para dar provas combinatórias para algumas identidades da Teoria das Partições de Inteiras, em especial a uma identidade relacionada a gráficos de Ferrers de 3 quadrantes.      Referências bibliográficas:    [1] Andrews, G.E.: Three-quadrant Ferrers graphs. Indian. J. Math. 42 (2000), 1–7.    [2] Brietzke, E.H.M., Santos, J.P.O., Silva R.: Bijective proofs using two-line matrix representations for partitions. Ramanujan J. 23 (2010), 265-295.    [3] Santos, J.P.O., Mondek, P., Ribeiro, A.C.: New two-line arrays representing partitions. Ann. Comb. 15 (2011), 341-354.
+In this talk we will discuss the classification of invariant Einstein metrics on real flag manifolds associated to simple and non-compact split real forms of complex classical Lie algebras whose isotropy representation decomposes into two or three irreducible sub-representations. We also discuss some phenomena in real flag manifolds that can not happen in complex flag manifolds. This includes the non-existence of invariant Einstein metric and examples of non-diagonal Einstein metrics. This is a joint work with Brian Grajales. 

@@ -1,13 +1,11 @@
 ---
 categories:
-- Minicurso
-name: O teorema de Bernstein para superfícies mínimas (2/3)
+- Sessão Temática
+- Educação Matemática/Ensino
+name: 'Novos Desafios sobre Aprender e Ensinar Matemática: a Pós-Graduação e a formação
+  de professores que atuam no ensino de Matemática'
 speakers:
-- Arlandson Matheus Silva Oliveira (UEPb)
+- Marilaine de Fraga Sat'Ana (UFRGS)
 ---
 
-Inaugurando a segunda era de ouro das superfícies mínimas, com a teoria incipiente das equações diferenciais parciais, S. Bernstein [Sur une théorème de géometrie et ses applications aux équations dérivées partielles du type elliptique, Comm. Soc. Math. Kharkov 15 (1915-17), 38-45] provou em 1914 seu famoso teorema segundo o qual os planos são as únicas superfícies mínimas dadas como gráfico de uma função real de duas variáveis reais que tem, pelo menos, até as segundas derivadas parciais contínuas. O propósito deste minicurso é apresentar a demonstração deste resultado devida a J.C.C. Nitsche [Elementary proof of Bernstein’s theorem on minimal surfaces, Ann. of Math. (2) 66 (1957), 543–544].
-
-  Referências
-   1. S. Bernstein, Sur une théorème de géometrie et ses applications aux équations dérivées partielles du type elliptique, Comm. Soc. Math. Kharkov 15 (1915-17), 38-45.
-   2. J.C.C. Nitsche, Elementary proof of Bernstein’s theorem on minimal surfaces, Ann. of Math. (2) 66 (1957), 543-544.
+Como coordenadora de um Programa de Pós-Graduação em Ensino de Matemática, que foca na pesquisa em Educação Matemática, discorro sobre desafios elencados a partir do grupo com o qual trabalho. Esse grupo é constituído por docentes de formações diversas, que pesquisam em diversos âmbitos, tomando por base referenciais teóricos também diversos. São apontados como desafios:  o conhecimento do conteúdo para o ensino; a aprendizagem conjunta da Matemática para embalar a discussão de questões sociais; a união entre prática e teoria pela reflexão; o aprender pela docência, mantendo o caráter artesanal da pesquisa; os impactos do retorno ao presencial, refletindo sobre as possibilidades e limitações do ensino remoto vivenciado na pandemia; a realidade e a reflexão aliadas aos conteúdos específicos; e a defesa da escola e da Universidade como espaços de aprendizagem e de experiências múltiplas. Esse rol de desafios reflete de certa maneira a diversidade do grupo representado e é pela diversidade do ensino e da pesquisa que percebemos possibilidades para enfrentá-los.

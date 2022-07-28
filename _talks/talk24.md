@@ -1,11 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Educação Matemática/Ensino
-name: 'Educação Matemática: agora que não somos mais professores tradicionais o que
-  nos tornamos?'
+- Números
+name: Provas combinatórias de algumas identidades da Teoria das Partições de Inteiros
 speakers:
-- João Alberto da Silva (FURG)
+- Eduardo H.M. Brietzke (UFRGS)
 ---
 
-Há relativo consenso que as práticas tradicionais de ensino de Matemática -entendidas como aquelas que privilegiam a memorização, a reprodução e os algoritmos- são pouco eficientes frente às demandas científicas e tecnológicas desse espaço-tempo contemporâneo que vivemos. Entretanto, as possibilidade de ser professor que ensina Matemática são muitas. Neste encontro planejo discuti sobre práticas de ensino de Matemática que são para além do ensino tradicional, mas que superam o senso comum e alicerçam-se em abordagens científicas oriundas da Didática da Matemática. 
+O principal objetivo desta palestra é o de mostrar como uma nova maneira de representar partições de inteiros através de matrizes de duas linhas possibilita dar provas combinatórias mais diretas para alguns resultados já conhecidos. Apresentamos várias possíveis maneiras de representar partições irrestritas bem como alguns tipos de partições sujeitas a restrições. A seguir aplicamos as ideias desenvolvidas para dar provas combinatórias para algumas identidades da Teoria das Partições de Inteiras, em especial a uma identidade relacionada a gráficos de Ferrers de 3 quadrantes.      Referências bibliográficas:    [1] Andrews, G.E.: Three-quadrant Ferrers graphs. Indian. J. Math. 42 (2000), 1–7.    [2] Brietzke, E.H.M., Santos, J.P.O., Silva R.: Bijective proofs using two-line matrix representations for partitions. Ramanujan J. 23 (2010), 265-295.    [3] Santos, J.P.O., Mondek, P., Ribeiro, A.C.: New two-line arrays representing partitions. Ann. Comb. 15 (2011), 341-354.

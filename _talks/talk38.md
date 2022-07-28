@@ -1,11 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Códigos
-name: Construção de Cód. Clássicos e Quânticos Quase-Cíclicos via Plano Euclidiano
-  Finito
+- Lie
+name: Plano osculador na Grasmanniana Gr₂(3,R)
 speakers:
-- Frederico Ventura Batista (UEM)
+- Josiney A. Souza (UEM)
 ---
 
-Nessa palestra serão apresentadas famílias de códigos binários quase-cíclicos (QC) e famílias de códigos quânticos corretores de erros (QECC). Os códigos QC foram obtidos tomando como base o conceito de Plano Euclidiano Finito (PEF). A saber, o PEF é concebido com a ideia de ser um "análogo" do Plano Euclidiano, porém o primeiro é definido a partir de um corpo finito munido com uma relação de ordem e uma ferramenta inspirada na ideia de distância. Os códigos QC assim obtidos possuem propriedades interessantes das quais destacamos o fato de serem auto-ortogonais. Esta propriedade  dos códigos QC nos permite obter famílias de QECC por meio da construção CSS. A caracterização  dos códigos QC  e dos códigos QECC foi feita por meio da determinação de seus parâmetros.
+Apresentaremos uma interpretação do conceito de torsão de uma curva usando ferramentas da teoria de Lie. A variação do plano osculador de uma curva pode ser representada por meio de uma curva diferenciável na variedade Grassmanniana Gr₂(3,R), cuja velocidade coincide com o módulo da torsão. A estratégia também é usada para mostrar que as hélices dependem dos vetores antissimétricos e de funções escalares controladoras.

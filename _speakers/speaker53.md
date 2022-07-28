@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Gregório Pacelli Bessa (UFC)
-name: Gregório Pacelli Bessa (UFC)
+last_name: Olimpio Miyagaki (UFSCar)
+name: Olimpio Miyagaki (UFSCar)
 
 ---
 

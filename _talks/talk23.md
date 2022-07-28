@@ -1,11 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Educação Matemática/Ensino
-name: Os desafios de ensinar Matemática na Ed. Infantil e nos Anos Iniciais do Ensino
-  Fundamental
+- Números
+name: Identidades envolvendo somas de divisores e partições de inteiros
 speakers:
-- Fernando Moreira Barnabé (Associação Nova Escola)
+- Mateus Alegri (Universidade Federal de Sergipe)
 ---
 
-Com as propostas de trabalho organizadas a partir da homologação da BNCC, o ensino de Matemática tem seu princípio de trabalho reforçado, mas com grandes desafios, principalmente no que tange a formação inicial e continuada dos professores da educação básica brasileira. Além da formação, as mudanças de propostas de trabalho para quem cursa pedagogia e decide pela carreira docente esbarra em desafios que vão desde questões financeiras ao acesso à metodologias de trabalho variadas.
+Nosso objetivo é mostrar como obtemos a expansão em série de Maclaurin para uma conhecida função envolvendo a função eta de Dedekind.  A busca por tal fórmula estava sendo procurada desde 1955. Destacamos a importância desta descoberta devido a relevância da função eta de Dedekind, que foi detalhadamente estudada por S. Ramanujan. Ao final, mostramos como lidar com $q$-produtórios a fim de se obter expansões semelhantes.

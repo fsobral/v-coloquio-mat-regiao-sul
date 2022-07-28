@@ -1,13 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- EDP-LEE
-name: Multiplicity of solutions for a nonlinear boundary value problem in the upper
-  half-space
+- Códigos
+name: Codificação e Modulação Proveniente de Partição de Reticulados
 speakers:
-- Marcelo Furtado (UnB)
+- Edson Donizete de Carvalho (FEIS-UNESP)
 ---
 
-We obtain multiple solutions for the nonlinear boundary value problem $$ -\Delta u-\dfrac{1}{2}\left(  x\cdot
-abla u\right)  = f(\lambda,x,u), \mbox{ in }\mathbb{R}_{+}^{N}, \qquad \dfrac{\partial u}{\partial
-u}=g(\mu,x',u), \mbox{ on } \partial \mathbb{R}_{+}^{N}, $$ where $\mathbb{R}^N_+ = \{(x',x_N) : x' \in \mathbb{R}^{N-1},\,x_N>0 \}$ is the upper half-space and $\lambda,\,\mu>0$ are parameters. We consider sublinear, linear and superlinear cases and the function $g$ has critical growth.
+Modulação codificada é uma técnica que permite realizar a modulação e a codificação em uma única etapa através da seleção de  sinais  em um conjunto de sinais S de um espaço métrico M. Se o conjunto de sinais S for  invariante sob a ação de um grupo G, dizemos que S é geometricamente uniforme (GU).  As regiões de Voronoi associadas aos conjuntos de sinais GU são todas congruentes independente do sinal transmitido.  Partição de reticulados fornece um eficiente método para obter codificadores e moduladores a partir da seleção de sinais em um conjunto de sinais S (GU) identificados por um conjunto  discreto de pontos proveniente de baricentros de polígonos regulares, seja no plano euclidiano ou no plano hiperbólico. No plano euclidiano, os reticulados obtidos tem uma estrutura de grupo aditivo e no plano hiperbólico os reticulados tem uma estrutura  multiplicativa obtido a partir de uma ordem  dos quatérnios  derivada de grupos  Fuchsianos aritméticos.

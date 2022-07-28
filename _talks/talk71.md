@@ -1,10 +1,12 @@
 ---
 categories:
-- Sessão Temática
-- Códigos
-name: Códigos Geometricamente Uniformes e Particionamentos Ungerboeck em g-Toros
+- Mesa Redonda
+name: Ações da SBM, apresentação e discussão da proposta de Doutorado Profmat
 speakers:
-- Eduardo Michel Vieira Gomes (UTFPR)
+- Roberto Imbuzeiro Oliveira (IMPA)
+- Paolo Piccione (USP)
+- Jaqueline Mesquita (UnB)
+- Walcy Santos (UFRJ)
 ---
 
- Códigos Geometricamente Uniformes e Particionamentos Ungerboeck em g-Toros
+A ser enviado

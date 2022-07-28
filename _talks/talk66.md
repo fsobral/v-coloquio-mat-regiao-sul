@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Teoria de Singularidades
-name: On Deformations of Isolated Singularity Functions
+- EDP-LEE
+name: Multi-Layers operators on rough domains and boundary value problems
 speakers:
-- Miriam da Silva Pereira (UFPb)
+- Gustavo Hoepfner (UFSCar)
 ---
 
-We study multi-parameters deformations of isolated singularity functiongerms on either a subanalytic set or a complex analytic spaces. We prove that if such a deformation has no coalescing of singular points, then it has a constant topological type. This extends some classical results due to Lê & Ramanujam (1976) and Parusínski (1999), as well as a recent result due to Jesus-Almeida and the first author. It also provides a sufficient condition for a one-parameter family of complex isolated singularity surfaces in C^3 to have a constant topological type. On the other hand, for complex isolated singularity families defined on an isolated determinantal singularity, we prove that µ-constancy implies a constant topological type.
+In this talk I will discuss Calder\'on-Zygmund theory results for multi-layer potential operators associated with homogeneous constant coefficient higher order systems in uniformly rectifiable domains in ${\mathbb{R}}^n$ and applications to Fredholm theory for boundary value problems. This is a joint work with P. Liboni (UEL-Brazil), D. Mitrea (Baylor Univ.), I. Mitrea (Temple Univ.) and M. Mitrea (Baylor Univ.). 

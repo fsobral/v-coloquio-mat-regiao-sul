@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Lonardo Rabel (UFJF)
-name: Lonardo Rabel (UFJF)
+last_name: João Vitor da Silva (UNICAMP)
+name: João Vitor da Silva (UNICAMP)
 
 ---
 

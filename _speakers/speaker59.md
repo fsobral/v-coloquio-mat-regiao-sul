@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Jorge Luiz Deolindo Silva (UFSC)
-name: Jorge Luiz Deolindo Silva (UFSC)
+last_name: Felipe Delfini Caetano Fidalgo (UFSC - Câmpus Blumenau)
+name: Felipe Delfini Caetano Fidalgo (UFSC - Câmpus Blumenau)
 
 ---
 

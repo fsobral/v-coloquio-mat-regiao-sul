@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Eduardo H.M. Brietzke (UFRGS)
-name: Eduardo H.M. Brietzke (UFRGS)
+last_name: Adriano da Silva (Universidad de Tarapá)
+name: Adriano da Silva (Universidad de Tarapá)
 
 ---
 

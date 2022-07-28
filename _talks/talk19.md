@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Números
-name: Formas Aditivas p-ádicas - Um Survey
+- Lie
+name: Pontos recorrentes e decomposição de Jordan de fluxos de automorfismos
 speakers:
-- Hemar Godinho (Universidade de Brasília - UnB)
+- Adriano da Silva (Universidad de Tarapá)
 ---
 
-Nesta palestra apresentarei os resultados que guiam o desenvolvimento dessa área. Algumas técnicas serão discutidas, e concluirei a palestra apresentado tanto resultados clássicos como também aqueles mais recentes.
+Em esta apresentação mostramos uma relação existente entre pontos recorrentes para fluxos de automorfismos e decomposição de Jordan. Em particular, no caso conexo, tal relação permite provar que todo fluxo admite, de fato, uma decomposição de Jordan.

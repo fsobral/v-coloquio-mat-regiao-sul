@@ -1,10 +1,13 @@
 ---
 categories:
-- Sessão Temática
-- Álgebra
-name: Sobre o duplo de Drinfeld da plano de Jordan restrita em característica 2
+- Minicurso
+name: O teorema de Bernstein para superfícies mínimas (3/3)
 speakers:
-- Daiana Aparecida da Silva Flores (UFSM)
+- Arlandson Matheus Silva Oliveira (UEPb)
 ---
 
- O objetivo desta palestra é apresentar os módulos simples do duplo de Drinfeld da plano de Jordan restrita em característica 2. Este é um dos problemas tratados em um trabalho que está sendo desenvolvido em colaboração com os professores Nicolás Andruskiewitsch da Universidad Nacional de Córdoba, Dirceu Bagio da Universidade Federal de Santa Catarina e Saradia Della Flora da Universidade Federal de Santa Maria.
+Inaugurando a segunda era de ouro das superfícies mínimas, com a teoria incipiente das equações diferenciais parciais, S. Bernstein [Sur une théorème de géometrie et ses applications aux équations dérivées partielles du type elliptique, Comm. Soc. Math. Kharkov 15 (1915-17), 38-45] provou em 1914 seu famoso teorema segundo o qual os planos são as únicas superfícies mínimas dadas como gráfico de uma função real de duas variáveis reais que tem, pelo menos, até as segundas derivadas parciais contínuas. O propósito deste minicurso é apresentar a demonstração deste resultado devida a J.C.C. Nitsche [Elementary proof of Bernstein’s theorem on minimal surfaces, Ann. of Math. (2) 66 (1957), 543–544].
+
+  Referências
+   1. S. Bernstein, Sur une théorème de géometrie et ses applications aux équations dérivées partielles du type elliptique, Comm. Soc. Math. Kharkov 15 (1915-17), 38-45.
+   2. J.C.C. Nitsche, Elementary proof of Bernstein’s theorem on minimal surfaces, Ann. of Math. (2) 66 (1957), 543-544.

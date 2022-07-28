@@ -1,10 +1,18 @@
 ---
 categories:
-- Sessão Temática
-- Números
-name: Propriedades aritméticas da enumeração de partições 3-regulares em três cores
+- Minicurso
+name: Tópicos de Álgebra Homológica e aspectos computacionais (2/3)
 speakers:
-- Robson Oliveira da Silva (UNIFESP)
+- Thiago Henrique de Freitas (UTFPR - Guarapuava)
+- Victor Hugo Jorge Pérez (ICMC - USP)
+- Aldício Miranda (UFU)
 ---
 
-Uma partição de um inteiro positivo n é uma coleção de inteiros positivos cuja soma é igual a n. Foi o grande matemático indiano S. Ramanujan quem iniciou o estudo das propriedades aritméticas da função p(n) que conta as partições de n: p(1)=1, p(2)=2, p(3)=3, p(4)=5, p(7)=15, p(19)=490 ... Por exemplo, dentre suas várias contribuições à Teoria dos Números, Ramanujan provou que, para todo inteiro positivo n,  p(5n+4) é divisível por 5,   p(7n+5) é divisível por 7,  p(11n+6) é divisível por 11.  Neste seminário prestaremos uma homenagem ao Ramanujan apresentando o estudo de propriedades aritméticas da função que enumera partições 3-regulares de n em três cores.
+Neste minicurso abordaremos algumas importantes noções da rica teoria de álgebra homológica de módulos sobre anéis comutativos. Em resumo, em um primeiro momento vamos falar brevemente sobre funtores, homologias/cohomologias, resoluções projetivas/injetivas e os funtores Ext e Tor. Na sequência, faremos um panorama geral da pesquisa em desenvolvimento dos principais problemas em aberto em álgebra comutativa que envolvem alguns destes tópicos descritos. Por fim, será realizada uma breve introdução ao software SINGULAR, a fim de se calcular computacionalmente algumas das noções descritas.
+
+  Referências
+   1. W. Bruns and J. Herzog, Cohen-Macaulay rings, Revised edition, Cambridge University Press, 1998.
+   2. A. Grothendieck, Local Cohomology, Notes by R. Hartshorne, Lecture Notes in Math., vol 20, Springer, 1966.
+   3. H. Matsumura, Commutative Ring Theory, Cambridge Studies in Advanced Mathematics 8, Cambridge University Press, Cambridge, 1986.
+   4. J. R. Strooker, Homological Questions in Local Algebra, London mathematical society, Lectures Notes Sries. Cambribge University Press, 1990.
+   5. C.A, Weibel , An introduction to homological algebra, Cambridge University Press, 1994.

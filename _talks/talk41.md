@@ -1,11 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Educação Matemática/Ensino
-name: O movimento de constituição da Identidade Profissional de professores que ensinam
-  matemática e o enfrentamento de desafios sobre aprender e ensinar matemática
+- Números
+name: Propriedades aritméticas da enumeração de partições 3-regulares em três cores
 speakers:
-- Márcia Cristina de Costa Trindade Cyrino (UEL)
+- Robson Oliveira da Silva (UNIFESP)
 ---
 
-A identidade profissional (IP) docente desempenha um papel central na compreensão das práticas de ensino, na ressignificação da prática docente, na motivação para ensinar, no bem-estar pessoal e profissional, bem como na tomada de decisão a respeito da carreira de professor. Considerando que o movimento de constituição da IP de professores que ensinam matemática (PEM) é um processo contínuo, complexo, dinâmico, temporal e experiencial, nesse seminário discutiremos o papel desse movimento na formação (inicial e continuada) de PEM e o enfrentamento de desafios sobre aprender e ensinar matemática.
+Uma partição de um inteiro positivo n é uma coleção de inteiros positivos cuja soma é igual a n. Foi o grande matemático indiano S. Ramanujan quem iniciou o estudo das propriedades aritméticas da função p(n) que conta as partições de n: p(1)=1, p(2)=2, p(3)=3, p(4)=5, p(7)=15, p(19)=490 ... Por exemplo, dentre suas várias contribuições à Teoria dos Números, Ramanujan provou que, para todo inteiro positivo n,  p(5n+4) é divisível por 5,   p(7n+5) é divisível por 7,  p(11n+6) é divisível por 11.  Neste seminário prestaremos uma homenagem ao Ramanujan apresentando o estudo de propriedades aritméticas da função que enumera partições 3-regulares de n em três cores.

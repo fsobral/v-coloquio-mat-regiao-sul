@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- EDP-LEE
-name: Existência e regularidade de soluções periódicas para certas EDPs
+- Teoria de Singularidades
+name: Lipschitz trivial values of polynomial mappings
 speakers:
-- Rafael Gonzalez (UEM)
+- Vicent Jean Henri Grandjean (UFC)
 ---
 
-Caracterizar questões de existência e regularidade de soluções periódicas para EDPs lineares através de propriedades dos coeficientes, tais como ordem de anulamento, dependência linear, conexidade de subníveis de primitivas e condições Diofantinas.
+I will fully characterize the real and complex polynomial mappings taking a value which is Lipschitz trivial.

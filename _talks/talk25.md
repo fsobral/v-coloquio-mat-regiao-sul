@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- EDP-DSD
-name: Decaimento de soluções em placas de Kirchhoff e Euler Bernoulli
+- Educação Matemática/Ensino
+name: Modelagem matemática e os desafios para ensinar matemática na atualidade
 speakers:
-- Higidio Oquendo (UFPR)
+- Emerson Tortoloa (UTFPR-Toledo)
 ---
 
-Neste trabalho examinamos o tipo de decaimento que tem um sistema de placas acopladas. Uma das placas é de tipo Kirchhoff e outra de tipo Euler-Bernoulli. Estudamos o decaimento das soluções deste sistema uma vez que uma das placas é dissipada por termos de memória.
+Neste trabalho tenho como objetivo discutir alguns desafios pedagógicos enfrentados pelos professores que ensinam Matemática na Educação Básica, os quais vão desde a ineficiência da escola em acompanhar os avanços tecnológicos da sociedade até os reflexos das imposições trazidas pela pandemia de COVID-19. Entre a facilidade de obter informações e o excesso na disseminação de fake news, onde fica o conhecimento escolar? A modelagem matemática tem se mostrado como uma possibilidade de enfrentar tais desafios, viabilizando que o ensino de Matemática transcenda as ‘paredes’ da sala de aula.

@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Elizabeth Gasparin (Universidad Católica Del Norte)
-name: Elizabeth Gasparin (Universidad Católica Del Norte)
+last_name: Higidio Oquendo (UFPR)
+name: Higidio Oquendo (UFPR)
 
 ---
 

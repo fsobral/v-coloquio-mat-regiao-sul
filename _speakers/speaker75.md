@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Eduardo Michel Vieira Gomes (UTFPR)
-name: Eduardo Michel Vieira Gomes (UTFPR)
+last_name: Rafael Afonso Barbosa (UFMS)
+name: Rafael Afonso Barbosa (UFMS)
 
 ---
 
