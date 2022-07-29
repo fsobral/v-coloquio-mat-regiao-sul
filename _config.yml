@@ -77,6 +77,8 @@ conference:
             relative_url: /talks/
           - name: Palestrantes
             relative_url: /speakers/
+          - name: Apresentação de Pôsteres
+            relative_url: /ap_posteres/
           - name: Salas
             relative_url: /location/
       - name: Atividades
