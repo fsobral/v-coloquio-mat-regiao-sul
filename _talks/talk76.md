@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Teoria de Singularidades
-name: On Deformations of Isolated Singularity Functions
+- Códigos
+name: Códigos coloridos hiperbólicos, com ou sem fronteiras.
 speakers:
-- Miriam da Silva Pereira (UFPb)
+- Waldir Silva Soares Junior (UTFPR-PB)
 ---
 
-We study multi-parameters deformations of isolated singularity functiongerms on either a subanalytic set or a complex analytic spaces. We prove that if such a deformation has no coalescing of singular points, then it has a constant topological type. This extends some classical results due to Lê & Ramanujam (1976) and Parusínski (1999), as well as a recent result due to Jesus-Almeida and the first author. It also provides a sufficient condition for a one-parameter family of complex isolated singularity surfaces in C^3 to have a constant topological type. On the other hand, for complex isolated singularity families defined on an isolated determinantal singularity, we prove that µ-constancy implies a constant topological type.
+Os códigos coloridos foram introduzidos no ano de 2007 em um artigo chamado Topological Quantum Distillation, escrito por Bombim e Martin-Delgado. Neste artigo, são apresentados dois tipos de códigos coloridos, sendo um no toro, que codifica 2 qubits e outro em um triângulo com fronteiras de três cores diferentes que codifica apenas um qubit. Nossos estudos levaram a algumas generalizações desses códigos apresentados, em duas delas, em particular, fazendo uso da geometria hiperbólica. Vamos apresentar alguns dos resultados obtidos tanto para superfícies compactas sem bordo quanto para superfícies planas com bordo, comparando os parâmetros obtidos por tais códigos com outros presentes na literatura.

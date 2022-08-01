@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Jaqueline Mesquita (UnB)
-name: Jaqueline Mesquita (UnB)
+last_name: Walcy Santos (UFRJ)
+name: Walcy Santos (UFRJ)
 
 ---
 

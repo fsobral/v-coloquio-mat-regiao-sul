@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Ednei Aparecido Santulo Júnior (UEM)
-name: Ednei Aparecido Santulo Júnior (UEM)
+last_name: Gustavo Hoepfner (UFSCar)
+name: Gustavo Hoepfner (UFSCar)
 
 ---
 

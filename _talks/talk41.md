@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Números
-name: Propriedades aritméticas da enumeração de partições 3-regulares em três cores
+- Códigos
+name: Sobre Códigos Coloridos MDS
 speakers:
-- Robson Oliveira da Silva (UNIFESP)
+- Clarice Dias de Albuquerque (UFCA)
 ---
 
-Uma partição de um inteiro positivo n é uma coleção de inteiros positivos cuja soma é igual a n. Foi o grande matemático indiano S. Ramanujan quem iniciou o estudo das propriedades aritméticas da função p(n) que conta as partições de n: p(1)=1, p(2)=2, p(3)=3, p(4)=5, p(7)=15, p(19)=490 ... Por exemplo, dentre suas várias contribuições à Teoria dos Números, Ramanujan provou que, para todo inteiro positivo n,  p(5n+4) é divisível por 5,   p(7n+5) é divisível por 7,  p(11n+6) é divisível por 11.  Neste seminário prestaremos uma homenagem ao Ramanujan apresentando o estudo de propriedades aritméticas da função que enumera partições 3-regulares de n em três cores.
+É conhecido na Teoria de Codificação Clássica que os parâmetros [n, k, d] de um código linear satisfazem a desigualdade  n−k ≥ d− 1, conhecida como Limitante de Singleton. Um código em que vale a igualdade n - k = d - 1 é chamado MDS (Maximum Distance Separable). Os códigos MDS se destacam porque, para n e k fixos, tais códigos tem a maior capacidade de detecção e correção de erros. Considerando um código quântico com parâmetros [[n, k, d]], o análogo quântico do limitante de Singleton é dado por n − k ≥ 2.(d − 1). Logo, um código quântico é MDS se satura esse limitante. No caso dos códigos quânticos topológicos, existem na literatura alguns códigos MDS com d = 2. Neste trabalho será mostrado que os únicos códigos coloridos MDS pertencem à classe [[4g+2, 4g, 2]], onde g é o gênero da superfície na qual está definida o código.

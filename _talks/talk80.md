@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Códigos
-name: Critério de Busca para STC em canais MIMO
+- Álgebra
+name: Sobre o duplo de Drinfeld da plano de Jordan restrita em característica 2
 speakers:
-- Carlos Alexandre Ribeiro Martins (UTFPR-PB)
+- Daiana Aparecida da Silva Flores (UFSM)
 ---
 
-Apresentamos um novo critério de busca para códigos espaço-temporais em canais de comunicação multiantena. Este critério tem como objetivo minimizar a probabilidade de erro par-a-par do decodificador de máxima-verossimilhança, munido da norma espectral de matrizes. 
+ O objetivo desta palestra é apresentar os módulos simples do duplo de Drinfeld da plano de Jordan restrita em característica 2. Este é um dos problemas tratados em um trabalho que está sendo desenvolvido em colaboração com os professores Nicolás Andruskiewitsch da Universidad Nacional de Córdoba, Dirceu Bagio da Universidade Federal de Santa Catarina e Saradia Della Flora da Universidade Federal de Santa Maria.

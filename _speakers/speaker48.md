@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Frederico Ventura Batista (UEM)
-name: Frederico Ventura Batista (UEM)
+last_name: Daniela Barbieri (UNESPAR-Paranavaí)
+name: Daniela Barbieri (UNESPAR-Paranavaí)
 
 ---
 

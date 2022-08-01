@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Lie
-name: Plano osculador na Grasmanniana Gr₂(3,R)
+- Números
+name: 'Ladrilhamentos: um novo enfoque sobre as partições de inteiros'
 speakers:
-- Josiney A. Souza (UEM)
+- Carlos Eduardo de Oliveira (IFSP)
 ---
 
-Apresentaremos uma interpretação do conceito de torsão de uma curva usando ferramentas da teoria de Lie. A variação do plano osculador de uma curva pode ser representada por meio de uma curva diferenciável na variedade Grassmanniana Gr₂(3,R), cuja velocidade coincide com o módulo da torsão. A estratégia também é usada para mostrar que as hélices dependem dos vetores antissimétricos e de funções escalares controladoras.
+Este trabalho tem por objetivo apresentar uma nova maneira de observar as partições de um número inteiro através de uma bijeção estabelecida entre as partições de n e todos os ladrilhamentos de mesmo comprimento seguindo condições específicas..  Essa bijeção foi encontrada por um longo e sequencial caminho que passa pela escrita de uma partição como matriz de duas linhas, caminhos reticulados sobre o plano cartesiano, sequência de ímpares distintos e maiores do que 1 até, por final, relacionar cada partição a um ladrilhamento regido por condições pré-estabelecidas.

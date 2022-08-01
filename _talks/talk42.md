@@ -2,9 +2,10 @@
 categories:
 - Sessão Temática
 - Códigos
-name: Codificação e Modulação Proveniente de Partição de Reticulados
+name: Construção de Cód. Clássicos e Quânticos Quase-Cíclicos via Plano Euclidiano
+  Finito
 speakers:
-- Edson Donizete de Carvalho (FEIS-UNESP)
+- Frederico Ventura Batista (UEM)
 ---
 
-Modulação codificada é uma técnica que permite realizar a modulação e a codificação em uma única etapa através da seleção de  sinais  em um conjunto de sinais S de um espaço métrico M. Se o conjunto de sinais S for  invariante sob a ação de um grupo G, dizemos que S é geometricamente uniforme (GU).  As regiões de Voronoi associadas aos conjuntos de sinais GU são todas congruentes independente do sinal transmitido.  Partição de reticulados fornece um eficiente método para obter codificadores e moduladores a partir da seleção de sinais em um conjunto de sinais S (GU) identificados por um conjunto  discreto de pontos proveniente de baricentros de polígonos regulares, seja no plano euclidiano ou no plano hiperbólico. No plano euclidiano, os reticulados obtidos tem uma estrutura de grupo aditivo e no plano hiperbólico os reticulados tem uma estrutura  multiplicativa obtido a partir de uma ordem  dos quatérnios  derivada de grupos  Fuchsianos aritméticos.
+Nessa palestra serão apresentadas famílias de códigos binários quase-cíclicos (QC) e famílias de códigos quânticos corretores de erros (QECC). Os códigos QC foram obtidos tomando como base o conceito de Plano Euclidiano Finito (PEF). A saber, o PEF é concebido com a ideia de ser um "análogo" do Plano Euclidiano, porém o primeiro é definido a partir de um corpo finito munido com uma relação de ordem e uma ferramenta inspirada na ideia de distância. Os códigos QC assim obtidos possuem propriedades interessantes das quais destacamos o fato de serem auto-ortogonais. Esta propriedade  dos códigos QC nos permite obter famílias de QECC por meio da construção CSS. A caracterização  dos códigos QC  e dos códigos QECC foi feita por meio da determinação de seus parâmetros.

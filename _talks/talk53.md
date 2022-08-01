@@ -1,22 +1,28 @@
 ---
 categories:
 - Minicurso
-name: Uma introdução ao Cálculo Fracionário (2/3)
+name: Progressos recentes em teoria de regularidade elíptica e temas relacionados
+  (3/3)
 speakers:
-- Alessio Fiscella (University of Milan-Bicocca)
+- João Vitor da Silva (UNICAMP)
 ---
 
-Nos últimos anos, problemas e operadores fracionários foram amplamente estudados na literatura e atraíram a atenção de muitos matemáticos vindos de diferentes áreas de pesquisa. O interesse para este tipo de operadores cresceu mais e mais, graças à estrutura não local de tipo integrodifferential e à vista de várias aplicações em uma ampla gama de contextos. Na verdade, operadores fracionários aparecem em aplicações concretas em muitos campos, como otimização, finanças, transições de fase, materiais estratificados, difusão anômala, luxação de cristais, membranas semipermeáveis, propagação de chama, leis de conservação, mecânica quântica, fluxos quase geostróficos, espalhamento múltiplo, superfícies mínimas e ciência dos materiais. O objetivo deste minicurso é fornecer as ferramentas básicas para enfrentar problemas nãolineares envolvendo o p-Laplaciano fracionário. Para isso, introduziremos várias definições para os operadores e os espaços de Sobolev fracionários, possivelmente analisando as diferenças. Finalmente, veremos algumas aplicações para problemas elípticos variacionais em um ambiente nãolocal.
+Neste Minicurso apresentaremos alguns avanços mais recentes no que diz respeito ao estudo de resultados de regularidade para soluções de Equações Diferenciais Parciais elípticas (por simplicidade EDPs). Tais EDPs aparecem em diversos contextos de matemática aplicada, tais como em processos de catálise química, modelos de propagação de chamas, teoria de elasticidade e no estudo de fluidos não-Newtonianos, somente para citar alguns exemplos. Nos cenários em que analisaremos, vamos desenvolver algumas ferramen- tas que nos permitem estudar o comportamento local de soluções, inferindo assim propriedades refinadas das mesmas e de suas interfaces. Algumas aplicações de tais resultados são apresentadas em diversos contextos. O Minicurso é destinado a um público geral com formação em matemática (graduação), pessoas interessadas de áreas afins que tenham um conhecimento básico de EDPs e de suas teorias relacionadas ou amantes curiosos do conhecimento científico matemático moderno. Contamos com sua presença para aprendermos/entendermos um pouco como a matemática está presente nos avanços modernos das ciências exatas no Brasil e no mundo.
 
   O minicurso será dividido em 3 partes:
-   - introdução de definições diferentes de Laplaciano fracionário;
-   - introdução dos espaços relacionados e das propriedades básicas necessárias para estudar problemas nãolineares variacionalmente;
-   - análise das propriedades, com pelo menos uma aplicação.
+
+   - Apresentação de literatura introdutória
+   - Apresentação de resultados pivotais
+   - Apresentação de resultados modernos
 
   Referências
-   1. R. A. Adams, Sobolev Spaces, Academic Press, New York (1975).
-   2. L. Brasco, E. Parini and M. Squassina, Stability of variational eigenvalues for the fractional p-Laplacian, Discrete Contin. Dyn. Syst. 36, no. 4, 1813-1845 (2016).
-   3. E. Di Nezza, G. Palatucci and E. Valdinoci, Hitchhiker’s guide to the fractional Sobolev spaces, Bull. Sci. Math. 136, no. 5, 521-573 (2012).
-   4. A. Fiscella, R. Servadei and E. Valdinoci, Density properties for fractional Sobolev spaces, Ann. Acad. Sci. Fenn. Math. 40, no. 1, 235-253 (2015).
-   5. G. Molica Bisci, V. D. Radulescu and R. Servadei, Variational methods for nonlocal fractional problems, Encyclopedia of Mathematics and its Applications, Vol. 162, Cambridge University Press, Cambridge (2016).
-   6. R. Servadei and E. Valdinoci, On the spectrum of two different fractional operators, Proc. Roy. Soc. Edinburgh Sect. A 144 , no. 4, 831-855 (2014).
+   1. Lawrence C. Evans , Partial Differential Equations . Second edition. Graduate Studies in Mathematics, 19. American Mathe- matical Society, Providence, RI, 2010. xxii+749 pp. ISBN: 978- 0-8218-4974-3.
+   2. Xavier Fernández-Real & Xavier Ros-Oton , Theory for Elliptic PDE . Book, 2020.
+   3. Djairo G. Figueiredo , Regularity Teoria Clássica do Potencial . [Clas- sical potential theory] Editora Universidade de Brasília, Rio de Janeiro 1963 iv+166 pp.
+   4. Djairo Guedes de Figueiredo , O Princípio de Dirichlet . Matemática Universitária N. 1 (1985), 63-84.
+   5. Djairo Guedes de Figueiredo , Métodos Variacionais em Equações Diferenciais . Matemática Universitária N. 7 (1988), 21-47.
+   6. Nikos Katzourakis, An Introduction to Viscosity Solutions for Fully Nonlinear PDE with Applications to Calculus of Vari- ations in L∞ . Springer - Edition 2015, pp. 123.
+   7. Augusto Ponce , Métodos Clássicos em Teoria do Potencial . Publicações Matemáticas, IMPA, Rio de Janeiro, 2009. ISBN: 978-85-244-0244-9.
+   8. Julio Rossi , Tug-of-War games and PDEs . Course in Maxwell Centre for Analysis and Nonlinear PDEs. Edimburg. Scotland. May 2010.
+   9. Eduardo V. Teixeira , Introdução à teoria de regularidade elíptica: uma abordagem geométrica . III ENAMA, Maringá, 2009.
+   10. Noemí Wolanski , Introdución a los problemas de frontera libre . Cursos y Seminarios de Matemática - Serie B. Fascículo 2. 2007 Departamento de Matemática, Facultad de Ciencias Exac- tas y Naturales, Universidad de Buenos Aires.

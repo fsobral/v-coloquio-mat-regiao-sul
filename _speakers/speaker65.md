@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Viviane Ribeiro Tomaz da Silva (UFMG)
-name: Viviane Ribeiro Tomaz da Silva (UFMG)
+last_name: Herivelto Martins Borges Filho (ICMC-USP)
+name: Herivelto Martins Borges Filho (ICMC-USP)
 
 ---
 

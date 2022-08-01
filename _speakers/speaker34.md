@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Eduardo Tavares (UEL)
-name: Eduardo Tavares (UEL)
+last_name: Cecília de Souza Fernandes (UFF)
+name: Cecília de Souza Fernandes (UFF)
 
 ---
 

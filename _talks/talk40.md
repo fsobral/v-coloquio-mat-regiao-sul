@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Números
-name: 'Ladrilhamentos: um novo enfoque sobre as partições de inteiros'
+- Códigos
+name: Codificação e Modulação Proveniente de Partição de Reticulados
 speakers:
-- Carlos Eduardo de Oliveira (IFSP)
+- Edson Donizete de Carvalho (FEIS-UNESP)
 ---
 
-Este trabalho tem por objetivo apresentar uma nova maneira de observar as partições de um número inteiro através de uma bijeção estabelecida entre as partições de n e todos os ladrilhamentos de mesmo comprimento seguindo condições específicas..  Essa bijeção foi encontrada por um longo e sequencial caminho que passa pela escrita de uma partição como matriz de duas linhas, caminhos reticulados sobre o plano cartesiano, sequência de ímpares distintos e maiores do que 1 até, por final, relacionar cada partição a um ladrilhamento regido por condições pré-estabelecidas.
+Modulação codificada é uma técnica que permite realizar a modulação e a codificação em uma única etapa através da seleção de  sinais  em um conjunto de sinais S de um espaço métrico M. Se o conjunto de sinais S for  invariante sob a ação de um grupo G, dizemos que S é geometricamente uniforme (GU).  As regiões de Voronoi associadas aos conjuntos de sinais GU são todas congruentes independente do sinal transmitido.  Partição de reticulados fornece um eficiente método para obter codificadores e moduladores a partir da seleção de sinais em um conjunto de sinais S (GU) identificados por um conjunto  discreto de pontos proveniente de baricentros de polígonos regulares, seja no plano euclidiano ou no plano hiperbólico. No plano euclidiano, os reticulados obtidos tem uma estrutura de grupo aditivo e no plano hiperbólico os reticulados tem uma estrutura  multiplicativa obtido a partir de uma ordem  dos quatérnios  derivada de grupos  Fuchsianos aritméticos.

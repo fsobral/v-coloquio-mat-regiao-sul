@@ -2,9 +2,9 @@
 categories:
 - Sessão Temática
 - Teoria de Singularidades
-name: Lipschitz trivial values of polynomial mappings
+name: Invariantes associados a germes de aplicações
 speakers:
-- Vicent Jean Henri Grandjean (UFC)
+- Michele Ferreira Zancheta Morgado (UNESP-SJRP)
 ---
 
-I will fully characterize the real and complex polynomial mappings taking a value which is Lipschitz trivial.
+No estudo de hipersuperfícies analíticas complexas singulares sob o ponto de vista local, ou seja, definidas por um germe de função holomorfa, Milnor prova um teorema de fibração, obtendo a chamada fibra de Milnor (local) associada a este germe. No caso em que a hipersuperfície tem singularidade isolada, Milnor introduziu um importante invariante, agora chamado número de Milnor, que tem um importante papel na teoria moderna de Singularidades. Bruce e Roberts estendem a definição de número de Milnor de um germe de função f, restringindo a um germe de variedade X.  Agora, no caso de germes de aplicações, sendo uma interseção completa com singularidade isolada (ICIS) Hamm provou que este germe também tem um número de Milnor bem definido associado, definido como o grau da homologia média da correspondente fibra de Milnor.   Neste contexto, buscamos estender o número de Bruce-Roberts no caso de germes de aplicações f, que são interseções completas, restritos a um germe de variedade X, entender propriedades geométricas do germe f e X e obter resultados entre os números de Hamm de f e esta extensão. 

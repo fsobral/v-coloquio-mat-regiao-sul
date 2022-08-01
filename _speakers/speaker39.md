@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Maria Aparecida Soares Ruas (ICMC-USP)
-name: Maria Aparecida Soares Ruas (ICMC-USP)
+last_name: Elizabeth Gasparin (Universidad Católica Del Norte)
+name: Elizabeth Gasparin (Universidad Católica Del Norte)
 
 ---
 

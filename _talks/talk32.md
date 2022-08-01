@@ -1,16 +1,28 @@
 ---
 categories:
 - Minicurso
-name: 'Sistemas dinâmicos: uma primeira visão (2/3)'
+name: Progressos recentes em teoria de regularidade elíptica e temas relacionados
+  (2/3)
 speakers:
-- Alexandre Tavares Baraviera (IME - UFRGS)
-- Flávia Malta Branco (IME - UFRGS)
-- Lucas Backes (IME - UFRGS)
+- João Vitor da Silva (UNICAMP)
 ---
 
-O objetivo deste mini-curso é iniciar uma discussão sobre sistemas dinâmicos em nível bastante elementar. A ideia é começar discutindo um caso relativamente simples que é a dinâmica em conjuntos finitos, onde já é possível falar de conceitos básicos como órbitas periódicas e atratores, passando depois para o conjunto dos números naturais. Uma das vantagens desse contexto é que pode-se falar, num nível bastante elementar, do aspecto mensurável da dinâmica, uma vez que medidas sobre os naturais são bem fáceis de se descrever. Por outro lado a dinâmica nesse conjunto está longe de ser uma completa trivialidade: a conjectura de Collatz, também chamada de problema 3n + 1 (mais precisamente: para a função f definida sobre o conjunto dos números naturais como f(n) = 3n + 1 para n ímpar e f(n) = n/2 para n par, mostrar que a órbita periódica 1, 4, 2 é um atrator global), ainda em aberto, ilustra isso de forma bem clara e dá aos alunos um bom exemplo de uma pergunta aparentemente simples que na verdade se revela muito desafiadora. Após introduzir conceitos e ideias básicas (como atrator, órbita periódica, ω-limite) pretendemos passar a conjuntos não enumeráveis, mais especificamente explorando o espaço de sequências de um alfabeto finito (o que permite um primeiro contato com um espaço métrico mais geral) e a dinâmica do shift; por m, pretendemos exibir algo sobre dinâmica de funções denidas num intervalo da reta, estudando casos de dinâmica expansiva (nos quais é possível estabelecer uma ponte com a situação do shift) e depois fazendo um pequeno passeio pela família quadrática, onde se ilustra a noção de bifurcação.
+Neste Minicurso apresentaremos alguns avanços mais recentes no que diz respeito ao estudo de resultados de regularidade para soluções de Equações Diferenciais Parciais elípticas (por simplicidade EDPs). Tais EDPs aparecem em diversos contextos de matemática aplicada, tais como em processos de catálise química, modelos de propagação de chamas, teoria de elasticidade e no estudo de fluidos não-Newtonianos, somente para citar alguns exemplos. Nos cenários em que analisaremos, vamos desenvolver algumas ferramen- tas que nos permitem estudar o comportamento local de soluções, inferindo assim propriedades refinadas das mesmas e de suas interfaces. Algumas aplicações de tais resultados são apresentadas em diversos contextos. O Minicurso é destinado a um público geral com formação em matemática (graduação), pessoas interessadas de áreas afins que tenham um conhecimento básico de EDPs e de suas teorias relacionadas ou amantes curiosos do conhecimento científico matemático moderno. Contamos com sua presença para aprendermos/entendermos um pouco como a matemática está presente nos avanços modernos das ciências exatas no Brasil e no mundo.
 
-  As aulas do mini-curso serão estruturadas como segue:
-   - Aula 1: Conceitos básicos de dinâmica, ilustrados em conjuntos finitos e no conjunto dos números naturais; dinâmica no espaço das sequências {0, 1}N: o caso do shift;
-   -  Aula 2: Dinâmica num intervalo compacto da reta. Dinâmicas expansivas e os casos da tenda e da duplicação modulo 1; conexão com o shift. Dinâmica no círculo: rotações racionais e irracionais;
-   - Aula 3: Pontos fixos no intervalo: atratores locais, repulsores. A família quadrática: bifurcações, duplicação de período, o caso conjugado à tenda.
+  O minicurso será dividido em 3 partes:
+
+   - Apresentação de literatura introdutória
+   - Apresentação de resultados pivotais
+   - Apresentação de resultados modernos
+
+  Referências
+   1. Lawrence C. Evans , Partial Differential Equations . Second edition. Graduate Studies in Mathematics, 19. American Mathe- matical Society, Providence, RI, 2010. xxii+749 pp. ISBN: 978- 0-8218-4974-3.
+   2. Xavier Fernández-Real & Xavier Ros-Oton , Theory for Elliptic PDE . Book, 2020.
+   3. Djairo G. Figueiredo , Regularity Teoria Clássica do Potencial . [Clas- sical potential theory] Editora Universidade de Brasília, Rio de Janeiro 1963 iv+166 pp.
+   4. Djairo Guedes de Figueiredo , O Princípio de Dirichlet . Matemática Universitária N. 1 (1985), 63-84.
+   5. Djairo Guedes de Figueiredo , Métodos Variacionais em Equações Diferenciais . Matemática Universitária N. 7 (1988), 21-47.
+   6. Nikos Katzourakis, An Introduction to Viscosity Solutions for Fully Nonlinear PDE with Applications to Calculus of Vari- ations in L∞ . Springer - Edition 2015, pp. 123.
+   7. Augusto Ponce , Métodos Clássicos em Teoria do Potencial . Publicações Matemáticas, IMPA, Rio de Janeiro, 2009. ISBN: 978-85-244-0244-9.
+   8. Julio Rossi , Tug-of-War games and PDEs . Course in Maxwell Centre for Analysis and Nonlinear PDEs. Edimburg. Scotland. May 2010.
+   9. Eduardo V. Teixeira , Introdução à teoria de regularidade elíptica: uma abordagem geométrica . III ENAMA, Maringá, 2009.
+   10. Noemí Wolanski , Introdución a los problemas de frontera libre . Cursos y Seminarios de Matemática - Serie B. Fascículo 2. 2007 Departamento de Matemática, Facultad de Ciencias Exac- tas y Naturales, Universidad de Buenos Aires.

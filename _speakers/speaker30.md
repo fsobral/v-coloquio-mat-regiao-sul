@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Fernando Moreira Barnabé (Associação Nova Escola)
-name: Fernando Moreira Barnabé (Associação Nova Escola)
+last_name: João Alberto da Silva (FURG)
+name: João Alberto da Silva (FURG)
 
 ---
 

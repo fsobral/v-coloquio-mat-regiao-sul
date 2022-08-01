@@ -56,10 +56,10 @@ min-width: 100px;
 	<tr>
       <th scope="row">10:30-12:00</th>
       <td>MC1</td>
-      <td>MC2</td>
-      <td>MC1 e MC2</td>
+      <td><s>MC2</s></td>
+      <td>MC1 e <s>MC2</s></td>
       <td>Sessão de Pôsteres</td>
-      <td>MC1 e MC2</td>
+      <td>MC1 e <s>MC2</s></td>
     </tr>
 	<tr>
 		<th scope='row'>12:00-13:30  </th>
@@ -122,7 +122,7 @@ min-width: 100px;
 </h1>
 
 - MC1- Sistemas dinâmicos: uma primeira visão (Alexandre Baraviera, Flávia Malta Branco, Lucas Backes – IME - UFRGS)
-- MC2- O teorema de Bernstein para superfícies mínimas (Arlandson Matheus Silva Oliveira – UEPb)
+- <s>MC2- O teorema de Bernstein para superfícies mínimas (Arlandson Matheus Silva Oliveira – UEPb)</s> Cancelado
 - MC3- Uma introdução ao Cálculo Fracionário (Alessio Fiscella - University of Milan-Bicocca)
 - MC4- Introdução à Geometria de Distâncias (Douglas Soares Gonçalves – UFSC)
 - MC5- Progressos recentes em teoria de regularidade elíptica e temas relacionados (João Vitor da Silva – UNICAMP)

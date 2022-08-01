@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Emerson Tortoloa (UTFPR-Toledo)
-name: Emerson Tortoloa (UTFPR-Toledo)
+last_name: Fernando Moreira Barnabé (Associação Nova Escola)
+name: Fernando Moreira Barnabé (Associação Nova Escola)
 
 ---
 

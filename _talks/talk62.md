@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Teoria de Singularidades
-name: Invariantes associados a germes de aplicações
+- Álgebra
+name: O invariante de Hasse-Witt para curvas do tipo Fermat
 speakers:
-- Michele Ferreira Zancheta Morgado (UNESP-SJRP)
+- Herivelto Martins Borges Filho (ICMC-USP)
 ---
 
-No estudo de hipersuperfícies analíticas complexas singulares sob o ponto de vista local, ou seja, definidas por um germe de função holomorfa, Milnor prova um teorema de fibração, obtendo a chamada fibra de Milnor (local) associada a este germe. No caso em que a hipersuperfície tem singularidade isolada, Milnor introduziu um importante invariante, agora chamado número de Milnor, que tem um importante papel na teoria moderna de Singularidades. Bruce e Roberts estendem a definição de número de Milnor de um germe de função f, restringindo a um germe de variedade X.  Agora, no caso de germes de aplicações, sendo uma interseção completa com singularidade isolada (ICIS) Hamm provou que este germe também tem um número de Milnor bem definido associado, definido como o grau da homologia média da correspondente fibra de Milnor.   Neste contexto, buscamos estender o número de Bruce-Roberts no caso de germes de aplicações f, que são interseções completas, restritos a um germe de variedade X, entender propriedades geométricas do germe f e X e obter resultados entre os números de Hamm de f e esta extensão. 
+Seja X uma curva projetiva não singular de gênero g > 0, definida sobre um corpo algebricamente fechado de característica p > 0. Propriedades aritméticas e geométricas de X são frequentemente codificadas em seus invariantes birracionais, alguns dos quais são o gênero, o grupo de automorfismo e o p-posto. Este último é o inteiro em {0,1, ..., g} que corresponde ao número de cópias do grupo de ordem p no jacobiano de X, ou equivalentemente, o número de p-extensões abelianas não ramificadas independentes do corpo  de funçōes de X.  O estudo do p-rank é fundamental para uma série de problemas relacionados à classificação de curvas sobre corpos finitos. Por exemplo, é bem conhecido que curvas muitos automorfismos têm  p-posto zero. Por outro lado, uma conjectura de Guralnick e Zieve afirma que se X é ordinária,  então o grupo de automorfimos de X não pode ser muito grande. Outros tópicos importantes, como curvas que atingem a cota de Hasse-Weil, podem ser naturalmente ligados ao estudo do p-rank.  Nesta palestra, discutimos alguns problemas e resultados recentes sobre a caracterização do p-rank de certas famílias de curvas. Em particular, mostraremos como se pode facilmente determinar  o p-posto de curvas do tipo Fermat. Além disso, apresentaremos e discutiremos alguns desafios combinatórios intrinsecamente relacionados à nossa abordagem e resultados.

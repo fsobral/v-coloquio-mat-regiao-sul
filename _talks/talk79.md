@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Códigos
-name: Códigos coloridos hiperbólicos, com ou sem fronteiras.
+- Álgebra
+name: Homomorfismos de anéis graduados em anéis com divisão graduados
 speakers:
-- Waldir Silva Soares Junior (UTFPR-PB)
+- Javier Sánchez Serdà (IME-USP)
 ---
 
-Os códigos coloridos foram introduzidos no ano de 2007 em um artigo chamado Topological Quantum Distillation, escrito por Bombim e Martin-Delgado. Neste artigo, são apresentados dois tipos de códigos coloridos, sendo um no toro, que codifica 2 qubits e outro em um triângulo com fronteiras de três cores diferentes que codifica apenas um qubit. Nossos estudos levaram a algumas generalizações desses códigos apresentados, em duas delas, em particular, fazendo uso da geometria hiperbólica. Vamos apresentar alguns dos resultados obtidos tanto para superfícies compactas sem bordo quanto para superfícies planas com bordo, comparando os parâmetros obtidos por tais códigos com outros presentes na literatura.
+Seja R um anel com elemento identidade e D um anel com divisão. Dado um homomorfismo de anéis f:R-->D, este induz um homomorfismo entre os respectivos anéis de matrizes quadradas de tamanho n.  O núcleo singular de f é o conjunto de matrizes quadradas (de qualquer tamanho) que são enviadas em matrizes singulares (i.e. não invertíveis) pelo homomorfismo f.  Paul M. Cohn caracterizou os conjuntos de matrizes quadradas que aparecem como núcleos singulares e mostrou que, a menos de isomorfismo, os núcleos singulares caracterizam os diferentes homomorfismos de R em anéis com divisão.  Neste trabalho, mostramos que esta caracterização pode ser implementada no contexto de anéis graduados. Mais precisamente, dado um anel R graduado por um grupo G, adaptamos a teoria de Cohn para determinar os diferentes homomorfismos de anéis graduados de R em anéis com divisão G-graduados. 

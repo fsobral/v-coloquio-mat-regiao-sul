@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Códigos
-name: Códigos Geometricamente Uniformes e Particionamentos Ungerboeck em g-Toros
+- Álgebra
+name: Quadrado tensorial não abeliano de p-grupos
 speakers:
-- Eduardo Michel Vieira Gomes (UTFPR)
+- Raimundo de Araújo Bastos Júnior (UNB)
 ---
 
- Códigos Geometricamente Uniformes e Particionamentos Ungerboeck em g-Toros
+Apresentação consiste em mostrar os avanços recentes (e as estratégias adotadas) para o cálculo do expoente do quadrado tensorial não abeliano de p-grupos. 

@@ -1,9 +1,22 @@
 ---
 categories:
-- Plenária
-name: Removability of isolated singularities on surfaces with bounded mean curvature
+- Minicurso
+name: Uma introdução ao Cálculo Fracionário (2/3)
 speakers:
-- Edson Sampaio (UFC)
+- Alessio Fiscella (University of Milan-Bicocca)
 ---
 
-In this talk, I will prove the following generalized version of Bers' Theorem on isolated singularities of minimal surfaces. Let S be a topological surface in a 3-dimensional Riemannian manifold M. Assume that the set where S is not a smooth surface, denoted by Sing(S), is a set of isolated points. If the mean curvature of Reg(S)=S\Sing(S) is bounded around each point of Sing(S), then S is a C^{1,b} smooth surface, for all b in (0,1). Moreover, if the mean curvature of Reg(S) extends to S as a locally Lipschitz function then S is C^{2,b} smooth surface, for all b in (0,1).  With this result, we obtain several consequences, for instance, we obtain the following: (1) A classification of a class of algebraic CMC surfaces in the 3-dimensional Euclidean space: A connected algebraic CMC surface in the 3-dimensional Euclidean space with isolated singularities and a suitable condition of local connectedness is a plane or a finite union of round spheres and right circular cylinders touching at the singularities; (2) A CMC surface in the 3-dimensional Euclidean space that is a topological manifold does not have isolated singularities; (3) A connected algebraic CMC surface in the 3-dimensional Euclidean space with isolated singularities which is locally Lipschitz normally embedded (or quasi-convex) must be a plane or a round sphere or a right circular cylinder.
+Nos últimos anos, problemas e operadores fracionários foram amplamente estudados na literatura e atraíram a atenção de muitos matemáticos vindos de diferentes áreas de pesquisa. O interesse para este tipo de operadores cresceu mais e mais, graças à estrutura não local de tipo integrodifferential e à vista de várias aplicações em uma ampla gama de contextos. Na verdade, operadores fracionários aparecem em aplicações concretas em muitos campos, como otimização, finanças, transições de fase, materiais estratificados, difusão anômala, luxação de cristais, membranas semipermeáveis, propagação de chama, leis de conservação, mecânica quântica, fluxos quase geostróficos, espalhamento múltiplo, superfícies mínimas e ciência dos materiais. O objetivo deste minicurso é fornecer as ferramentas básicas para enfrentar problemas nãolineares envolvendo o p-Laplaciano fracionário. Para isso, introduziremos várias definições para os operadores e os espaços de Sobolev fracionários, possivelmente analisando as diferenças. Finalmente, veremos algumas aplicações para problemas elípticos variacionais em um ambiente nãolocal.
+
+  O minicurso será dividido em 3 partes:
+   - introdução de definições diferentes de Laplaciano fracionário;
+   - introdução dos espaços relacionados e das propriedades básicas necessárias para estudar problemas nãolineares variacionalmente;
+   - análise das propriedades, com pelo menos uma aplicação.
+
+  Referências
+   1. R. A. Adams, Sobolev Spaces, Academic Press, New York (1975).
+   2. L. Brasco, E. Parini and M. Squassina, Stability of variational eigenvalues for the fractional p-Laplacian, Discrete Contin. Dyn. Syst. 36, no. 4, 1813-1845 (2016).
+   3. E. Di Nezza, G. Palatucci and E. Valdinoci, Hitchhiker’s guide to the fractional Sobolev spaces, Bull. Sci. Math. 136, no. 5, 521-573 (2012).
+   4. A. Fiscella, R. Servadei and E. Valdinoci, Density properties for fractional Sobolev spaces, Ann. Acad. Sci. Fenn. Math. 40, no. 1, 235-253 (2015).
+   5. G. Molica Bisci, V. D. Radulescu and R. Servadei, Variational methods for nonlocal fractional problems, Encyclopedia of Mathematics and its Applications, Vol. 162, Cambridge University Press, Cambridge (2016).
+   6. R. Servadei and E. Valdinoci, On the spectrum of two different fractional operators, Proc. Roy. Soc. Edinburgh Sect. A 144 , no. 4, 831-855 (2014).

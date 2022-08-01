@@ -2,10 +2,9 @@
 categories:
 - Sessão Temática
 - Álgebra
-name: Variedades minimais de PI-álgebras Z_n-graduadas e a fatorabilidade de seus
-  T-ideais
+name: Álgebras de Incidência
 speakers:
-- Viviane Ribeiro Tomaz da Silva (UFMG)
+- Ednei Aparecido Santulo Júnior (UEM)
 ---
 
-Em 2003, Giambruno e Zaicev estabeleceram resultados interessantes relacionando variedades minimais de um dado PI-expoente e a fatorabilidade de seus T-ideais. Nesta palestra, lidaremos com variedades de PI-álgebras graduadas por grupos cíclicos finitos e apresentaremos alguns resultados recentes sobre a minimalidade destas variedades e a fatorabilidade de suas identidades polinomiais graduadas.
+As álgebras de incidência de um conjunto parcialmente ordenado X foram primeiramente introduzidas por Rota e Stanley, na década de 1960, em um contexto combinatório relacionado com a inversão da aplicação de Möbius. Desde então, essa classe de álgebras têm se mostrado uma generalização interessante e bem comportada das álgebras de matrizes triangulares. Um problema clássico dessa teoria é o problema do isomorfismo, no qual são estudadas condições que devem ser satisfeitas por X e pelo anel R sobre o qual a álgebra está definida para que o isomorfismo entre duas R-álgebras de incidência implique o isomorfismo entre os respectivos conjuntos parcialmente ordenados. Nesta apresentação, além de introduzirmos esses assuntos, exibiremos alguns resultados envolvendo involuções, graduações, involuções invertendo graduação e automorfismos de Lie de tais álgebras

@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Janice Pereira Lopes (UFG)
-name: Janice Pereira Lopes (UFG)
+last_name: Maria Aparecida Soares Ruas (ICMC-USP)
+name: Maria Aparecida Soares Ruas (ICMC-USP)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Elizabeth Wegner Karas (UFPR)
-name: Elizabeth Wegner Karas (UFPR)
+last_name: Liliane de Almeida Maia (UnB)
+name: Liliane de Almeida Maia (UnB)
 
 ---
 

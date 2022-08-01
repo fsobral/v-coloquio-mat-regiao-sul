@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Aldício Miranda (UFU)
-name: Aldício Miranda (UFU)
+last_name: Adriano da Silva (Universidad de Tarapá)
+name: Adriano da Silva (Universidad de Tarapá)
 
 ---
 

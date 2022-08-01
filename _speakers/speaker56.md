@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Rodrigo Bissacot (USP)
-name: Rodrigo Bissacot (USP)
+last_name: Gregório Pacelli Bessa (UFC)
+name: Gregório Pacelli Bessa (UFC)
 
 ---
 

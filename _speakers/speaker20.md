@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Thiago Henrique de Freitas (UTFPR - Guarapuava)
-name: Thiago Henrique de Freitas (UTFPR - Guarapuava)
+last_name: Victor Hugo Jorge Pérez (ICMC - USP)
+name: Victor Hugo Jorge Pérez (ICMC - USP)
 
 ---
 

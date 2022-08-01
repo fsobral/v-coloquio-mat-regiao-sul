@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Teoria de Singularidades
-name: Sobre Singularidades Quase Ordinárias
+- Códigos
+name: Critério de Busca para STC em canais MIMO
 speakers:
-- Rafael Afonso Barbosa (UFMS)
+- Carlos Alexandre Ribeiro Martins (UTFPR-PB)
 ---
 
-Nesta palestra vamos abordar uma categoria de hipersuperfícies que possuem algumas propriedades que são generalizações das curvas planas: hipersuperfícies quase ordinárias. Apresentaremos uma construção que permite descrever uma hipersuperfície quase ordinária particular a partir de uma hipersuperfície quase ordinária mergulhada em um espaço de dimensão menor, exploraremos relações entre seus invariantes e mostraremos que tal construção é sensível por mudanças de coordenadas.
+Apresentamos um novo critério de busca para códigos espaço-temporais em canais de comunicação multiantena. Este critério tem como objetivo minimizar a probabilidade de erro par-a-par do decodificador de máxima-verossimilhança, munido da norma espectral de matrizes. 

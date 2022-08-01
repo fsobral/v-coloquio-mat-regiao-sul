@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Maité Kulesza (UFRPE)
-name: Maité Kulesza (UFRPE)
+last_name: Janice Pereira Lopes (UFG)
+name: Janice Pereira Lopes (UFG)
 
 ---
 

@@ -30,10 +30,10 @@ Minicursos
     <tr>
       <th scope="row">10:30-12:00</th>
       <td> MC1</td>
-      <td> MC2 </td>
-      <td> MC1<BR>MC2 </td>
+      <td> <s>MC2</s> </td>
+      <td> MC1<BR><s>MC2</s> </td>
       <td> &nbsp; </td>
-      <td> MC1<BR>MC2 </td>
+      <td> MC1<BR><s>MC2</s> </td>
     </tr>
     <tr>
       <th scope="row">13:30-15:00</th>
@@ -100,7 +100,7 @@ Referências
   2. R. Devaney, "A first course in chaotic dynamical systems", West-
 view press, 1992
 
-### MC2 - O teorema de Bernstein para superfícies mínimas
+### <s>MC2 - O teorema de Bernstein para superfícies mínimas</s> - Cancelado
 
 _Responsável_: Arlandson Matheus Silva Oliveira (UEPb)
 

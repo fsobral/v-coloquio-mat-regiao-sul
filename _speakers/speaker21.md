@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Victor Hugo Jorge Pérez (ICMC - USP)
-name: Victor Hugo Jorge Pérez (ICMC - USP)
+last_name: Aldício Miranda (UFU)
+name: Aldício Miranda (UFU)
 
 ---
 

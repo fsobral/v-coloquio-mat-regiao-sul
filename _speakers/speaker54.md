@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Marcos Pimenta (FCT-UNESP)
-name: Marcos Pimenta (FCT-UNESP)
+last_name: Edson Sampaio (UFC)
+name: Edson Sampaio (UFC)
 
 ---
 

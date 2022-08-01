@@ -1,11 +1,11 @@
 ---
 categories:
 - Sessão Temática
-- Códigos
-name: Construção de Cód. Clássicos e Quânticos Quase-Cíclicos via Plano Euclidiano
-  Finito
+- Educação Matemática/Ensino
+name: 'Novos Desafios sobre Aprender e Ensinar Matemática: a Pós-Graduação e a formação
+  de professores que atuam no ensino de Matemática'
 speakers:
-- Frederico Ventura Batista (UEM)
+- Marilaine de Fraga Sat'Ana (UFRGS)
 ---
 
-Nessa palestra serão apresentadas famílias de códigos binários quase-cíclicos (QC) e famílias de códigos quânticos corretores de erros (QECC). Os códigos QC foram obtidos tomando como base o conceito de Plano Euclidiano Finito (PEF). A saber, o PEF é concebido com a ideia de ser um "análogo" do Plano Euclidiano, porém o primeiro é definido a partir de um corpo finito munido com uma relação de ordem e uma ferramenta inspirada na ideia de distância. Os códigos QC assim obtidos possuem propriedades interessantes das quais destacamos o fato de serem auto-ortogonais. Esta propriedade  dos códigos QC nos permite obter famílias de QECC por meio da construção CSS. A caracterização  dos códigos QC  e dos códigos QECC foi feita por meio da determinação de seus parâmetros.
+Como coordenadora de um Programa de Pós-Graduação em Ensino de Matemática, que foca na pesquisa em Educação Matemática, discorro sobre desafios elencados a partir do grupo com o qual trabalho. Esse grupo é constituído por docentes de formações diversas, que pesquisam em diversos âmbitos, tomando por base referenciais teóricos também diversos. São apontados como desafios:  o conhecimento do conteúdo para o ensino; a aprendizagem conjunta da Matemática para embalar a discussão de questões sociais; a união entre prática e teoria pela reflexão; o aprender pela docência, mantendo o caráter artesanal da pesquisa; os impactos do retorno ao presencial, refletindo sobre as possibilidades e limitações do ensino remoto vivenciado na pandemia; a realidade e a reflexão aliadas aos conteúdos específicos; e a defesa da escola e da Universidade como espaços de aprendizagem e de experiências múltiplas. Esse rol de desafios reflete de certa maneira a diversidade do grupo representado e é pela diversidade do ensino e da pesquisa que percebemos possibilidades para enfrentá-los.

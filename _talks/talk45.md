@@ -2,10 +2,10 @@
 categories:
 - Sessão Temática
 - Educação Matemática/Ensino
-name: 'A Análise de Erros no ensino e na aprendizagem de Cálculo Diferencial e Integral:
-  desafios e contribuições'
+name: O movimento de constituição da Identidade Profissional de professores que ensinam
+  matemática e o enfrentamento de desafios sobre aprender e ensinar matemática
 speakers:
-- Daniela Barbieri (UNESPAR-Paranavaí)
+- Márcia Cristina de Costa Trindade Cyrino (UEL)
 ---
 
-A Análise de Erros é uma abordagem de pesquisa e ensino que tem sido empregada quando se detecta dificuldades na aprendizagem dos alunos, buscando identificá-las, por meio da análise do erros cometidos por eles em questões matemáticas. Consideramos esses erros como potenciais geradores de dúvidas construtivas, que conduzem os alunos a explorações e aprendizagens. Nessa palestra, pretendemos refletir sobre os desafios e contribuições dessa abordagem de ensino para a aprendizagem de matemática, particularmente nas aulas de Cálculo Diferencial e Integral (CDI). 
+A identidade profissional (IP) docente desempenha um papel central na compreensão das práticas de ensino, na ressignificação da prática docente, na motivação para ensinar, no bem-estar pessoal e profissional, bem como na tomada de decisão a respeito da carreira de professor. Considerando que o movimento de constituição da IP de professores que ensinam matemática (PEM) é um processo contínuo, complexo, dinâmico, temporal e experiencial, nesse seminário discutiremos o papel desse movimento na formação (inicial e continuada) de PEM e o enfrentamento de desafios sobre aprender e ensinar matemática.

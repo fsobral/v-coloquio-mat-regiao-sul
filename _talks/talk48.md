@@ -2,12 +2,10 @@
 categories:
 - Sessão Temática
 - EDP-LEE
-name: Multiplicity of solutions for a nonlinear boundary value problem in the upper
-  half-space
+name: Symmetry and symmetry breaking for Hénon-type problems involving the 1-Laplacian
+  operator
 speakers:
-- Marcelo Furtado (UnB)
+- Marcos Pimenta (FCT-UNESP)
 ---
 
-We obtain multiple solutions for the nonlinear boundary value problem $$ -\Delta u-\dfrac{1}{2}\left(  x\cdot
-abla u\right)  = f(\lambda,x,u), \mbox{ in }\mathbb{R}_{+}^{N}, \qquad \dfrac{\partial u}{\partial
-u}=g(\mu,x',u), \mbox{ on } \partial \mathbb{R}_{+}^{N}, $$ where $\mathbb{R}^N_+ = \{(x',x_N) : x' \in \mathbb{R}^{N-1},\,x_N>0 \}$ is the upper half-space and $\lambda,\,\mu>0$ are parameters. We consider sublinear, linear and superlinear cases and the function $g$ has critical growth.
+In this work, we study a class of Hénon-type equations which involve the 1-Laplacian operator in the unit ball. Under mild assumptions on the nonlinearity, the existence of radial solutions is proved and, for a parameter in a certain range, the existence of symmetry breaking is proved, through the presence of non-radial solutions. The approach is based on an approximation scheme, where a thorough analysis of the solutions of the associated p-Laplacian problems is necessary.

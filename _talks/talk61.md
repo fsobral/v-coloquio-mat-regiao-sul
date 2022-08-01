@@ -1,10 +1,11 @@
 ---
 categories:
 - Sessão Temática
-- Teoria de Singularidades
-name: 'Classificação projetiva de superfície regradas via geometria da curva flecnodal '
+- Álgebra
+name: Variedades minimais de PI-álgebras Z_n-graduadas e a fatorabilidade de seus
+  T-ideais
 speakers:
-- Jorge Luiz Deolindo Silva (UFSC)
+- Viviane Ribeiro Tomaz da Silva (UFMG)
 ---
 
-Superfície regrada é um assunto clássico em geometria e definida por uma família de retas (geratrizes) movendo-se ao longo de uma curva (diretriz). Neste trabalho, de um ponto de vista da teoria de singularidades, focamos no caso regular e classificamos projetivamente os jatos das formas de Monge de superfícies regradas via geometria da curva flecnodal. 
+Em 2003, Giambruno e Zaicev estabeleceram resultados interessantes relacionando variedades minimais de um dado PI-expoente e a fatorabilidade de seus T-ideais. Nesta palestra, lidaremos com variedades de PI-álgebras graduadas por grupos cíclicos finitos e apresentaremos alguns resultados recentes sobre a minimalidade destas variedades e a fatorabilidade de suas identidades polinomiais graduadas.

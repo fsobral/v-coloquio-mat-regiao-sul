@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Teoria de Singularidades
-name: The Nash modification of parametrized singular surfaces
+- Códigos
+name: Códigos Geometricamente Uniformes e Particionamentos Ungerboeck em g-Toros
 speakers:
-- Nivaldo de Góes Grulha Júnior (USP-São Carlos)
+- Eduardo Michel Vieira Gomes (UTFPR)
 ---
 
-In this work, we show that, under certain conditions, the Nash Modification of a singular surface parameterized by a corank one application is smooth. 
+ Códigos Geometricamente Uniformes e Particionamentos Ungerboeck em g-Toros

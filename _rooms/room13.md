@@ -1,4 +1,4 @@
 ---
 hide: false
-name: Meet EDP-LEE
+name: Meet Singularidades
 ---

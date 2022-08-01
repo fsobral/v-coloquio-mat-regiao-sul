@@ -1,10 +1,10 @@
 ---
 categories:
 - Sessão Temática
-- Álgebra
-name: Álgebras de Incidência
+- EDP-LEE
+name: Resolubilidade global Gevrey para uma classe de sistemas involutivos
 speakers:
-- Ednei Aparecido Santulo Júnior (UEM)
+- Cleber de Medeira (UFPR)
 ---
 
-As álgebras de incidência de um conjunto parcialmente ordenado X foram primeiramente introduzidas por Rota e Stanley, na década de 1960, em um contexto combinatório relacionado com a inversão da aplicação de Möbius. Desde então, essa classe de álgebras têm se mostrado uma generalização interessante e bem comportada das álgebras de matrizes triangulares. Um problema clássico dessa teoria é o problema do isomorfismo, no qual são estudadas condições que devem ser satisfeitas por X e pelo anel R sobre o qual a álgebra está definida para que o isomorfismo entre duas R-álgebras de incidência implique o isomorfismo entre os respectivos conjuntos parcialmente ordenados. Nesta apresentação, além de introduzirmos esses assuntos, exibiremos alguns resultados envolvendo involuções, graduações, involuções invertendo graduação e automorfismos de Lie de tais álgebras
+Nesse trabalho estudamos a resolubilidade global Gevrey de uma classe de sistemas de campos vetoriais complexos definidos no toro de dimensão n+1. Apresentamos uma caracterização completa da s-resolubilidade global dessa classe em termos de propriedades diofantinas dos coeficientes e a condição (P) de Nirenberg-Treves.  

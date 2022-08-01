@@ -1,7 +1,7 @@
 ---
 first_name: ''
-last_name: Marcelo Furtado (UnB)
-name: Marcelo Furtado (UnB)
+last_name: Olimpio Miyagaki (UFSCar)
+name: Olimpio Miyagaki (UFSCar)
 
 ---
 
