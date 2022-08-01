@@ -309,7 +309,7 @@ days:
     - name: Um passeio pela Otimização Contínua
       time_end: '10:00'
       time_start: '9:00'
-    - name: P7
+    - name: Min-Max Algorithm via Pohozaev Manifold
       time_end: '14:30'
       time_start: '13:30'
     - name: Ações da SBM, apresentação e discussão da proposta de Doutorado Profmat

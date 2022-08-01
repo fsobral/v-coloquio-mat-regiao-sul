@@ -9,4 +9,4 @@ speakers:
 - Walcy Santos (UFRJ)
 ---
 
-A ser enviado
+Ações da SBM, apresentação e discussão da proposta de Doutorado Profmat.
