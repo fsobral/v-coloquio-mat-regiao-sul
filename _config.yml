@@ -107,7 +107,11 @@ conference:
       - name: Comitês
         relative_url: /comites/
       - name: Inscrições
-        absolute_url: "https://forms.gle/taBwoQxrj1wHFEzs7"
+        menu:
+          - name: Inscreva-se
+            absolute_url: "https://forms.gle/taBwoQxrj1wHFEzs7"
+          - name: Lista de inscritos
+            relative_url: /inscritos/
       - name: F.A.Q 
         relative_url: /faq/
       - name: Associe-se à SBM
@@ -127,8 +131,8 @@ conference:
     logo:
       img: 'logo-grande.png'
     links:
-      # - name: Submeta um minicurso
-      #   relative_url: /submissoes/minicursos/
+      # - name: Lista de inscritos
+      #   relative_url: /inscritos/
       # - name: Program
       #   relative_url: /program/
       # - name: How to get there
@@ -139,17 +143,23 @@ conference:
 
   # Information boxes
   info_bars:
-     - title: Inscrições abertas!
+     - title: Lista de inscritos
        color: primary
        main_only: true
        text: |
-         Clique [aqui](https://forms.gle/taBwoQxrj1wHFEzs7) para realizar sua inscrição!!.
+         Acesse [aqui](inscritos/) a lista de inscritos no evento.
 
-     - title: Cancelamento de Minicurso
-       color: primary
-       main_only: true
-       text: |
-         O minicurso MC2- O Teorema de Bernstein para superfícies mínimas foi cancelado.
+     # - title: Inscrições abertas!
+     #   color: primary
+     #   main_only: true
+     #   text: |
+     #     Clique [aqui](https://forms.gle/taBwoQxrj1wHFEzs7) para realizar sua inscrição!!.
+
+     # - title: Cancelamento de Minicurso
+     #   color: primary
+     #   main_only: true
+     #   text: |
+     #     O minicurso MC2- O Teorema de Bernstein para superfícies mínimas foi cancelado.
     # - title: Abertas submissões de propostas de minicursos até 13/06!
     #   color: primary
     #   main_only: true
