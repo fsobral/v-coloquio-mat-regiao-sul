@@ -3,10 +3,10 @@ layout: default
 ---
 
 <h1 class="display-5 mb-3">
-Minicursos
+Lista de inscritos
 </h1>
 
-Última atualização: 03/08/22 às 08:09
+Última atualização: 03/08/22 às 08:25
 <br>
 <div class="table-responsive">
 <table class="table table-striped">

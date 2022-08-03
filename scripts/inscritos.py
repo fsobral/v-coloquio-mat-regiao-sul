@@ -19,7 +19,7 @@ layout: default
 ---
 
 <h1 class="display-5 mb-3">
-Minicursos
+Lista de inscritos
 </h1>
 """
             )
