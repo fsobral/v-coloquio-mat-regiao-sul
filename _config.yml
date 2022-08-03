@@ -143,17 +143,17 @@ conference:
 
   # Information boxes
   info_bars:
+     - title: Inscrições abertas!
+       color: primary
+       main_only: true
+       text: |
+         Clique [aqui](https://forms.gle/taBwoQxrj1wHFEzs7) para realizar sua inscrição!!
+
      - title: Lista de inscritos
        color: primary
        main_only: true
        text: |
          Acesse [aqui](inscritos/) a lista de inscritos no evento.
-
-     # - title: Inscrições abertas!
-     #   color: primary
-     #   main_only: true
-     #   text: |
-     #     Clique [aqui](https://forms.gle/taBwoQxrj1wHFEzs7) para realizar sua inscrição!!.
 
      # - title: Cancelamento de Minicurso
      #   color: primary
