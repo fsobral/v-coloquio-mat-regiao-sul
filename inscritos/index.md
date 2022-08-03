@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<!-- <input class="form-control" id="myInput" type="text" placeholder="Buscar..">
-<br> -->
+Última atualização: 02/08/22 às 21:59
+<br>
 <div class="table-responsive">
 <table class="table table-striped">
 <thead><tr><th>Nome</th><th>Instituição</th></tr></thead><tbody id="myTable">
@@ -32,6 +32,7 @@ layout: default
 	<tr><td>Ana Carolina Castro Batista</td><td>UFPR- Jandaia do Sul</td></tr>
 	<tr><td>Ana Carolina Rolim De Freitas </td><td>Universidade Estadual de Maringá </td></tr>
 	<tr><td>Ana Caroline Zampirolli</td><td>Universidade Estadual de Maringá </td></tr>
+	<tr><td>Ana Paula  De Souza</td><td>Unicamp</td></tr>
 	<tr><td>Ana Paula Dantas De Souza</td><td>Instituto Federal de Alagoas</td></tr>
 	<tr><td>Analice Barros De Moraes </td><td>Universidade Estadual de Mato Grosso do Sul </td></tr>
 	<tr><td>Anderson Ervino Schwertner</td><td>Universidade Estadual de Maringá</td></tr>
@@ -58,8 +59,8 @@ layout: default
 	<tr><td>Camila Da Silva Pereira </td><td>UFSC-Blumenau</td></tr>
 	<tr><td>Camila Peres De Souza</td><td>Universidade Federal de Mato Grosso do Sul </td></tr>
 	<tr><td>Camila Soares Da Silva </td><td>UEPB </td></tr>
-	<tr><td>Carina Urtiga Da Silva </td><td>Universidade Estadual da Paraíba (UEPB)</td></tr>
 	<tr><td>Carina Urtiga Da Silva </td><td>Universidade Estadual da Paraíba UEPB </td></tr>
+	<tr><td>Carina Urtiga Da Silva </td><td>Universidade Estadual da Paraíba (UEPB)</td></tr>
 	<tr><td>Carles Bivià Ausina</td><td>Universitat Politècnica de València</td></tr>
 	<tr><td>Carlos Alexandre Ribeiro Martins</td><td>UTFPR-PB</td></tr>
 	<tr><td>Carlos Eduardo Silva Monteiro </td><td>Universidade Estadual de Maringá </td></tr>
@@ -191,12 +192,13 @@ layout: default
 	<tr><td>Javier Sánchez Serdà</td><td>Universidade de São Paulo</td></tr>
 	<tr><td>Jean-Paul Brasselet</td><td>CNRS e Universidade de Aix-Marseille</td></tr>
 	<tr><td>Jefferson Braz Ferreira Sousa </td><td>Universidade Estadual da Paraíba (UEPB)</td></tr>
-	<tr><td>Jefferson Braz Ferreira Sousa </td><td>Universidade Estadual da Paraíba (UEPB)</td></tr>
 	<tr><td>Jefferson Braz Ferreira Sousa </td><td>Universidade Estadual da Paraíba </td></tr>
+	<tr><td>Jefferson Braz Ferreira Sousa </td><td>Universidade Estadual da Paraíba (UEPB)</td></tr>
 	<tr><td>Jesús Pascual Avalos Rodríguez</td><td>UNIVERSIDAD NACIONAL DE TRUJILLO</td></tr>
 	<tr><td>Jhone Caldeira</td><td>UFG</td></tr>
 	<tr><td>Jhony Tome Silva</td><td>Universidade Federal de Mato Grosso do Sul</td></tr>
 	<tr><td>Joaquim Gabriel Martins </td><td>Uem</td></tr>
+	<tr><td>Joerk Da Silva Oliveira</td><td>IFRR - Instituto Federal de Roraima</td></tr>
 	<tr><td>Johnaton Rocha  Pidorodeski </td><td>Unioeste </td></tr>
 	<tr><td>Johnny Albert Dos Santos Lima</td><td>ICMC-USP</td></tr>
 	<tr><td>Jorge Alberto Coripaco Huarcaya</td><td>Universidad Nacional Mayor de San Marcos</td></tr>
@@ -287,6 +289,7 @@ layout: default
 	<tr><td>Martha P. Dussan Angulo</td><td>Universidade de Sao Paulo</td></tr>
 	<tr><td>Marília Luiza Matte</td><td>Colégio Militar de Porto Alegre</td></tr>
 	<tr><td>Mateus Alegri</td><td>Universidade Federal de Sergipe (UFS)</td></tr>
+	<tr><td>Matheus Alves De Souza </td><td>Universidade Estadual de Mato Grosso do Sul</td></tr>
 	<tr><td>Matheus Felipe Nunes Moreira </td><td>Universidade Federal do Paraná- UFPR</td></tr>
 	<tr><td>Maurício Fangueiro Pereira </td><td>Universidade Federal do Rio Grande - FURG </td></tr>
 	<tr><td>Miguel Dario Soto Vieira</td><td>Universidade Federal do Rio de Janeiro</td></tr>
@@ -305,6 +308,7 @@ layout: default
 	<tr><td>Nicodemos Ferreira De Oliveira Segundo </td><td>Universidade Estadual da Paraíba </td></tr>
 	<tr><td>Nicoly Longaretti De Souza</td><td>Universidade Federal de Santa Catarina </td></tr>
 	<tr><td>Nivaldo De Góes Grulha Júnior</td><td>ICMC - USP</td></tr>
+	<tr><td>Nyelli Ai Omori </td><td>Universidade estadual de Maringá </td></tr>
 	<tr><td>Nícolas Kenji Nishikawa </td><td>Ufms</td></tr>
 	<tr><td>Olimpio Hiroshi Miyagaki</td><td>UFSCAR-UNIVERSIDADE FEDERAL DE SAO CARLOS</td></tr>
 	<tr><td>Oyran Silva Raizzaro</td><td>UEMS</td></tr>
@@ -314,8 +318,8 @@ layout: default
 	<tr><td>Patrícia Hernandes Baptistelli</td><td>UEM</td></tr>
 	<tr><td>Patrícia Klaser</td><td>UFSM</td></tr>
 	<tr><td>Paula Caroline Mendes Dos Santos</td><td>UEM</td></tr>
-	<tr><td>Paulo Cesar Carrião</td><td>Ufmg aposentado</td></tr>
 	<tr><td>Paulo Cesar Carrião</td><td>ufmg- aposentado</td></tr>
+	<tr><td>Paulo Cesar Carrião</td><td>Ufmg aposentado</td></tr>
 	<tr><td>Paulo Damião Christo Martins</td><td>Universidade de São Paulo</td></tr>
 	<tr><td>Paulo Dommingos Conejo</td><td>UNIOESTE</td></tr>
 	<tr><td>Paulo Fernando Mercadante Damazio </td><td>Universidade Estadual de Londrina </td></tr>

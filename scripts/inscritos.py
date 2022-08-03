@@ -1,4 +1,5 @@
 import pandas as pd
+import datetime
 
 def create_table(fromtsv,tomd):
 
@@ -8,17 +9,22 @@ def create_table(fromtsv,tomd):
 
     df.sort_values('Nome completo', inplace=True)
 
+    today = datetime.datetime.today()
+    
     with open("../inscritos/" + tomd, "w") as fp:
 
         fp.write(
 """---
 layout: default
 ---
-
-<!-- <input class="form-control" id="myInput" type="text" placeholder="Buscar..">
-<br> -->
 """
-        )
+            )
+        fp.write(today.strftime("\nÚltima atualização: %d/%m/%y às %H:%M\n") +
+                 '<br>\n')
+# <!-- <input class="form-control" id="myInput" type="text" placeholder="Buscar..">
+# <br> -->
+# """
+#         )
         fp.write('<div class="table-responsive">\n')
         fp.write('<table class="table table-striped">\n')
         fp.write('<thead>' +
