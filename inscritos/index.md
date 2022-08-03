@@ -2,7 +2,11 @@
 layout: default
 ---
 
-Última atualização: 02/08/22 às 21:59
+<h1 class="display-5 mb-3">
+Minicursos
+</h1>
+
+Última atualização: 03/08/22 às 08:09
 <br>
 <div class="table-responsive">
 <table class="table table-striped">
@@ -192,8 +196,8 @@ layout: default
 	<tr><td>Javier Sánchez Serdà</td><td>Universidade de São Paulo</td></tr>
 	<tr><td>Jean-Paul Brasselet</td><td>CNRS e Universidade de Aix-Marseille</td></tr>
 	<tr><td>Jefferson Braz Ferreira Sousa </td><td>Universidade Estadual da Paraíba (UEPB)</td></tr>
-	<tr><td>Jefferson Braz Ferreira Sousa </td><td>Universidade Estadual da Paraíba </td></tr>
 	<tr><td>Jefferson Braz Ferreira Sousa </td><td>Universidade Estadual da Paraíba (UEPB)</td></tr>
+	<tr><td>Jefferson Braz Ferreira Sousa </td><td>Universidade Estadual da Paraíba </td></tr>
 	<tr><td>Jesús Pascual Avalos Rodríguez</td><td>UNIVERSIDAD NACIONAL DE TRUJILLO</td></tr>
 	<tr><td>Jhone Caldeira</td><td>UFG</td></tr>
 	<tr><td>Jhony Tome Silva</td><td>Universidade Federal de Mato Grosso do Sul</td></tr>
@@ -219,6 +223,7 @@ layout: default
 	<tr><td>Juan Carlos Jacho Hancco</td><td>Universidade Federal Fluminense</td></tr>
 	<tr><td>Juan Carlos Ortiz Chata</td><td>Universidade Federal de São Carlos</td></tr>
 	<tr><td>Juliana Caroline Bonini Romagnoli </td><td>UFPR - Jandaia do Sul </td></tr>
+	<tr><td>Julierme Gomes Barbosa</td><td>UFMS</td></tr>
 	<tr><td>Julio Leo Fonseca Quispe</td><td>UFMG</td></tr>
 	<tr><td>Jânio Domingues Da Silva </td><td>UFMS</td></tr>
 	<tr><td>Júlia Guizardi</td><td>Universidade Estadual de Maringá </td></tr>

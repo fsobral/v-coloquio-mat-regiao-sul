@@ -17,6 +17,10 @@ def create_table(fromtsv,tomd):
 """---
 layout: default
 ---
+
+<h1 class="display-5 mb-3">
+Minicursos
+</h1>
 """
             )
         fp.write(today.strftime("\nÚltima atualização: %d/%m/%y às %H:%M\n") +
