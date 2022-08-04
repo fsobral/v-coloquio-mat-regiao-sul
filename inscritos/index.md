@@ -6,7 +6,7 @@ layout: default
 Lista de inscritos
 </h1>
 
-Última atualização: 03/08/22 às 08:25
+Última atualização: 03/08/22 às 22:21
 <br>
 <div class="table-responsive">
 <table class="table table-striped">
@@ -25,8 +25,8 @@ Lista de inscritos
 	<tr><td>Alex Dias Ramos</td><td>UFPE</td></tr>
 	<tr><td>Alexander Vidal Cantoral Vilchez </td><td>UFRJ</td></tr>
 	<tr><td>Alexandre José Santana</td><td>UEM</td></tr>
-	<tr><td>Alexsandro Andre Alves De Freitas</td><td>unioeste</td></tr>
 	<tr><td>Alexsandro Andre Alves De Freitas</td><td>Unioeste</td></tr>
+	<tr><td>Alexsandro Andre Alves De Freitas</td><td>unioeste</td></tr>
 	<tr><td>Aline Edlaine De Medeiros</td><td>UEM</td></tr>
 	<tr><td>Alisson Younio De Souza Franco</td><td>UEM</td></tr>
 	<tr><td>Altair Santos De Oliveira Tosti</td><td>Universidade Estadual do Norte do Paraná (UENP CCP)</td></tr>
@@ -42,6 +42,7 @@ Lista de inscritos
 	<tr><td>Anderson Ervino Schwertner</td><td>Universidade Estadual de Maringá</td></tr>
 	<tr><td>Andrei De Aquino Fonseca Doronin</td><td>UEM</td></tr>
 	<tr><td>Andressa Soares Dos Santos </td><td>Universidade Estadual de Mato Grosso do Sul</td></tr>
+	<tr><td>André Vicente</td><td>Universidade Estadual do Oeste do Paraná</td></tr>
 	<tr><td>Anna Lethycia De Almeida Lira </td><td>UFMS - CPTL</td></tr>
 	<tr><td>Antonio Márcio Ávila Almeida</td><td>Universidade Federal do Oeste do Pará</td></tr>
 	<tr><td>Antonio Wellington Da Silva Santos</td><td>Ifpa Campus Belém </td></tr>
@@ -63,8 +64,8 @@ Lista de inscritos
 	<tr><td>Camila Da Silva Pereira </td><td>UFSC-Blumenau</td></tr>
 	<tr><td>Camila Peres De Souza</td><td>Universidade Federal de Mato Grosso do Sul </td></tr>
 	<tr><td>Camila Soares Da Silva </td><td>UEPB </td></tr>
-	<tr><td>Carina Urtiga Da Silva </td><td>Universidade Estadual da Paraíba UEPB </td></tr>
 	<tr><td>Carina Urtiga Da Silva </td><td>Universidade Estadual da Paraíba (UEPB)</td></tr>
+	<tr><td>Carina Urtiga Da Silva </td><td>Universidade Estadual da Paraíba UEPB </td></tr>
 	<tr><td>Carles Bivià Ausina</td><td>Universitat Politècnica de València</td></tr>
 	<tr><td>Carlos Alexandre Ribeiro Martins</td><td>UTFPR-PB</td></tr>
 	<tr><td>Carlos Eduardo Silva Monteiro </td><td>Universidade Estadual de Maringá </td></tr>
@@ -79,6 +80,7 @@ Lista de inscritos
 	<tr><td>Cecília Serafim Do Nascimento</td><td>Ufms</td></tr>
 	<tr><td>Christian Muñoz Cabello </td><td>Universitat de València</td></tr>
 	<tr><td>Christiane Francisca Souza Alves Nogueira </td><td>UEM</td></tr>
+	<tr><td>Cicero Hildenberg Lima De Oliveira</td><td>UTFPR</td></tr>
 	<tr><td>Clarice Dias De Albuquerque</td><td>Universidade Federal do Cariri - UFCA</td></tr>
 	<tr><td>Clayton Suguio Hida</td><td>FATEC </td></tr>
 	<tr><td>Cleber De Medeira</td><td>UFPR</td></tr>
@@ -105,6 +107,7 @@ Lista de inscritos
 	<tr><td>Douglas De Araujo Smigly</td><td>Universidade de São Paulo</td></tr>
 	<tr><td>Douglas Soares Gonçalves</td><td>UFSC</td></tr>
 	<tr><td>Edilson Soares Miranda</td><td>Universidade Estadual de Maringá </td></tr>
+	<tr><td>Edison Fausto Cuba Huamani </td><td>Unicamp</td></tr>
 	<tr><td>Edison Fausto Cuba Huamani </td><td>Unicamp</td></tr>
 	<tr><td>Ednei Aparecido Santulo Junior</td><td>Universidade Estadual de Maringá</td></tr>
 	<tr><td>Edson Donizete De Carvalho</td><td>UNESP</td></tr>
@@ -134,6 +137,7 @@ Lista de inscritos
 	<tr><td>Ester Heloisa Bento</td><td>UEM</td></tr>
 	<tr><td>Esthefany Maria Rodrigues Da Rosa </td><td>Universidade federal do rio grande do sul</td></tr>
 	<tr><td>Everton De Holanda Oliveira </td><td>Ufac</td></tr>
+	<tr><td>Fabio Marques</td><td>UFSC</td></tr>
 	<tr><td>Fabrício Adriél Rustick</td><td>Unioeste- Cascavel </td></tr>
 	<tr><td>Fabrício Almeida Silva </td><td>UEPB - Universidade Estadual Da Paraíba </td></tr>
 	<tr><td>Fatemah Mofarreh</td><td>Princess Nourah bint Abdulrahman University </td></tr>
@@ -195,9 +199,8 @@ Lista de inscritos
 	<tr><td>Jaqueline Teixeira Dos Santos</td><td>UTFPR-TOLEDO</td></tr>
 	<tr><td>Javier Sánchez Serdà</td><td>Universidade de São Paulo</td></tr>
 	<tr><td>Jean-Paul Brasselet</td><td>CNRS e Universidade de Aix-Marseille</td></tr>
-	<tr><td>Jefferson Braz Ferreira Sousa </td><td>Universidade Estadual da Paraíba (UEPB)</td></tr>
-	<tr><td>Jefferson Braz Ferreira Sousa </td><td>Universidade Estadual da Paraíba (UEPB)</td></tr>
 	<tr><td>Jefferson Braz Ferreira Sousa </td><td>Universidade Estadual da Paraíba </td></tr>
+	<tr><td>Jefferson Braz Ferreira Sousa </td><td>Universidade Estadual da Paraíba (UEPB)</td></tr>
 	<tr><td>Jesús Pascual Avalos Rodríguez</td><td>UNIVERSIDAD NACIONAL DE TRUJILLO</td></tr>
 	<tr><td>Jhone Caldeira</td><td>UFG</td></tr>
 	<tr><td>Jhony Tome Silva</td><td>Universidade Federal de Mato Grosso do Sul</td></tr>
@@ -209,7 +212,6 @@ Lista de inscritos
 	<tr><td>Jorge Luiz De Mello Caurio Junior</td><td>Universidade Federal de Pelotas</td></tr>
 	<tr><td>Jorge Luiz Deolindo Silva</td><td>Universidade Federal de Santa Catarina </td></tr>
 	<tr><td>Josefa Genyle Do Nascimento Santana</td><td>UEPG</td></tr>
-	<tr><td>Josiane Cristina De Oliveira Faria</td><td>UEM</td></tr>
 	<tr><td>Josiane Cristina De Oliveira Faria</td><td>UEM</td></tr>
 	<tr><td>José Edson Sampaio</td><td>Universidade Federal do Ceará</td></tr>
 	<tr><td>José Plínio De Oliveira Santos</td><td>Unicamp</td></tr>
@@ -287,6 +289,7 @@ Lista de inscritos
 	<tr><td>Maria Verônica Bartmeyer</td><td>UEM</td></tr>
 	<tr><td>Mariah Angélica Melo Fogaça De Souza</td><td>UFMS</td></tr>
 	<tr><td>Mariana Maronezzi Brezovsky</td><td>UEM</td></tr>
+	<tr><td>Marilaine De Fraga Sant'Ana</td><td>Universidade Federal do Rio Grande do Sul</td></tr>
 	<tr><td>Marilene De Brito Sousa </td><td>Instituto Federal de Educação, Ciência e Tecnologia do Maranhão </td></tr>
 	<tr><td>Marisa Raquel De Melo Pereira</td><td>UEMS</td></tr>
 	<tr><td>Maristela Oliveira Dos Santos</td><td>INSTITUTO DE CIÊNCIAS MATEMÁTICAS E DE COMPUTAÇÃO/USP</td></tr>
@@ -296,6 +299,7 @@ Lista de inscritos
 	<tr><td>Mateus Alegri</td><td>Universidade Federal de Sergipe (UFS)</td></tr>
 	<tr><td>Matheus Alves De Souza </td><td>Universidade Estadual de Mato Grosso do Sul</td></tr>
 	<tr><td>Matheus Felipe Nunes Moreira </td><td>Universidade Federal do Paraná- UFPR</td></tr>
+	<tr><td>Mauro Fernando Hernández Iglesias</td><td>Universidad Nacional mayor de san Marcos</td></tr>
 	<tr><td>Maurício Fangueiro Pereira </td><td>Universidade Federal do Rio Grande - FURG </td></tr>
 	<tr><td>Miguel Dario Soto Vieira</td><td>Universidade Federal do Rio de Janeiro</td></tr>
 	<tr><td>Mikael Junior Alves Pereira</td><td>Universidade Estadual de Maringá</td></tr>
@@ -323,8 +327,8 @@ Lista de inscritos
 	<tr><td>Patrícia Hernandes Baptistelli</td><td>UEM</td></tr>
 	<tr><td>Patrícia Klaser</td><td>UFSM</td></tr>
 	<tr><td>Paula Caroline Mendes Dos Santos</td><td>UEM</td></tr>
-	<tr><td>Paulo Cesar Carrião</td><td>ufmg- aposentado</td></tr>
 	<tr><td>Paulo Cesar Carrião</td><td>Ufmg aposentado</td></tr>
+	<tr><td>Paulo Cesar Carrião</td><td>ufmg- aposentado</td></tr>
 	<tr><td>Paulo Damião Christo Martins</td><td>Universidade de São Paulo</td></tr>
 	<tr><td>Paulo Dommingos Conejo</td><td>UNIOESTE</td></tr>
 	<tr><td>Paulo Fernando Mercadante Damazio </td><td>Universidade Estadual de Londrina </td></tr>
@@ -343,7 +347,6 @@ Lista de inscritos
 	<tr><td>Raúl Alfredo Sánchez Ancajima</td><td>Universidad Nacional de Tumbes</td></tr>
 	<tr><td>Renan Ribeiro Cavalari</td><td>UEM</td></tr>
 	<tr><td>Renzo Scarpelli Cabral De Bragança </td><td>UFMG</td></tr>
-	<tr><td>Renzo Scarpelli Cabral De Bragança </td><td>UFMG</td></tr>
 	<tr><td>Ricardo Arturo Alayon Mora</td><td>Universidad Distrital Francisco José de Caldas</td></tr>
 	<tr><td>Ricardo De Sá Teles </td><td>UTFPR Londrina </td></tr>
 	<tr><td>Ricardo Moritz Cavalcanti </td><td>Petrobras </td></tr>
@@ -359,7 +362,6 @@ Lista de inscritos
 	<tr><td>Rogério Carvalho Picanço</td><td>UFV</td></tr>
 	<tr><td>Ronaldo Alves Garcia</td><td>UFG</td></tr>
 	<tr><td>Ronaldo Pereira Murakami Filho</td><td>Universidade Estadual de Maringá (UEM)</td></tr>
-	<tr><td>Ronan Antonio Dos Reis </td><td>Unesp </td></tr>
 	<tr><td>Ronan Antonio Dos Reis </td><td>Unesp </td></tr>
 	<tr><td>Rosali Brusamarello</td><td>UEM</td></tr>
 	<tr><td>Ryuichi Fukuoka</td><td>UEM</td></tr>
@@ -377,6 +379,7 @@ Lista de inscritos
 	<tr><td>Stéfani De Santa Ana Torres</td><td>UFMS - INMA</td></tr>
 	<tr><td>Suélen Dorneles Serafim </td><td>UFMS-Campus de Aquidauana/MS</td></tr>
 	<tr><td>Tainara Bernardo Colombo</td><td>Universidade Estadual de Maringá</td></tr>
+	<tr><td>Taismara Dos Santos Pereira </td><td>Universidade Estadual de Mato Grosso do Sul </td></tr>
 	<tr><td>Tamires Da Paixao Alves</td><td>Ufms CPAQ</td></tr>
 	<tr><td>Tatiane Cazarin Da Silva </td><td>UTFPR/CM</td></tr>
 	<tr><td>Thales Araujo De França</td><td>Instituto Nacional de Matematica Pura e Aplicada (IMPA)</td></tr>
@@ -403,7 +406,6 @@ Lista de inscritos
 	<tr><td>Vitor Pereira Matias</td><td>Universidade Estadula de Londrina</td></tr>
 	<tr><td>Vitoria Vendramini Gongora </td><td>Universidade Estadual de Maringá </td></tr>
 	<tr><td>Vitória Passos De Menezes</td><td>UEMS - Nova Andradina</td></tr>
-	<tr><td>Vitória Passos De Menezez</td><td>UEMS - Nova Andradina</td></tr>
 	<tr><td>Viviane Ribeiro Tomaz Da Silva</td><td>Universidade Federal de Minas Gerais</td></tr>
 	<tr><td>Walcy Santos</td><td>UFRJ</td></tr>
 	<tr><td>Waldir Silva Soares Junior</td><td>UTFPR-PB</td></tr>
