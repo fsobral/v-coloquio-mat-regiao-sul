@@ -1,6 +1,11 @@
 ---
 categories:
 - Minicurso
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1BW1DjM8Ns9oux-K2E1CwYnMA0jAYmdu9/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: Progressos recentes em teoria de regularidade elíptica e temas relacionados
   (1/3)
 speakers:

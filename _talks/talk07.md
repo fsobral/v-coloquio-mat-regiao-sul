@@ -2,6 +2,11 @@
 categories:
 - Sessão Temática
 - Otimização
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1jznx2zLizT0BNZOjcfVWEHZ-rwvm7Vld/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: Um modelo de otimização visando a minimização dos custos no acionamento de bombas
   em um sistema de distribuição e captação de água
 speakers:

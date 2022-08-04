@@ -1,6 +1,11 @@
 ---
 categories:
 - Plenária
+links: &id001
+- absolute_url: https://zoom.us/rec/share/6OtG-t8iowytL2CQ1BNPQfLuCKFeOuUeu2jqInM0LHpCZltrs-udT3uPDTJagNpH.PobxnL3F5t-cwvZC?startTime=1659529481000
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: 'Mulheres na Matemática: um projeto para dar visibilidade ao trabalho acadêmico-científico
   de matemáticas'
 speakers:

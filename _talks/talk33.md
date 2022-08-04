@@ -1,6 +1,11 @@
 ---
 categories:
 - Minicurso
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1Z5y3LOckVqpkYUZEjHwWgMyidie4glxA/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: Tópicos de Álgebra Homológica e aspectos computacionais (2/3)
 speakers:
 - Thiago Henrique de Freitas (UTFPR - Guarapuava)
