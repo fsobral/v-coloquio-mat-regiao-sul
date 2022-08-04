@@ -6,7 +6,7 @@ layout: default
 Lista de inscritos
 </h1>
 
-Última atualização: 03/08/22 às 22:21
+Última atualização: 04/08/22 às 09:38
 <br>
 <div class="table-responsive">
 <table class="table table-striped">
@@ -199,8 +199,8 @@ Lista de inscritos
 	<tr><td>Jaqueline Teixeira Dos Santos</td><td>UTFPR-TOLEDO</td></tr>
 	<tr><td>Javier Sánchez Serdà</td><td>Universidade de São Paulo</td></tr>
 	<tr><td>Jean-Paul Brasselet</td><td>CNRS e Universidade de Aix-Marseille</td></tr>
-	<tr><td>Jefferson Braz Ferreira Sousa </td><td>Universidade Estadual da Paraíba </td></tr>
 	<tr><td>Jefferson Braz Ferreira Sousa </td><td>Universidade Estadual da Paraíba (UEPB)</td></tr>
+	<tr><td>Jefferson Braz Ferreira Sousa </td><td>Universidade Estadual da Paraíba </td></tr>
 	<tr><td>Jesús Pascual Avalos Rodríguez</td><td>UNIVERSIDAD NACIONAL DE TRUJILLO</td></tr>
 	<tr><td>Jhone Caldeira</td><td>UFG</td></tr>
 	<tr><td>Jhony Tome Silva</td><td>Universidade Federal de Mato Grosso do Sul</td></tr>
@@ -258,6 +258,7 @@ Lista de inscritos
 	<tr><td>Lucas Silva Guedin </td><td>UEM</td></tr>
 	<tr><td>Luciana De Fatima Martina</td><td>IBILCE - UNESP</td></tr>
 	<tr><td>Lucilena Souza Correa Dias </td><td>UFMS </td></tr>
+	<tr><td>Luis Renato Gonçalves Dias</td><td>UFU</td></tr>
 	<tr><td>Luiz Antonio Barrera San Martin</td><td>Unicamp</td></tr>
 	<tr><td>Luiz Henrique Gusmão Rocatelli</td><td>Universidade Estadual de Maringá</td></tr>
 	<tr><td>Luiz-Rafael Santos</td><td>UFSC</td></tr>
