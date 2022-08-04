@@ -2,6 +2,11 @@
 categories:
 - Sessão Temática
 - EDP-DSD
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1_t0GEAOrIhTez8qo01blxtZ5jh-QD_KG/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: Decaimento de soluções em placas de Kirchhoff e Euler Bernoulli
 speakers:
 - Higidio Oquendo (UFPR)

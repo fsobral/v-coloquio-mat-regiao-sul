@@ -2,6 +2,11 @@
 categories:
 - Sessão Temática
 - EDP-DSD
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1qqKgSt-V8tjNUkJuw6tTT44gnStJgk2J/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: Properties of solutions to the fifth-order KdV-BBM equation
 speakers:
 - Xavier Carvajal (UFRJ)
