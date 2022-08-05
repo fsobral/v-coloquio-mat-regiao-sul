@@ -6,7 +6,7 @@ layout: default
 Lista de inscritos
 </h1>
 
-Última atualização: 04/08/22 às 09:38
+Última atualização: 05/08/22 às 08:33
 <br>
 <div class="table-responsive">
 <table class="table table-striped">
@@ -25,8 +25,8 @@ Lista de inscritos
 	<tr><td>Alex Dias Ramos</td><td>UFPE</td></tr>
 	<tr><td>Alexander Vidal Cantoral Vilchez </td><td>UFRJ</td></tr>
 	<tr><td>Alexandre José Santana</td><td>UEM</td></tr>
-	<tr><td>Alexsandro Andre Alves De Freitas</td><td>Unioeste</td></tr>
 	<tr><td>Alexsandro Andre Alves De Freitas</td><td>unioeste</td></tr>
+	<tr><td>Alexsandro Andre Alves De Freitas</td><td>Unioeste</td></tr>
 	<tr><td>Aline Edlaine De Medeiros</td><td>UEM</td></tr>
 	<tr><td>Alisson Younio De Souza Franco</td><td>UEM</td></tr>
 	<tr><td>Altair Santos De Oliveira Tosti</td><td>Universidade Estadual do Norte do Paraná (UENP CCP)</td></tr>
@@ -74,6 +74,7 @@ Lista de inscritos
 	<tr><td>Carolina Silva Bernarda</td><td>UEMS -Universidade Estadual do Mato Grosso do Sul </td></tr>
 	<tr><td>Caroline De Oliveira Corrêa </td><td>UFMS/ CPAQ</td></tr>
 	<tr><td>Caroline Maffi</td><td>Marista</td></tr>
+	<tr><td>Caroline Maria Assmann</td><td>UFRGS</td></tr>
 	<tr><td>Carolini Carvalho Nascimento</td><td>UFMS - CPTL</td></tr>
 	<tr><td>Cauã Rodrigo Maram Souza</td><td>UEM</td></tr>
 	<tr><td>Cecilia De Souza Fernandez.</td><td>Universidade Federal Fluminense.</td></tr>
@@ -95,6 +96,7 @@ Lista de inscritos
 	<tr><td>Daniel Alfonso Santiesteban</td><td>Universidad Autónoma de Guerrero</td></tr>
 	<tr><td>Daniel Galdino Simão</td><td>Universidade Estadual de Londrina</td></tr>
 	<tr><td>Daniela Barbieri Vidotti</td><td>UNESPAR - Campus de Paranavaí</td></tr>
+	<tr><td>Daniele Maiara Coradini De Oliveira</td><td>UFMS</td></tr>
 	<tr><td>Danielle Gago Duro</td><td>FURG</td></tr>
 	<tr><td>Danielli De Souza Moraes Fernandes</td><td>Ufms CpAq</td></tr>
 	<tr><td>Daniely Andrade Fonseca</td><td>Universidade Estadual de Maringá - UEM</td></tr>
@@ -103,6 +105,7 @@ Lista de inscritos
 	<tr><td>Davi Marchetti Giacomel</td><td>Universidade Estadual do Oeste do Paraná</td></tr>
 	<tr><td>Dayana Cristina Costa</td><td>UFSC</td></tr>
 	<tr><td>Diego Lizana Miranda </td><td>Universidade Católica do Norte, Chile</td></tr>
+	<tr><td>Dion Ross Pasievitch Boni Alves</td><td>Universidade Estadual do Paraná</td></tr>
 	<tr><td>Donato Lócio Neto</td><td>UEPB, Campus VII</td></tr>
 	<tr><td>Douglas De Araujo Smigly</td><td>Universidade de São Paulo</td></tr>
 	<tr><td>Douglas Soares Gonçalves</td><td>UFSC</td></tr>
@@ -120,6 +123,7 @@ Lista de inscritos
 	<tr><td>Eduardo Henrique Queiroz Macena</td><td>Universidade Federal de Mato Grosso do Sul</td></tr>
 	<tr><td>Eduardo Michel Vieira Gomes</td><td>UTFPR</td></tr>
 	<tr><td>Eduardo Rickson Emídio Inocencio </td><td>UEPB</td></tr>
+	<tr><td>Elizabeth Wegner Karas</td><td>UFPR</td></tr>
 	<tr><td>Eloise Gutierrez Viotto</td><td>Universidade Estadual de Maringá </td></tr>
 	<tr><td>Eloise Gutierrez Viotto </td><td>Universidade Estadual de Maringá</td></tr>
 	<tr><td>Emanoely Longen Carneiro</td><td>UTFPR- TOLEDO </td></tr>
@@ -242,6 +246,7 @@ Lista de inscritos
 	<tr><td>Leide Katia Amorim De Almeida </td><td>Universidade Federal do Mato Grosso do Sul </td></tr>
 	<tr><td>Leonardo Silva De Oliveira </td><td>UFMG </td></tr>
 	<tr><td>Leticia Fagundes Triguero</td><td>Universidade Estadual de Maringá</td></tr>
+	<tr><td>Liandra Aparecida Porto </td><td>UEMS</td></tr>
 	<tr><td>Lilian Charleaux Mendes </td><td>UFPR JANDAIA DO SUL </td></tr>
 	<tr><td>Liliane De Almeida Maia</td><td>Universidade de Brasília</td></tr>
 	<tr><td>Lindolfo Paul Mallqui Espinoza </td><td>Universidade Federal do Rio de Janeiro</td></tr>
