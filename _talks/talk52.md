@@ -1,6 +1,11 @@
 ---
 categories:
 - Minicurso
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1cOD4X_USuHYMCoNLn68VE0MhG_EFv11B/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: Introdução à Geometria de Distâncias (2/3)
 speakers:
 - Douglas Soares Gonçalves (UFSC)

@@ -2,6 +2,11 @@
 categories:
 - Sessão Temática
 - Otimização
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1dBA-oK2pav8C82fZGPg5m_gVm_-jR5yu/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: Condições de otimalidade sucesivas para problemas de otimização com um conjunto
   abstrato adicional
 speakers:

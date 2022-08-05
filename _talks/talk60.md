@@ -2,6 +2,11 @@
 categories:
 - Sessão Temática
 - Teoria de Singularidades
+links: &id001
+- absolute_url: https://drive.google.com/file/d/12REck6jKX--kMI5XgDsO16oc_6lF-qmn/view
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: Invariantes associados a germes de aplicações
 speakers:
 - Michele Ferreira Zancheta Morgado (UNESP-SJRP)
