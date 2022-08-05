@@ -1,6 +1,11 @@
 ---
 categories:
 - Plenária
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1xo_6AbzZe2bXBb5V_6mDcCThZdHPNXCL/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: Removability of isolated singularities on surfaces with bounded mean curvature
 speakers:
 - Edson Sampaio (UFC)

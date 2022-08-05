@@ -1,6 +1,11 @@
 ---
 categories:
 - Plenária
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1Si2u4S9S0SD8dSuv6s_Ae_ibT-r6M-xF/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: Métodos topológicos em problemas variacionais geométricos
 speakers:
 - Paolo Piccione (USP)
