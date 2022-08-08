@@ -2,6 +2,11 @@
 categories:
 - Sessão Temática
 - Álgebra
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1KC5CAKZ3vAoEKSM8VyqX9dU_D-O2_rIl/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: O invariante de Hasse-Witt para curvas do tipo Fermat
 speakers:
 - Herivelto Martins Borges Filho (ICMC-USP)

@@ -1,6 +1,11 @@
 ---
 categories:
 - Plenária
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1jfcVY97_sewHgWlQW4mM-83qhTLKtDMc/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: Min-Max Algorithm via Pohozaev Manifold
 speakers:
 - Liliane de Almeida Maia (UnB)

@@ -1,6 +1,11 @@
 ---
 categories:
 - Minicurso
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1__iyVH3DO3DaLSd8wZ60OtQ_L-3urCEp/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: Uma introdução ao Cálculo Fracionário (3/3)
 speakers:
 - Alessio Fiscella (University of Milan-Bicocca)

@@ -2,6 +2,11 @@
 categories:
 - Sessão Temática
 - Educação Matemática/Ensino
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1cXeMhWZfip7dxKWkl30sgN7DAs76GWdY/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: 'Novos Desafios sobre Aprender e Ensinar Matemática: a Pós-Graduação e a formação
   de professores que atuam no ensino de Matemática'
 speakers:

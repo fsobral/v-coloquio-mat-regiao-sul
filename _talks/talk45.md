@@ -2,6 +2,11 @@
 categories:
 - Sessão Temática
 - Educação Matemática/Ensino
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1cXeMhWZfip7dxKWkl30sgN7DAs76GWdY/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: O movimento de constituição da Identidade Profissional de professores que ensinam
   matemática e o enfrentamento de desafios sobre aprender e ensinar matemática
 speakers:

@@ -2,6 +2,11 @@
 categories:
 - Sessão Temática
 - Teoria de Singularidades
+links: &id001
+- absolute_url: https://drive.google.com/file/d/180-QlFPf4A2QeuTD1yenxwLyh2o7_3r8/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: On Deformations of Isolated Singularity Functions
 speakers:
 - Miriam da Silva Pereira (UFPb)
