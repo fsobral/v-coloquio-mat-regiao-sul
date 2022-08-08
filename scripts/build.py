@@ -42,14 +42,8 @@ for i, row in schedule.iterrows():
         # appears twice, keep the last information
         rooms[currRoom] = {
             "name": currRoom,
-            "hide": False,
-            "links": [
-                {"name": "Assistir gravação", "absolute_url": row["Link"],
-                 "icon":"play"}
-            ]
+            "hide": False
         }
-        if pd.isna(row["Link"]):
-            del rooms[currRoom]["links"]
 
         # If is changing the day and is not the first row, then flush
         # all the information about the rooms to the current day
@@ -76,14 +70,8 @@ for i, row in schedule.iterrows():
         # appears twice, keep the last information
         rooms[currRoom] = {
             "name": currRoom,
-            "hide": False,
-            "links": [
-                {"name": "Assistir gravação", "absolute_url": row["Link"],
-                 "icon":"play"}
-            ]
+            "hide": False
         }
-        if pd.isna(row["Link"]):
-            del rooms[currRoom]["links"]
         
     if currRoom not in rooms_for_a_day:
 
@@ -100,10 +88,15 @@ for i, row in schedule.iterrows():
         },
         "abstract": str(row["Resumo"]).replace("\\n", "\n")
     }
-    if "links" in rooms[currRoom]:
+    # Add links to recordings
+    if not pd.isna(row["Link"]):
+        link = [
+            {"name": "Assistir gravação", "absolute_url": row["Link"],
+             "icon":"play"}
+        ]
         talk["meta"].update({
-            "links": rooms[currRoom]["links"],
-            "live":  rooms[currRoom]["links"]
+            "links": link,
+            "live":  link
             })
 
     talks.append(talk)
