@@ -3,7 +3,7 @@ categories:
 - Sessão Temática
 - Educação Matemática/Ensino
 links: &id001
-- absolute_url: https://drive.google.com/file/d/1cXeMhWZfip7dxKWkl30sgN7DAs76GWdY/view?usp=sharing
+- absolute_url: https://drive.google.com/file/d/1Sp4f48BGhIf1uIT7nb1PCTU027DW1gOX/view?usp=sharing
   icon: play
   name: Assistir gravação
 live: *id001

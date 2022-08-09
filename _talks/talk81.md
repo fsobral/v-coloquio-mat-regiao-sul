@@ -3,7 +3,7 @@ categories:
 - Sessão Temática
 - Álgebra
 links: &id001
-- absolute_url: https://drive.google.com/file/d/1hL0nxQmm0smP9_kjKj5T0Nazcmo9Jsk6/view?usp=sharing
+- absolute_url: https://drive.google.com/file/d/1bVeNU60G6WDN5igB3yvssSgrDcFU3ZKG/view?usp=sharing
   icon: play
   name: Assistir gravação
 live: *id001

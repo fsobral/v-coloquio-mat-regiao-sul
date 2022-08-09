@@ -2,7 +2,7 @@
 categories:
 - Mesa Redonda
 links: &id001
-- absolute_url: https://drive.google.com/file/d/1xo_6AbzZe2bXBb5V_6mDcCThZdHPNXCL/view?usp=sharing
+- absolute_url: https://drive.google.com/file/d/1mBIQXXvRhUtbsFxBc1mgr3sq7AF91Q5H/view?usp=sharing
   icon: play
   name: Assistir gravação
 live: *id001

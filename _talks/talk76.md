@@ -2,6 +2,11 @@
 categories:
 - Sessão Temática
 - Códigos
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1BHQ_hcm95HjfQQk55-JcfEA2WluTzzn_/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: Códigos coloridos hiperbólicos, com ou sem fronteiras.
 speakers:
 - Waldir Silva Soares Junior (UTFPR-PB)

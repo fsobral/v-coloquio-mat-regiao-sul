@@ -2,6 +2,11 @@
 categories:
 - Sessão Temática
 - Códigos
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1EXc2A7YagcdI8oYY0OeX2PnFohBhus-B/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: Construção de Cód. Clássicos e Quânticos Quase-Cíclicos via Plano Euclidiano
   Finito
 speakers:

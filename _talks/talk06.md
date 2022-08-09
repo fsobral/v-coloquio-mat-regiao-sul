@@ -3,7 +3,7 @@ categories:
 - Sessão Temática
 - EDP-DSD
 links: &id001
-- absolute_url: https://drive.google.com/file/d/1qqKgSt-V8tjNUkJuw6tTT44gnStJgk2J/view?usp=sharing
+- absolute_url: https://drive.google.com/file/d/1qqKgSt-V8tjNUkJuw6tTT44gnStJgk2J/view?usp=sharingg
   icon: play
   name: Assistir gravação
 live: *id001

@@ -2,7 +2,7 @@
 categories:
 - Plenária
 links: &id001
-- absolute_url: https://drive.google.com/file/d/1jfcVY97_sewHgWlQW4mM-83qhTLKtDMc/view?usp=sharing
+- absolute_url: https://drive.google.com/file/d/1CuS1WLPOGzGdZHOuu-PaKcspqXfz39Hp/view?usp=sharingg
   icon: play
   name: Assistir gravação
 live: *id001
