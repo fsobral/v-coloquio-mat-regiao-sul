@@ -174,22 +174,22 @@ def participacao(fulllist,attendlist,mctitle,chtot=4.5,percent=0.75):
     #       )]) )
 
 
-participacao("inscritos.tsv", ["mc1-2.csv", "mc1-3.csv"],
-             "Sistemas dinâmicos: uma primeira visão",
-             chtot=3.0, percent=(0.60 * 4.5 - 1.5) / 3.0)
+# participacao("inscritos.tsv", ["mc1-2.csv", "mc1-3.csv"],
+#              "Sistemas dinâmicos: uma primeira visão",
+#              chtot=3.0, percent=(0.60 * 4.5 - 1.5) / 3.0)
 
-participacao("inscritos.tsv", ["mc3-2.csv", "mc3-3.csv"],
-             "Uma introdução ao Cálculo Fracionário",
-             chtot=3.0, percent=(0.60 * 4.5 - 1.5) / 3.0)
+# participacao("inscritos.tsv", ["mc3-2.csv", "mc3-3.csv"],
+#              "Uma introdução ao Cálculo Fracionário",
+#              chtot=3.0, percent=(0.60 * 4.5 - 1.5) / 3.0)
 
 # participacao("inscritos.tsv", ["mc4-2.csv", "mc4-3.csv"],
 #              "Introdução à Geometria de Distâncias",
 #              chtot=3.0, percent=(0.60 * 4.5 - 1.5) / 3.0)
 
-participacao("inscritos.tsv", ["mc5-2.csv", "mc5-3.csv"],
-             "Progressos recentes em teoria de regularidade elíptica e temas relacionados",
-             chtot=3.0, percent=(0.60 * 4.5 - 1.5) / 3.0)
+# participacao("inscritos.tsv", ["mc5-2.csv", "mc5-3.csv"],
+#              "Progressos recentes em teoria de regularidade elíptica e temas relacionados",
+#              chtot=3.0, percent=(0.60 * 4.5 - 1.5) / 3.0)
 
-participacao("inscritos.tsv", ["mc6-2.csv", "mc6-3.csv"],
-             "Tópicos de Álgebra Homológica e aspectos computacionais",
-             chtot=3.0, percent=(0.60 * 4.5 - 1.5) / 3.0)
+# participacao("inscritos.tsv", ["mc6-2.csv", "mc6-3.csv"],
+#              "Tópicos de Álgebra Homológica e aspectos computacionais",
+#              chtot=3.0, percent=(0.60 * 4.5 - 1.5) / 3.0)
