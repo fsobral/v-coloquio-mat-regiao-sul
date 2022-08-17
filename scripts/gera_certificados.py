@@ -1,165 +1,171 @@
 import pandas as pd
 import re
 
-schedule = pd.read_csv("schedule.tsv", dtype=str, delimiter="\t")
+from unidecode import unidecode
+from datetime import datetime, timedelta
 
-tipos = {
-    "Plenária": "palestra",
-    "Minicurso": "mini",
-    "Sessão Temática": "palestra",
-    "Mesa Redonda": "atividade",
-    "Atividade Cultural": "atividade"
-    }
+def palestras():
 
-rnome = re.compile("[^(]+")
+    schedule = pd.read_csv("schedule.tsv", dtype=str, delimiter="\t")
 
-for i, row in schedule.iterrows():
+    tipos = {
+        "Plenária": "palestra",
+        "Minicurso": "mini",
+        "Sessão Temática": "palestra",
+        "Mesa Redonda": "atividade",
+        "Atividade Cultural": "atividade"
+        }
 
-    for spkr in row["Palestrantes"].split(";"):
+    rnome = re.compile("[^(]+")
 
-        tipo = tipos[row["Tipo"].split(";")[0]]
+    for i, row in schedule.iterrows():
 
-        ativ = ""
-        if tipo == "atividade":
-            ativ = row["Tipo"].split(";")[0]
-        
-        ch = ""
-        if tipo == "mini":
-            ch = "4,5"
-        
-        name = (rnome.match(spkr)[0]).strip()
+        for spkr in row["Palestrantes"].split(";"):
+
+            tipo = tipos[row["Tipo"].split(";")[0]]
+
+            ativ = ""
+            if tipo == "atividade":
+                ativ = row["Tipo"].split(";")[0]
+
+            ch = ""
+            if tipo == "mini":
+                ch = "4,5"
+
+            name = (rnome.match(spkr)[0]).strip()
+
+            s = "\\para{{{0:s}}}{{{1:s}}}{{{2:s}}}{{{3:s}}}{{{4:s}}}\n".format(
+                name, row["Titulo"].strip(), tipo, ch, ativ
+            )
+
+            print(s)
+
+
+def posteres():
+    
+    poster = pd.read_csv("posteres.tsv", dtype=str, delimiter="\t")
+
+    for i, row in poster.iterrows():
+
+        name = row["Nome completo:"].strip()
+
+        title = row["Título do trabalho aprovado:"].strip()
         
         s = "\\para{{{0:s}}}{{{1:s}}}{{{2:s}}}{{{3:s}}}{{{4:s}}}\n".format(
-            name, row["Titulo"].strip(), tipo, ch, ativ
+            name, title, "poster", "", ""
         )
 
         print(s)
-        
-#     if (i == 0) or (not pd.isna(row["Dia"])):
 
-#         currDay  = row["Dia"]
-#         currRoom = row["Local"].strip()
 
-#         # Add the room to the list of rooms. In case the same room
-#         # appears twice, keep the last information
-#         rooms[currRoom] = {
-#             "name": currRoom,
-#             "hide": False
-#         }
+def participacao(fulllist,attendlist,mctitle,chtot=4.5):
 
-#         # If is changing the day and is not the first row, then flush
-#         # all the information about the rooms to the current day
-#         if i > 0:
+    inscritos = pd.read_csv(fulllist, delimiter="\t")[['Nome completo', 'Endereço de e-mail']]
 
-#             day["rooms"] = list(rooms_for_a_day.values())
+    inscritos['Endereço de e-mail'] = inscritos['Endereço de e-mail'].transform(str.casefold)
 
-#             days.append(day)
+    inames = inscritos['Nome completo'].transform(str.strip).transform(str.casefold).transform(unidecode)
 
-#         # Create a new day
-#         day = {"name": str.capitalize(row["Dia semana"]),
-#                "abbr": abbr[row["Dia semana"]],
-#                "date": row["Dia"],
-#                "rooms": []}
+    attendees = {}
 
-#         rooms_for_a_day = {}
+    minpart = timedelta(hours=(chtot * 0.75))
 
-#     # Update information about the rooms
-#     if (not pd.isna(row["Local"])) and (row["Local"] != currRoom):
-
-#         currRoom = row["Local"].strip()
-
-#         # Add the room to the list of rooms. In case the same room
-#         # appears twice, keep the last information
-#         rooms[currRoom] = {
-#             "name": currRoom,
-#             "hide": False
-#         }
-        
-#     if currRoom not in rooms_for_a_day:
-
-#         rooms_for_a_day[currRoom] = {"name": currRoom,
-#                                      "talks": []}
-
-#     # Talks
-#     talk = {
-#         "meta" :
-#         {
-#             "name": row["Titulo"],
-#             "categories": list(map(str.strip, row["Tipo"].split(';'))),
-#             "speakers": list(map(str.strip, row["Palestrantes"].split(';')))
-#         },
-#         "abstract": str(row["Resumo"]).replace("\\n", "\n")
-#     }
-#     # Add links to recordings
-#     if not pd.isna(row["Link"]):
-#         link = [
-#             {"name": "Assistir gravação", "absolute_url": row["Link"],
-#              "icon":"play"}
-#         ]
-#         talk["meta"].update({
-#             "links": link,
-#             "live":  link
-#             })
-
-#     talks.append(talk)
-
-#     # Speaker
-
-#     for name in talk["meta"]["speakers"]:
+    r = re.compile("[^.]+$")
+    rr = re.compile("^[^*@]+")
     
-#         speakers[name] = {
-#             "name": name,
-#             "first_name": "",
-#             "last_name" : name
-#         }
-
-#     # Create a talk in that room
-#     rooms_for_a_day[currRoom]["talks"].append(
-#         {"name": talk["meta"]["name"],
-#          "time_start": row["Inicio"],
-#          "time_end":   row["Fim"]}
-#         )
-
-# day["rooms"] = list(rooms_for_a_day.values())
-
-# days.append(day)
-
-# # Save program
-# with open("../_data/program.yml", "w") as fp:
-
-#     fp.write(yaml.dump({"days": days}, allow_unicode=True))
-
-# # Generate rooms files
-# # ####################
-
-# for i, r in enumerate(rooms.values()):
-
-#     with open("../_rooms/room{0:02d}.md".format(i), "w") as fp:
-
-#         fp.write("---\n")
-#         fp.write(yaml.dump(r, allow_unicode=True))
-#         fp.write("---\n")
-
-
-# # Generate talks files
-# # ####################
-
-# for i, t in enumerate(talks):
-
-#     with open("../_talks/talk{0:02d}.md".format(i), "w") as fp:
+    for l in attendlist:
     
-#         fp.write("---\n")
-#         fp.write(yaml.dump(t["meta"], allow_unicode=True))
-#         fp.write("---\n\n")
-#         fp.write(t["abstract"])
+        atten = pd.read_csv(l, na_filter=False)
 
-# # Generate speakers files
-# # #######################
+        for i, row in atten.iterrows():
 
-# for i, s in enumerate(speakers.values()):
+            name = unidecode(row["Nome"].strip().casefold())
+            surname = unidecode(row["Sobrenome"].strip().casefold())
+            fullname = name + " " + surname
 
-#     with open("../_speakers/speaker{0:02d}.md".format(i), "w") as fp:
+            email1 = ""
+            email2 = ""
 
-#         fp.write("---\n")
-#         fp.write(yaml.dump(s, allow_unicode=True))
-#         fp.write("\n---\n\n")
+            if row["Enviar e-mail"] != "":
+                email1 = rr.findall(row["Enviar e-mail"])[0].casefold()
+                email2 = r.findall(row["Enviar e-mail"])[0].casefold()
+
+            dtin = datetime.fromisoformat("2022-08-01 " + row["Horário de entrada"])
+            dtou = datetime.fromisoformat("2022-08-01 " + row["Horário de saída"])
+
+            part = dtou - dtin
+
+            s = (inames == fullname)
+
+            if sum(s) == 1:
+
+                nid = inscritos[s].iloc[0]["Nome completo"]
+
+            else:
+
+                s = inames.apply(lambda x: x.startswith(name) and x.endswith(surname))
+
+                if sum(s) == 1:
+
+                    nid = inscritos[s].iloc[0]["Nome completo"]
+
+                else:
+
+                    s = inscritos["Endereço de e-mail"].apply(
+                        lambda x: x.startswith(email1) and x.endswith(email2)
+                    )
+
+                    if sum(s) == 0:
+
+                        print("{0:s} nao encontrado".format(fullname))
+
+                        continue
+
+                    elif sum(s) > 1:
+
+                        ss = inames.apply(lambda x: (x.find(name) >= 0) and (x.find(surname) >= 0))
+
+                        if sum(ss) == 1:
+
+                            nid = inscritos[s & ss].iloc[0]["Nome completo"]
+
+                        else:
+                            
+                            print("{0:s} com 2 ocorrencias!".format(fullname))
+
+                            continue
+
+                    else:
+
+                        nid = inscritos[s].iloc[0]["Nome completo"]
+
+            nid = nid.title()
+
+            if nid not in attendees:
+
+                attendees[nid] = part
+
+            else:
+
+                attendees[nid] += part
+
+    for i in attendees.keys():
+
+        if attendees[i] >= minpart:
+
+            #print("{0:100s}: {1:3d}".format(i, int(100 * attendees[i].total_seconds() / (chtot * 3600))))
+
+            cert = "\\para{{{0:s}}}{{{1:s}}}{{{2:s}}}{{{3:s}}}{{{4:s}}}\n".format(
+                i, mctitle, "minipart", str(chtot), ""
+            )
+
+            print(cert)
+
+        # print(nid, int(part >= minpart), sum(inames == fullname),
+        #       sum(inames.apply(lambda x: x.startswith(name) and x.endswith(surname))),
+        #       len(inscritos[inscritos["Endereço de e-mail"].apply(
+        #           lambda x: x.startswith(email1) and x.endswith(email2)
+        #       )]) )
+
+
+participacao("inscritos.tsv", ["mc1-2.csv", "mc1-3.csv"], "Título minicurso", chtot=3.0)
