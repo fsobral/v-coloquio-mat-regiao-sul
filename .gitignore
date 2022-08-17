@@ -9,3 +9,6 @@ __pycache__/
 modelo-minicurso.pdf
 *.aux
 *.log
+
+scripts/mc*.csv
+scripts/inscritos.tsv
