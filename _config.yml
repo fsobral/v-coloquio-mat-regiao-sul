@@ -112,6 +112,8 @@ conference:
             absolute_url: "https://forms.gle/taBwoQxrj1wHFEzs7"
           - name: Lista de inscritos
             relative_url: /inscritos/
+          - name: Certificados
+            relative_url: /certificados/
       - name: F.A.Q 
         relative_url: /faq/
       - name: Associe-se à SBM
@@ -143,17 +145,17 @@ conference:
 
   # Information boxes
   info_bars:
-     - title: Inscrições abertas!
-       color: primary
+     - title: Certificados em breve!
+       color: warning
        main_only: true
        text: |
-         Clique [aqui](https://forms.gle/taBwoQxrj1wHFEzs7) para realizar sua inscrição!!
+     #    Clique [aqui](https://forms.gle/taBwoQxrj1wHFEzs7) para realizar sua inscrição!!
 
-     - title: Lista de inscritos
-       color: primary
-       main_only: true
-       text: |
-         Acesse [aqui](inscritos/) a lista de inscritos no evento.
+     # - title: Lista de inscritos
+     #   color: primary
+     #   main_only: true
+     #   text: |
+     #     Acesse [aqui](inscritos/) a lista de inscritos no evento.
 
      # - title: Cancelamento de Minicurso
      #   color: primary
