@@ -2,7 +2,7 @@
 categories:
 - Sessão Temática
 - Lie
-name: Plano osculador na Grasmanniana Gr₂(3,R)
+name: Plano osculador na Grasmanniana $Gr_2(3,R)$
 speakers:
 - Josiney A. Souza (UEM)
 ---

@@ -2,6 +2,11 @@
 categories:
 - Sessão Temática
 - Números
+links: &id001
+- absolute_url: https://drive.google.com/file/d/1u2_G8V375Jh_4KDuzzS-MQipA3nIztc1/view?usp=sharing
+  icon: play
+  name: Assistir gravação
+live: *id001
 name: Propriedades aritméticas da enumeração de partições 3-regulares em três cores
 speakers:
 - Robson Oliveira da Silva (UNIFESP)
