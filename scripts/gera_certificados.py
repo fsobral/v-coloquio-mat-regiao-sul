@@ -4,6 +4,100 @@ import re
 from unidecode import unidecode
 from datetime import datetime, timedelta
 
+
+def fullpart(fulllist,zoomlist,chtot,minpart=0.6):
+
+    inames = pd.read_csv(fulllist, delimiter="\t")['Nome completo'].transform(
+        str.strip).transform(str.casefold).transform(unidecode)
+
+    attendees = {}
+
+    for j, lst in enumerate(zoomlist):
+
+        attendtalk = {}
+
+        zoom = pd.read_csv(lst, dtype=str)
+
+        for i, row in zoom.iterrows():
+
+            nome = unidecode(row["User Name (Original Name)"].casefold())
+            part = int(row["Time in Session (minutes)"])
+            
+            s = (inames == nome)
+
+            if sum(s) == 1:
+
+                nid = inames[s].iloc[0]
+
+            elif sum(s) > 1:
+
+                print("{0:s}: muitas ocorrencias".format(nome))
+
+                continue
+
+            else:
+
+                name, p, surname = nome.partition(' ')
+
+                s = inames.apply(lambda x: x.find(name) != -1 and x.find(surname) != -1)
+
+                if sum(s) == 1:
+
+                    nid = inames[s].iloc[0]
+
+                elif sum(s) > 1:
+
+                    print("{0:s}: muitas ocorrencias".format(nome))
+
+                    continue
+
+                else:
+                
+                    print("{0:s}: nao encontrado.".format(nome))
+
+                    continue
+                
+
+            nid = nid.title()
+
+            if nid not in attendtalk:
+
+                attendtalk[nid] = part
+
+            else:
+
+                attendtalk[nid] += part
+
+        for i in attendtalk.keys():
+
+            part = int(100 * attendtalk[i] / chtot[j])
+            
+            # print("{0:50s}: {1:3d}".format(i, part))
+
+            if part >= minpart:
+
+                if i in attendees:
+                    
+                    attendees[i] += 1
+
+                else:
+
+                    attendees[i] = 1
+
+    for i in attendees.keys():
+
+        if attendees[i] >= 2:
+
+            #print("{0:50s}: {1:3d}".format(i, attendees[i]))
+
+            cert = "\\para{{{0:s}}}{{{1:s}}}{{{2:s}}}{{{3:s}}}{{{4:s}}}\n".format(
+                i, "", "part", "", ""
+            )
+
+            print(cert)
+
+fullpart("inscritos.tsv", ["p3.csv", "p4.csv", "p5.csv", "p7.csv", "mr1.csv", "mr2.csv", "mr3.csv"], [70, 70, 70, 70, 90, 90, 90])
+                
 def palestras():
 
     schedule = pd.read_csv("schedule.tsv", dtype=str, delimiter="\t")
