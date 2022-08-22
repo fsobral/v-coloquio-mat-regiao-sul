@@ -7,9 +7,11 @@ from datetime import datetime, timedelta
 
 def fullpart(fulllist,zoomlist,chtot,minpart=0.6):
 
-    inames = pd.read_csv(fulllist, delimiter="\t")['Nome completo'].transform(
-        str.strip).transform(str.casefold).transform(unidecode)
+    dfnames = pd.read_csv(fulllist, delimiter="\t")['Nome completo'].transform(
+        str.strip)
 
+    inames = dfnames.transform(str.casefold).transform(unidecode)
+    
     attendees = {}
 
     for j, lst in enumerate(zoomlist):
@@ -27,7 +29,7 @@ def fullpart(fulllist,zoomlist,chtot,minpart=0.6):
 
             if sum(s) == 1:
 
-                nid = inames[s].iloc[0]
+                nid = dfnames[s].iloc[0]
 
             elif sum(s) > 1:
 
@@ -43,7 +45,7 @@ def fullpart(fulllist,zoomlist,chtot,minpart=0.6):
 
                 if sum(s) == 1:
 
-                    nid = inames[s].iloc[0]
+                    nid = dfnames[s].iloc[0]
 
                 elif sum(s) > 1:
 
@@ -96,7 +98,10 @@ def fullpart(fulllist,zoomlist,chtot,minpart=0.6):
 
             print(cert)
 
-fullpart("inscritos.tsv", ["p3.csv", "p4.csv", "p5.csv", "p7.csv", "mr1.csv", "mr2.csv", "mr3.csv"], [70, 70, 70, 70, 90, 90, 90])
+fullpart("inscritos.tsv",
+         ["p3.csv", "p4.csv", "p5.csv", "p7.csv",
+          "mr1.csv", "mr2.csv", "mr3.csv"],
+         [70, 70, 70, 70, 100, 100, 100])
                 
 def palestras():
 
