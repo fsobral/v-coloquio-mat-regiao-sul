@@ -11,4 +11,6 @@ modelo-minicurso.pdf
 *.log
 
 scripts/mc*.csv
+scripts/p*.csv
+scripts/mr*.csv
 scripts/inscritos.tsv
