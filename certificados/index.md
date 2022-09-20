@@ -6,6 +6,7 @@ layout: default
 Certificados
 </h1>
 
+- [Comitê organizador](../assets/certificados/comites.pdf)
 - [Plenaristas, apresentadores em sessão temática, mesas redondas, Matemativa e homenagens](../assets/certificados/palestrantes.pdf)
 - [Pôsteres](../assets/certificados/posteres.pdf)
 - [Participação em minicursos](../assets/certificados/participacao-minicursos.pdf)
