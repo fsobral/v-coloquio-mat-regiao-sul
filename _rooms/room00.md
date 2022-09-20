@@ -1,4 +1,3 @@
 ---
-hide: false
-name: Zoom
+{hide: false, name: Zoom}
 ---

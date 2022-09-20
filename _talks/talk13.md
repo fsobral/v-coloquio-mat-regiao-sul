@@ -1,14 +1,11 @@
 ---
-categories:
-- Plenária
+categories: [Plenária]
 links: &id001
-- absolute_url: https://drive.google.com/file/d/1Si2u4S9S0SD8dSuv6s_Ae_ibT-r6M-xF/view?usp=sharing
-  icon: play
-  name: Assistir gravação
+- {absolute_url: 'https://drive.google.com/file/d/1Si2u4S9S0SD8dSuv6s_Ae_ibT-r6M-xF/view?usp=sharing',
+  icon: play, name: Assistir gravação}
 live: *id001
 name: Uma média (podada) que é melhor que a média (aritmética)
-speakers:
-- Roberto Imbuzeiro Oliveira (IMPA)
+speakers: [Roberto Imbuzeiro Oliveira (IMPA)]
 ---
 
 Imagine que você mede várias vezes o quanto uma bola anda ao ser largada em uma rampa. Os vários resultados provavelmente serão diferentes, mas é esperado que a média aritmética das distâncias percorridas esteja próxima do valor previsto pela Física. Isto é um fenômeno bastante geral; por isso, a ideia de tomar médias é fundamental na Probabilidade e na análise de dados e experimentos.

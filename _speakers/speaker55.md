@@ -1,7 +1,5 @@
 ---
-first_name: ''
-last_name: Rodrigo Bissacot (USP)
-name: Rodrigo Bissacot (USP)
+{first_name: '', last_name: Rodrigo Bissacot (USP), name: Rodrigo Bissacot (USP)}
 
 ---
 

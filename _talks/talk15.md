@@ -1,15 +1,12 @@
 ---
-categories:
-- Minicurso
+categories: [Minicurso]
 links: &id001
-- absolute_url: https://drive.google.com/file/d/1BW1DjM8Ns9oux-K2E1CwYnMA0jAYmdu9/view?usp=sharing
-  icon: play
-  name: Assistir gravação
+- {absolute_url: 'https://drive.google.com/file/d/1BW1DjM8Ns9oux-K2E1CwYnMA0jAYmdu9/view?usp=sharing',
+  icon: play, name: Assistir gravação}
 live: *id001
 name: Progressos recentes em teoria de regularidade elíptica e temas relacionados
   (1/3)
-speakers:
-- João Vitor da Silva (UNICAMP)
+speakers: [João Vitor da Silva (UNICAMP)]
 ---
 
 Neste Minicurso apresentaremos alguns avanços mais recentes no que diz respeito ao estudo de resultados de regularidade para soluções de Equações Diferenciais Parciais elípticas (por simplicidade EDPs). Tais EDPs aparecem em diversos contextos de matemática aplicada, tais como em processos de catálise química, modelos de propagação de chamas, teoria de elasticidade e no estudo de fluidos não-Newtonianos, somente para citar alguns exemplos. Nos cenários em que analisaremos, vamos desenvolver algumas ferramen- tas que nos permitem estudar o comportamento local de soluções, inferindo assim propriedades refinadas das mesmas e de suas interfaces. Algumas aplicações de tais resultados são apresentadas em diversos contextos. O Minicurso é destinado a um público geral com formação em matemática (graduação), pessoas interessadas de áreas afins que tenham um conhecimento básico de EDPs e de suas teorias relacionadas ou amantes curiosos do conhecimento científico matemático moderno. Contamos com sua presença para aprendermos/entendermos um pouco como a matemática está presente nos avanços modernos das ciências exatas no Brasil e no mundo.

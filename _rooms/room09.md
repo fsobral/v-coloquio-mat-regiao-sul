@@ -1,4 +1,3 @@
 ---
-hide: false
-name: Meet Números
+{hide: false, name: Meet Números}
 ---

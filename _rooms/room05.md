@@ -1,4 +1,3 @@
 ---
-hide: false
-name: Meet MC4
+{hide: false, name: Meet MC4}
 ---

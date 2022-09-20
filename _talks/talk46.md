@@ -1,16 +1,12 @@
 ---
-categories:
-- Sessão Temática
-- EDP-LEE
+categories: [Sessão Temática, EDP-LEE]
 links: &id001
-- absolute_url: https://drive.google.com/file/d/1vccDyrXPyEQENi6X_83vAMWYtitj24ve/view?usp=sharing
-  icon: play
-  name: Assistir gravação
+- {absolute_url: 'https://drive.google.com/file/d/1vccDyrXPyEQENi6X_83vAMWYtitj24ve/view?usp=sharing',
+  icon: play, name: Assistir gravação}
 live: *id001
 name: Multiplicity of solutions for a nonlinear boundary value problem in the upper
   half-space
-speakers:
-- Marcelo Furtado (UnB)
+speakers: [Marcelo Furtado (UnB)]
 ---
 
 We obtain multiple solutions for the nonlinear boundary value problem $$ -\Delta u-\dfrac{1}{2}\left(  x\cdot

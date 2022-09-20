@@ -1,4 +1,3 @@
 ---
-hide: false
-name: Meet EDP-DSD
+{hide: false, name: Meet EDP-DSD}
 ---

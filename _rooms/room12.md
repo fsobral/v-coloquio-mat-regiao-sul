@@ -1,4 +1,3 @@
 ---
-hide: false
-name: Meet EDP-LEE
+{hide: false, name: Meet EDP-LEE}
 ---

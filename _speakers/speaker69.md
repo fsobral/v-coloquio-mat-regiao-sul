@@ -1,7 +1,5 @@
 ---
-first_name: ''
-last_name: Rafael Gonzalez (UEM)
-name: Rafael Gonzalez (UEM)
+{first_name: '', last_name: Rafael Gonzalez (UEM), name: Rafael Gonzalez (UEM)}
 
 ---
 

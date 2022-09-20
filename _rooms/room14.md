@@ -1,4 +1,3 @@
 ---
-hide: false
-name: Meet Álgebra
+{hide: false, name: Meet Álgebra}
 ---

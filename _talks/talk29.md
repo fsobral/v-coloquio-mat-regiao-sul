@@ -1,15 +1,12 @@
 ---
-categories:
-- Plenária
+categories: [Plenária]
 links: &id001
-- absolute_url: https://zoom.us/rec/share/6OtG-t8iowytL2CQ1BNPQfLuCKFeOuUeu2jqInM0LHpCZltrs-udT3uPDTJagNpH.PobxnL3F5t-cwvZC?startTime=1659529481000
-  icon: play
-  name: Assistir gravação
+- {absolute_url: 'https://zoom.us/rec/share/6OtG-t8iowytL2CQ1BNPQfLuCKFeOuUeu2jqInM0LHpCZltrs-udT3uPDTJagNpH.PobxnL3F5t-cwvZC?startTime=1659529481000',
+  icon: play, name: Assistir gravação}
 live: *id001
 name: 'Mulheres na Matemática: um projeto para dar visibilidade ao trabalho acadêmico-científico
   de matemáticas'
-speakers:
-- Cecília de Souza Fernandes (UFF)
+speakers: [Cecília de Souza Fernandes (UFF)]
 ---
 
 A história da Matemática é um conteúdo importante não só para professores de Matemática de todos os níveis como também para os alunos, principalmente os alunos do ensino fundamental. Nesse sentido, segundo a M.A.A (Mathematical Association of America), o conhecimento da história da Matemática mostra aos alunos que ela é uma conquista humana, geralmente desenvolvida de forma intuitiva e experimental a partir da necessidade de se resolver problemas nas mais diversas áreas do saber. Contudo, quando se apresenta a história da Matemática aos alunos, ela se apresenta totalmente masculinizada, uma vez que, infelizmente, matemáticas e suas contribuições não são mencionadas. Talvez, esse seja um dos principais fatores de meninas se sentirem desestimuladas a seguir a carreira matemática: a falta de modelos para se identificar.

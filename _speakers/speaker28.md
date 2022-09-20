@@ -1,7 +1,6 @@
 ---
-first_name: ''
-last_name: Emerson Tortoloa (UTFPR-Toledo)
-name: Emerson Tortoloa (UTFPR-Toledo)
+{first_name: '', last_name: Emerson Tortoloa (UTFPR-Toledo), name: Emerson Tortoloa
+    (UTFPR-Toledo)}
 
 ---
 

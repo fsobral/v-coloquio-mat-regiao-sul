@@ -1,4 +1,3 @@
 ---
-hide: false
-name: Meet Singularidades
+{hide: false, name: Meet Singularidades}
 ---

@@ -1,4 +1,3 @@
 ---
-hide: false
-name: Meet Otimização
+{hide: false, name: Meet Otimização}
 ---

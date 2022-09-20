@@ -1,4 +1,3 @@
 ---
-hide: false
-name: Meet Códigos
+{hide: false, name: Meet Códigos}
 ---

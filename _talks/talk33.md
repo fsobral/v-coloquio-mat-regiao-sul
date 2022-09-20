@@ -1,16 +1,12 @@
 ---
-categories:
-- Minicurso
+categories: [Minicurso]
 links: &id001
-- absolute_url: https://drive.google.com/file/d/1Z5y3LOckVqpkYUZEjHwWgMyidie4glxA/view?usp=sharing
-  icon: play
-  name: Assistir gravação
+- {absolute_url: 'https://drive.google.com/file/d/1Z5y3LOckVqpkYUZEjHwWgMyidie4glxA/view?usp=sharing',
+  icon: play, name: Assistir gravação}
 live: *id001
 name: Tópicos de Álgebra Homológica e aspectos computacionais (2/3)
-speakers:
-- Thiago Henrique de Freitas (UTFPR - Guarapuava)
-- Victor Hugo Jorge Pérez (ICMC - USP)
-- Aldício Miranda (UFU)
+speakers: [Thiago Henrique de Freitas (UTFPR - Guarapuava), Victor Hugo Jorge Pérez
+    (ICMC - USP), Aldício Miranda (UFU)]
 ---
 
 Neste minicurso abordaremos algumas importantes noções da rica teoria de álgebra homológica de módulos sobre anéis comutativos. Em resumo, em um primeiro momento vamos falar brevemente sobre funtores, homologias/cohomologias, resoluções projetivas/injetivas e os funtores Ext e Tor. Na sequência, faremos um panorama geral da pesquisa em desenvolvimento dos principais problemas em aberto em álgebra comutativa que envolvem alguns destes tópicos descritos. Por fim, será realizada uma breve introdução ao software SINGULAR, a fim de se calcular computacionalmente algumas das noções descritas.

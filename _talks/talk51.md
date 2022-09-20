@@ -1,14 +1,11 @@
 ---
-categories:
-- Minicurso
+categories: [Minicurso]
 links: &id001
-- absolute_url: https://drive.google.com/file/d/1UeNum6bIpbeC7WPyy2k8wy96O2CBHJSQ/view?usp=sharing
-  icon: play
-  name: Assistir gravação
+- {absolute_url: 'https://drive.google.com/file/d/1UeNum6bIpbeC7WPyy2k8wy96O2CBHJSQ/view?usp=sharing',
+  icon: play, name: Assistir gravação}
 live: *id001
 name: Uma introdução ao Cálculo Fracionário (2/3)
-speakers:
-- Alessio Fiscella (University of Milan-Bicocca)
+speakers: [Alessio Fiscella (University of Milan-Bicocca)]
 ---
 
 Nos últimos anos, problemas e operadores fracionários foram amplamente estudados na literatura e atraíram a atenção de muitos matemáticos vindos de diferentes áreas de pesquisa. O interesse para este tipo de operadores cresceu mais e mais, graças à estrutura não local de tipo integrodifferential e à vista de várias aplicações em uma ampla gama de contextos. Na verdade, operadores fracionários aparecem em aplicações concretas em muitos campos, como otimização, finanças, transições de fase, materiais estratificados, difusão anômala, luxação de cristais, membranas semipermeáveis, propagação de chama, leis de conservação, mecânica quântica, fluxos quase geostróficos, espalhamento múltiplo, superfícies mínimas e ciência dos materiais. O objetivo deste minicurso é fornecer as ferramentas básicas para enfrentar problemas nãolineares envolvendo o p-Laplaciano fracionário. Para isso, introduziremos várias definições para os operadores e os espaços de Sobolev fracionários, possivelmente analisando as diferenças. Finalmente, veremos algumas aplicações para problemas elípticos variacionais em um ambiente nãolocal.

@@ -1,4 +1,3 @@
 ---
-hide: false
-name: Meet Ensino
+{hide: false, name: Meet Ensino}
 ---
