@@ -98,10 +98,10 @@ def fullpart(fulllist,zoomlist,chtot,minpart=0.6):
 
             print(cert)
 
-fullpart("inscritos.tsv",
-         ["p3.csv", "p4.csv", "p5.csv", "p7.csv",
-          "mr1.csv", "mr2.csv", "mr3.csv"],
-         [70, 70, 70, 70, 100, 100, 100])
+# fullpart("inscritos.tsv",
+#          ["p3.csv", "p4.csv", "p5.csv", "p7.csv",
+#           "mr1.csv", "mr2.csv", "mr3.csv"],
+#          [70, 70, 70, 70, 100, 100, 100])
                 
 def palestras():
 
