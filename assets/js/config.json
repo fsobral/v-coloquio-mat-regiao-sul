@@ -1,0 +1,25 @@
+{
+
+    "live": {
+        "time": {
+            "start": 1659342600,
+            "end": 1659722400
+        },
+
+        "streaming": {
+            "enable": false,
+            "pause": 60,
+            "prepend": 5,
+            "extend": 5
+        },
+
+        "demo": {
+            "enable": false,
+            "duration": 300,
+            "pause": 10
+        }
+    },
+
+    "lang": {
+    }
+}
