@@ -4,6 +4,21 @@ import re
 from unidecode import unidecode
 from datetime import datetime, timedelta
 
+def committee(comlist):
+
+    df = pd.read_csv(comlist)
+
+    for i, row in df.iterrows():
+
+        name = row["nome"]
+        tipo = row["tipo"]
+
+        s = "\\para{{{0:s}}}{{{1:s}}}{{{2:s}}}{{}}{{}}\n".format(
+            name, tipo, "comite")
+
+        print(s)
+
+committee("comites.csv")
 
 def fullpart(fulllist,zoomlist,chtot,minpart=0.6):
 

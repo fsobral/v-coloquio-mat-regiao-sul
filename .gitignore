@@ -14,3 +14,4 @@ scripts/mc*.csv
 scripts/p*.csv
 scripts/mr*.csv
 scripts/inscritos.tsv
+scripts/comites.csv
