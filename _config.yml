@@ -3,7 +3,7 @@ preposition: at
 description: >-
   01 a 05 de agosto de 2022 -- **100% Online** -- Universidade Estadual de Maringá
 baseurl: ""
-url: "https://www.vcoloquiosul.maringa.br"
+url: "https://fsobral.github.io/v-coloquio-mat-regiao-sul/"
 
 theme: jekyll-theme-conference
 
@@ -65,7 +65,7 @@ conference:
     logo:
       name: V Colóquio
       img: 'logo.png'
-      url: 'https://www.vcoloquiosul.maringa.br'
+      url: 'https://fsobral.github.io/v-coloquio-mat-regiao-sul/'
     links:
       - name: Programação
         menu: 
